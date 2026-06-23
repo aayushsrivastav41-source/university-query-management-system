@@ -1,0 +1,1001 @@
+student_id,roll_number,name,branch,year,gender,blood_group,phone,email,address,hostel,cgpa,attendance,scholarship,fee_paid
+1,1IT0001,Anmol Muni,IT,1,Male,O+,4094514759,fitan76@example.org,"H.No. 69, Sant Nagar, Bellary-226036",Hostel B,6.12,66,Yes,No
+2,1CSE0002,Isaac Dhaliwal,CSE,1,Male,B-,+918719460855,kumartanmayi@example.net,"207, Singhal Nagar, Proddatur-824254",Hostel B,7.53,61,Yes,No
+3,4ECE0003,Chandresh Sood,ECE,4,Female,A+,+919528681283,niharika33@example.com,"81/07, Nayar Nagar, Kamarhati 380825",Hostel B,8.49,81,No,Yes
+4,3ECE0004,Chakradev Amble,ECE,3,Male,A-,+916039227845,snayar@example.com,"H.No. 833, Uppal Street, Ongole 447291",Hostel D,5.48,82,No,Yes
+5,4IT0005,Laban Dey,IT,4,Male,AB+,02941343905,qnarayan@example.com,"623, Dara Chowk, Khandwa-819442",Hostel A,7.76,100,No,Yes
+6,1IT0006,Rachita Goda,IT,1,Male,B-,7597834809,tanktejas@example.com,"205, Nadig, Amroha-918817",Hostel C,9.93,74,Yes,No
+7,4ME0007,Widisha Sandal,ME,4,Female,B+,3664863379,ekarajbumb@example.com,"H.No. 38, Pandya Zila, Burhanpur-629833",Hostel C,6.78,77,Yes,Yes
+8,2EE0008,Frado Doshi,EE,2,Male,AB-,03245842525,ncomar@example.com,"H.No. 994, Subramaniam Chowk, Nanded-203934",Hostel D,6.35,100,Yes,No
+9,1CH0009,Atharv Patel,CH,1,Male,A+,+915776768092,kataekani@example.org,"305, Nagar Zila, Kozhikode-752580",Hostel C,7.01,64,Yes,No
+10,4ECE0010,Ria Manda,ECE,4,Female,AB-,+911334724969,yastimutti@example.com,"53/02, Dugar Circle, Giridih 036054",Hostel B,6.32,75,No,No
+11,4EE0011,Leena Dyal,EE,4,Female,B-,5603085789,ramaswamyanirudh@example.com,"85/36, Barman Path, Thane-835977",Hostel B,7.55,65,Yes,Yes
+12,2ECE0012,Gavin Magar,ECE,2,Female,A-,+911081463814,balendra86@example.org,"550, Loyal Circle, Jaipur 125200",Hostel D,6.91,89,No,Yes
+13,1IT0013,Ryan Hans,IT,1,Female,O-,6847915701,ishanigala@example.net,"71/317, Dua Circle, Malda 842029",Hostel A,6.47,70,No,Yes
+14,3IT0014,Pushti Chandran,IT,3,Male,A-,1218275511,gaurangborra@example.net,"16/069, Anne Nagar, Siwan-591025",Hostel C,9.21,92,Yes,Yes
+15,2ME0015,Samarth Oak,ME,2,Male,O-,7262420712,rushil01@example.net,"29/452, Ramakrishnan Zila, Panihati-606901",Hostel D,5.1,83,No,Yes
+16,2CSE0016,Upasna Deo,CSE,2,Male,A-,06019241587,ekanta74@example.net,"H.No. 40, Keer Road, Khora  993251",Hostel D,9.08,94,Yes,Yes
+17,4IT0017,Yashawini Grewal,IT,4,Male,O+,00096435940,murthyzaitra@example.com,"48/43, Wadhwa Zila, Amritsar 270515",Day Scholar,9.36,87,Yes,Yes
+18,3IT0018,Kalpit Kapur,IT,3,Female,O-,00969081127,mitali46@example.org,"010, Dutta Zila, Sambalpur-677720",Hostel D,9.5,88,Yes,Yes
+19,1ECE0019,Viraj Rama,ECE,1,Female,A+,6805445907,devika49@example.org,"00/15, Upadhyay Nagar, Orai 521107",Day Scholar,7.77,97,Yes,Yes
+20,1CSE0020,Maanas Kala,CSE,1,Male,A-,+914941651520,leelanarula@example.net,"15/980, Raghavan Ganj, Khandwa-682194",Hostel A,9.3,64,Yes,No
+21,4IT0021,Kalpit Sastry,IT,4,Male,B+,05080443741,girish60@example.org,"28, Dutt Ganj, Solapur 157046",Day Scholar,7.88,75,No,No
+22,1ECE0022,Qadim Halder,ECE,1,Male,AB+,04005924899,salviwishi@example.org,"53, Cherian Nagar, Kirari Suleman Nagar-403701",Hostel C,7.12,89,Yes,Yes
+23,4CSE0023,Nimrat Dhillon,CSE,4,Female,A-,03566080098,rushilpatel@example.org,"93, Mani Zila, Naihati 994129",Hostel B,5.96,94,No,Yes
+24,2CE0024,Aarnav Chaudhari,CE,2,Female,AB-,07000338282,girishviswanathan@example.net,"H.No. 303, Savant Zila, Jehanabad 273377",Hostel B,9.37,64,No,Yes
+25,1CSE0025,Daksh Suri,CSE,1,Male,B-,07731975371,mallvasatika@example.org,"79/35, Krishna Road, Bellary-151106",Hostel B,7.03,90,Yes,No
+26,2CSE0026,Farhan Bath,CSE,2,Female,A+,+910331271470,bhaktachatresh@example.org,"207, Sama Circle, Panipat 169684",Hostel D,6.33,89,No,No
+27,4IT0027,Sarthak Devan,IT,4,Male,B-,05834706160,champakkade@example.net,"H.No. 164, Murty Nagar, Agra-425001",Hostel C,6.09,63,Yes,No
+28,1CSE0028,Rachana Barad,CSE,1,Female,B+,1696041387,ntrivedi@example.net,"08, Pandey Path, Alwar 658824",Hostel A,9.8,65,Yes,Yes
+29,1EE0029,Ekapad Buch,EE,1,Male,AB+,8396517236,ivarkey@example.com,"H.No. 55, Sagar Chowk, Malda-645778",Hostel A,9.71,96,Yes,Yes
+30,1EE0030,Balhaar Devi,EE,1,Female,O-,09257716175,wahabmurty@example.org,"34/16, Suri Street, Uluberia-147803",Hostel C,6.02,80,Yes,No
+31,2CE0031,Yamini Srivastava,CE,2,Female,AB-,+917100735227,cswamy@example.com,"58, Agrawal Ganj, Bhusawal-237586",Hostel C,9.65,64,Yes,No
+32,1EE0032,Jai Iyengar,EE,1,Male,B-,9087932988,baralwarda@example.com,"897, Sinha, Gandhidham-773141",Day Scholar,6.33,82,Yes,Yes
+33,3ME0033,Mitali Srinivasan,ME,3,Male,AB-,+919173114512,rhanda@example.net,"H.No. 526, Mutti Circle, Sambhal 377784",Day Scholar,8.52,99,Yes,No
+34,1IT0034,Dalaja Menon,IT,1,Male,O+,2227580925,jdalal@example.net,"H.No. 350, Reddy Street, Pimpri-Chinchwad 210345",Hostel A,9.45,95,Yes,No
+35,2ME0035,Qushi Tata,ME,2,Female,B-,+912126532198,tjani@example.com,"58, Mahal Chowk, Bhagalpur 499872",Hostel C,7.53,76,Yes,Yes
+36,4IT0036,Divya Singhal,IT,4,Female,A+,00935375869,viswanathanyagnesh@example.org,"676, Saraf Road, Ranchi-018438",Hostel A,6.67,68,No,Yes
+37,4IT0037,Finn Zacharia,IT,4,Female,A+,8041008606,harrison53@example.org,"H.No. 21, Jha Marg, Jamshedpur 598706",Hostel A,5.38,69,Yes,No
+38,2EE0038,Kiaan Pau,EE,2,Female,B+,+912304952801,dugalrajeshri@example.org,"H.No. 70, Chadha, Chandigarh 944600",Hostel A,6.54,62,No,Yes
+39,2IT0039,Dominic Kaur,IT,2,Male,O-,03361652154,rehaannatarajan@example.com,"99, Thaman Circle, Tumkur 500695",Day Scholar,9.42,86,Yes,Yes
+40,2CH0040,Hiral Gulati,CH,2,Male,AB+,00770517894,jmohanty@example.org,"19, Pillai Road, Kolkata-926593",Hostel A,5.9,81,No,Yes
+41,2ME0041,Abhiram Sahota,ME,2,Male,AB+,+918977135613,sachdevalucky@example.com,"59/096, Agate Circle, Sultan Pur Majra-159038",Hostel A,9.29,74,Yes,No
+42,3ME0042,Inaya Bhatnagar,ME,3,Male,B-,+919017222731,prabhakararjun@example.org,"H.No. 70, Bandi Ganj, Danapur-342207",Hostel A,8.3,85,No,No
+43,1CH0043,Arin Pau,CH,1,Female,O-,+911751836762,mangatreva@example.com,"76, Patla, Thanjavur-785370",Day Scholar,7.0,94,No,Yes
+44,3CSE0044,Rudra Menon,CSE,3,Male,O+,0396748285,nakul98@example.com,"H.No. 045, Nagarajan Path, Korba-296295",Hostel A,5.54,87,No,No
+45,1CE0045,Libni Narula,CE,1,Female,B-,08263690750,xbath@example.com,"02/32, Menon Path, Bhimavaram-533961",Hostel C,5.22,87,Yes,Yes
+46,4ME0046,Leela Dhillon,ME,4,Male,O-,00827954853,anvi52@example.net,"857, Baria Ganj, Vijayawada 629960",Day Scholar,6.57,67,No,No
+47,4IT0047,Udarsh Gola,IT,4,Female,AB+,+914130072784,aissac@example.com,"95, Ahluwalia Path, Kumbakonam-426259",Hostel C,7.77,72,No,No
+48,2IT0048,Ronith Parikh,IT,2,Female,AB+,+912717228644,luppal@example.net,"702, Sangha Circle, Kamarhati 162782",Day Scholar,9.17,79,No,Yes
+49,3CE0049,Sanaya Swaminathan,CE,3,Female,AB-,2692945282,guneet62@example.com,"84/363, Rajagopal, Bhilai-504251",Hostel D,8.38,92,No,Yes
+50,1IT0050,Ishaan Dhar,IT,1,Female,O-,5218356575,waliyashawini@example.net,"H.No. 672, Sarin Nagar, Madurai-964125",Hostel A,9.09,75,No,Yes
+51,2CH0051,Nidra Ganesh,CH,2,Male,A+,2714731311,hemanioak@example.org,"27, Bhakta Marg, Kishanganj 140082",Hostel A,6.22,90,Yes,No
+52,2CE0052,Prisha Roy,CE,2,Female,AB-,+916910719898,wwalia@example.com,"49, Raman Nagar, Haldia 651946",Hostel D,6.22,60,Yes,No
+53,2ECE0053,Anjali Malhotra,ECE,2,Female,A+,03728248757,radhikadora@example.net,"86, Kamdar Ganj, Kozhikode 190156",Day Scholar,6.25,67,No,Yes
+54,4CH0054,Qabil Majumdar,CH,4,Female,AB-,4065930641,roytriveni@example.net,"H.No. 004, Ramesh Marg, Adoni 429822",Day Scholar,9.08,92,No,No
+55,4ECE0055,Turvi Chokshi,ECE,4,Female,O+,8873482318,rdevi@example.net,"21/01, Loyal Path, Delhi-336402",Hostel B,9.2,77,No,Yes
+56,4ME0056,Frederick Bali,ME,4,Male,O+,01587255640,chowdhuryadvaith@example.net,"69/76, Kakar Marg, Katihar 620847",Hostel B,6.36,80,Yes,Yes
+57,2ECE0057,Yamini Bawa,ECE,2,Female,B+,00575371158,adweta44@example.com,"433, Parsa Nagar, Khora -773214",Hostel B,5.32,86,No,No
+58,1CE0058,Chakradhar Vora,CE,1,Male,AB+,+912643932806,iraguha@example.com,"28/27, Sandal Ganj, Chandrapur 010538",Hostel D,9.52,97,Yes,No
+59,1CE0059,Nachiket Dasgupta,CE,1,Female,O+,7646726914,gautamsankaran@example.net,"H.No. 31, Mann Path, Ahmednagar-079794",Hostel D,9.27,86,Yes,No
+60,3ECE0060,Vincent Buch,ECE,3,Female,AB-,+910455014718,kulkarnicharvi@example.org,"24/256, Panchal Ganj, Mysore 657481",Hostel A,6.94,85,Yes,No
+61,1ECE0061,Ranveer Vyas,ECE,1,Female,A+,09375438331,lucky69@example.com,"785, Peri Road, Hyderabad 063822",Hostel A,8.21,68,No,Yes
+62,3CSE0062,Dipta Dutta,CSE,3,Female,O-,7453947374,chandrawilliam@example.org,"77, Golla Nagar, Chandigarh-789497",Hostel B,7.27,81,No,No
+63,4CH0063,Lohit Bali,CH,4,Female,A-,+911689846208,qsaini@example.org,"70, Mani Path, Jalna-552281",Hostel D,5.1,94,Yes,No
+64,1ECE0064,Omisha Choudhry,ECE,1,Male,A+,2851467692,simonbava@example.com,"H.No. 62, Narasimhan Marg, Mau 418464",Hostel B,6.0,61,Yes,Yes
+65,4ECE0065,Nikita Oak,ECE,4,Male,B-,9783506814,unniramanathan@example.net,"H.No. 255, Chahal Circle, Alappuzha-451016",Hostel D,8.5,83,Yes,Yes
+66,2CH0066,Ira Singh,CH,2,Female,A-,01948389737,vihaan44@example.com,"31/775, Mody Road, Ghaziabad 566818",Day Scholar,5.13,79,No,No
+67,2IT0067,Yashica Mani,IT,2,Male,B-,+916212867307,rattianusha@example.org,"81/658, Zacharia Marg, Kolkata 024710",Hostel A,8.49,79,Yes,Yes
+68,4ME0068,Tara Tata,ME,4,Female,A-,+918710044080,vsaxena@example.net,"H.No. 12, Nagi Street, Hubli–Dharwad-766931",Day Scholar,8.24,60,No,No
+69,4CSE0069,Finn Patil,CSE,4,Female,AB-,06896166869,adwetalanka@example.com,"96, Venkatesh Street, Bhavnagar 188675",Hostel B,7.18,93,No,No
+70,4CE0070,Henry Mukherjee,CE,4,Female,O-,1581283093,kotajatin@example.com,"31, Ben Chowk, Muzaffarpur 392743",Hostel B,9.15,65,No,No
+71,4ECE0071,Chatura Sem,ECE,4,Female,O-,2787998619,ypandey@example.org,"03/543, Pal Marg, Pali 176140",Hostel A,7.47,80,Yes,No
+72,3ECE0072,Udant Borah,ECE,3,Female,O-,01398681715,geetikanarasimhan@example.org,"241, Ram Road, Morbi-933756",Hostel C,9.4,77,Yes,Yes
+73,2CSE0073,Gabriel Tata,CSE,2,Female,AB-,02466132391,mangatpatrick@example.net,"64/796, Thaman Nagar, Vijayanagaram-735020",Day Scholar,8.79,90,No,No
+74,1CH0074,Ridhi Sahni,CH,1,Male,O+,00033498796,ibahri@example.net,"H.No. 44, Mangat Ganj, Jalgaon-399955",Hostel B,7.02,75,No,No
+75,3CE0075,Urishilla Vohra,CE,3,Female,O-,07402693837,gavinbhattacharyya@example.net,"H.No. 76, Gulati Ganj, Satna 221428",Hostel C,8.51,77,No,No
+76,1ECE0076,Daniel Anand,ECE,1,Male,O-,06834878845,avi65@example.org,"H.No. 538, Lata Circle, Amroha 181453",Hostel A,8.71,71,Yes,Yes
+77,4IT0077,Xiti Dada,IT,4,Female,O+,4319042048,wyatt00@example.net,"H.No. 46, Chana Circle, Shimla 107487",Hostel A,9.16,78,Yes,No
+78,3ECE0078,Geetika Parikh,ECE,3,Male,B+,+914042619678,jagdish82@example.net,"H.No. 175, Deo Ganj, Ichalkaranji 680118",Hostel C,5.23,63,No,Yes
+79,4IT0079,Gabriel Palla,IT,4,Male,A+,06171958447,fredericknayak@example.com,"H.No. 14, Suri Street, Rohtak-323615",Day Scholar,6.42,90,No,No
+80,1ECE0080,Ishaan Modi,ECE,1,Female,AB-,04902024558,rudramukhopadhyay@example.org,"24/215, Agate, Raurkela Industrial Township-978415",Hostel A,9.11,85,No,Yes
+81,1EE0081,Gaurika Sunder,EE,1,Male,B+,+919278000763,yutika00@example.com,"H.No. 43, Ramaswamy Nagar, Bikaner 814138",Day Scholar,9.75,65,Yes,Yes
+82,4EE0082,Jairaj Sanghvi,EE,4,Male,AB+,05568671130,baralgarima@example.com,"89, Dugal Chowk, Rajkot-654938",Hostel D,9.54,79,No,No
+83,1EE0083,Thomas Mitra,EE,1,Male,B-,05790612092,ryanseshadri@example.org,"H.No. 675, Radhakrishnan Nagar, Jabalpur 723972",Hostel B,6.32,65,Yes,Yes
+84,1ECE0084,Leena Goda,ECE,1,Male,A+,5491403137,siyaarora@example.org,"87/44, Sem Ganj, Jalandhar 658714",Hostel D,7.25,98,No,No
+85,2CSE0085,Ekiya Baral,CSE,2,Female,O+,+917191441164,bsamra@example.org,"H.No. 955, Sehgal Chowk, Bhusawal 564772",Hostel D,5.36,74,No,Yes
+86,1CE0086,Wazir Jaggi,CE,1,Male,B+,03279888549,saanvipandey@example.org,"215, Krishnamurthy, Mumbai 929670",Hostel C,9.13,64,Yes,Yes
+87,3CH0087,Rajeshri Zacharia,CH,3,Female,AB-,+913549630573,jpingle@example.net,"46/11, Krishnamurthy, Asansol-021714",Hostel A,7.34,79,No,No
+88,4EE0088,Hritik Pau,EE,4,Female,A-,+919678492150,ksalvi@example.net,"H.No. 766, Sibal Chowk, Kanpur 935267",Day Scholar,5.2,87,No,No
+89,1CSE0089,Veda Sarraf,CSE,1,Male,A+,+913086526790,barkhadave@example.net,"74, Comar Nagar, Narasaraopet 927822",Hostel C,7.88,71,No,No
+90,2ME0090,Brinda Lata,ME,2,Female,AB-,+919915122358,diya34@example.com,"H.No. 856, Zacharia Street, Nagpur-334827",Hostel A,7.35,86,No,No
+91,1IT0091,Harini Madan,IT,1,Male,O-,+918627963473,doshiwriddhish@example.com,"H.No. 14, Rajagopal Chowk, Dindigul-463517",Hostel D,8.47,78,No,Yes
+92,1CE0092,Vamakshi Mutti,CE,1,Female,O+,3085511027,rajatamodi@example.net,"48/76, Narain, Guntakal-339568",Hostel C,5.58,85,Yes,No
+93,1CE0093,Frederick Khatri,CE,1,Male,O-,7122838542,hanstheodore@example.net,"10/376, Kalita, Bellary-051761",Day Scholar,8.78,100,No,Yes
+94,3ECE0094,Tara Sani,ECE,3,Male,O+,09452419210,banikdalbir@example.com,"47/260, Sandal, Hapur-687572",Hostel D,9.4,91,Yes,Yes
+95,2IT0095,Bhavna Sachar,IT,2,Male,O+,9423988546,bhatnagarwarinder@example.net,"02, Kakar Ganj, Bulandshahr-086081",Day Scholar,5.07,86,Yes,Yes
+96,1CH0096,Leela Mitter,CH,1,Female,A-,3239203341,daksha90@example.net,"H.No. 812, Parsa Road, Bahraich-678611",Hostel B,7.49,78,No,No
+97,4CH0097,Ijaya Choudhary,CH,4,Female,B-,+913819592403,indaliissac@example.net,"H.No. 63, Balay Marg, Jaipur-861517",Hostel D,7.76,84,Yes,Yes
+98,1CH0098,Victor Kakar,CH,1,Female,AB+,+918889100911,jason58@example.org,"H.No. 455, Oak Path, Bhusawal 388467",Hostel C,9.67,92,No,Yes
+99,3ME0099,Mitali Chaudhari,ME,3,Female,B+,+914270109124,raohemal@example.org,"85, Nair Chowk, Muzaffarnagar 068504",Hostel D,7.69,82,No,No
+100,3CE0100,Triveni Agrawal,CE,3,Male,B-,3249936941,madhavi30@example.org,"H.No. 13, Arora Chowk, Imphal-485982",Day Scholar,6.91,86,Yes,No
+101,4IT0101,Aahana Venkataraman,IT,4,Female,AB+,06376565310,yashvi34@example.net,"27/70, Rao Street, Pondicherry 150558",Hostel B,7.48,62,Yes,No
+102,1CH0102,Chakradev Dhar,CH,1,Female,A-,0901296690,palnaveen@example.org,"55, Magar Chowk, Kota 473498",Day Scholar,9.55,60,Yes,No
+103,2CH0103,Hitesh Parmar,CH,2,Male,AB-,+914674484522,wsharaf@example.net,"H.No. 189, Vala Street, Maheshtala 037151",Hostel C,6.69,85,Yes,No
+104,4CH0104,Pallavi Khanna,CH,4,Female,AB-,8921191129,dsood@example.com,"119, Kapoor Street, Latur 029820",Day Scholar,5.18,64,Yes,No
+105,1ECE0105,Panini Amble,ECE,1,Female,A-,08960253257,janyasaraf@example.org,"89/07, Chowdhury Zila, Khandwa-395266",Hostel A,7.22,79,Yes,Yes
+106,1ME0106,Jonathan Bera,ME,1,Female,O-,04428961716,manan80@example.com,"620, Garde Zila, Karnal-382256",Hostel C,7.15,75,No,Yes
+107,2ECE0107,Yug Srivastava,ECE,2,Male,AB+,07073592957,naveenmohanty@example.org,"H.No. 92, Kar, Ambarnath-421155",Day Scholar,8.42,91,Yes,Yes
+108,3CE0108,Nidhi Deo,CE,3,Female,O+,00775445671,dubeymatthew@example.net,"211, Badami Chowk, Dindigul 498873",Hostel A,9.49,89,No,Yes
+109,4CSE0109,Darpan Pal,CSE,4,Female,O+,+912988262435,mbansal@example.com,"H.No. 658, Muni Ganj, Bulandshahr 926183",Hostel D,8.45,89,No,Yes
+110,4CE0110,Umang Krishna,CE,4,Male,B-,+910333382561,wyatt00@example.org,"H.No. 468, Swaminathan Road, Hyderabad 915559",Hostel D,7.86,96,No,No
+111,4CSE0111,Yasti Kalla,CSE,4,Female,A+,+917572725085,gavin56@example.com,"H.No. 49, Bahl, Farrukhabad 873477",Day Scholar,9.33,63,No,No
+112,2CH0112,Aditya Badal,CH,2,Female,B-,+914757002500,somanudant@example.org,"36, Master, Vijayanagaram-908644",Hostel B,8.1,68,Yes,Yes
+113,4ME0113,Kashish Saini,ME,4,Male,O-,7938751797,ideol@example.com,"48, Jha, Ichalkaranji-609310",Hostel B,5.45,78,No,No
+114,2ECE0114,Ati De,ECE,2,Male,O-,7531073933,mkrish@example.com,"256, Shukla Path, Jaipur 504555",Day Scholar,7.51,77,Yes,No
+115,4CH0115,Harrison Murthy,CH,4,Female,O-,1994359918,vedhika96@example.com,"H.No. 59, Issac, Satna 586078",Hostel A,7.34,64,Yes,Yes
+116,4CH0116,Jagrati Pandit,CH,4,Female,A-,8006405727,ekavir89@example.net,"793, Chana Nagar, Kavali-953829",Hostel D,5.07,94,Yes,No
+117,3ME0117,Dakshesh Andra,ME,3,Female,O-,9345015374,dalaja93@example.com,"H.No. 23, Mitra Zila, Ajmer-651868",Hostel A,8.37,90,Yes,No
+118,2EE0118,Naksh Verma,EE,2,Male,AB-,+915949690408,neelimagala@example.com,"569, Hans Street, Bilaspur 081429",Hostel C,8.25,67,Yes,Yes
+119,3CSE0119,Daniel Rajagopalan,CSE,3,Female,A-,+919234129235,dvala@example.net,"655, Purohit Marg, Aurangabad 592545",Hostel A,6.17,94,Yes,No
+120,3CE0120,Aryan Parmar,CE,3,Female,B+,00904599551,nmangal@example.com,"91, Loke Nagar, Jamalpur 785936",Hostel D,8.27,91,No,No
+121,3CSE0121,Gayathri Jaggi,CSE,3,Male,AB-,7960626146,yashasvi22@example.com,"004, Kapur Path, Srikakulam 539799",Hostel D,9.75,83,Yes,No
+122,3EE0122,Nihal Kannan,EE,3,Male,AB+,07234387633,rachana25@example.com,"H.No. 338, Baral Ganj, Bongaigaon-655823",Hostel C,5.95,67,No,Yes
+123,2IT0123,Faraj Ganesh,IT,2,Male,A+,02887992091,megha91@example.net,"86/94, Shah Street, Bathinda 241929",Hostel C,6.22,68,Yes,Yes
+124,2CH0124,Gautam Vohra,CH,2,Male,B-,00767522084,kondakrishna@example.org,"H.No. 73, Vohra Path, Raebareli 790361",Hostel C,8.87,98,Yes,No
+125,2CH0125,Keya More,CH,2,Male,O+,9784781900,akrishna@example.com,"93/22, Lad Road, Bhimavaram-758758",Hostel B,5.55,61,Yes,Yes
+126,2ME0126,Pranav Bhavsar,ME,2,Female,A+,06147244740,kmishra@example.org,"62, Brahmbhatt Path, Gorakhpur 919782",Hostel B,6.33,68,No,Yes
+127,1IT0127,Simon Deo,IT,1,Female,AB-,04058394368,dnazareth@example.org,"23/13, Mishra Zila, Karimnagar-135743",Hostel C,7.57,66,No,Yes
+128,1EE0128,Ubika Sibal,EE,1,Female,AB-,6939440062,farajbhatia@example.org,"00/172, Doshi Zila, Mumbai 838312",Hostel A,5.3,90,No,No
+129,1IT0129,Vidhi Keer,IT,1,Female,AB-,01515808951,onkar39@example.com,"12/22, Sagar Marg, Tinsukia-030649",Hostel A,9.5,80,Yes,Yes
+130,3ECE0130,Balendra Ghose,ECE,3,Female,AB+,03828057104,bhanumati00@example.org,"33/326, Chandra Road, Bijapur 761664",Day Scholar,7.65,89,No,Yes
+131,1CH0131,Vinaya Chanda,CH,1,Male,AB+,02587145983,obora@example.net,"25/563, Babu Nagar, Gandhidham-113004",Hostel D,9.44,86,No,No
+132,4CE0132,Ranbir Lalla,CE,4,Male,O-,8684551690,waidapal@example.com,"90, Prasad Ganj, South Dumdum 824392",Hostel D,6.56,76,No,Yes
+133,4IT0133,Leela Bora,IT,4,Male,A-,3258279503,leela34@example.net,"99/098, Dass Road, Bareilly-186503",Hostel A,5.47,66,No,Yes
+134,1EE0134,Frederick Kamdar,EE,1,Female,A-,05885029347,nishawagle@example.com,"49/40, Goswami Zila, North Dumdum 981917",Hostel D,6.77,87,Yes,No
+135,3EE0135,Yug Boase,EE,3,Female,A-,+912441986017,chandreshpalla@example.net,"173, Kamdar Marg, Rohtak 424936",Day Scholar,7.54,69,No,Yes
+136,1CH0136,Irya Balan,CH,1,Female,O-,+910834140352,shettyarin@example.com,"647, Yohannan Nagar, Berhampore 292674",Hostel A,8.81,96,Yes,No
+137,1CH0137,Luke Bhatti,CH,1,Female,A+,07216834665,lsarma@example.org,"54/14, Chauhan Circle, Udaipur-433528",Hostel B,6.37,79,No,No
+138,2CSE0138,Pranav Majumdar,CSE,2,Male,AB+,9722793707,elijahkaul@example.net,"27, Bali Nagar, Chinsurah-449207",Hostel A,5.71,100,Yes,Yes
+139,2IT0139,Brijesh Dewan,IT,2,Female,AB+,+911192303912,kashvikari@example.com,"H.No. 821, Minhas Nagar, Pallavaram-563976",Hostel D,6.7,83,No,No
+140,1CH0140,Zilmil Kashyap,CH,1,Male,B+,03779081100,mitratheodore@example.com,"04/133, Banerjee Ganj, Bhiwani-362087",Hostel B,8.77,63,Yes,No
+141,4CE0141,Oviya Chandra,CE,4,Female,AB-,+917308249382,palandhruv@example.org,"H.No. 551, Khare Road, Sikar 669769",Hostel D,6.37,92,Yes,No
+142,1CE0142,Yutika Johal,CE,1,Female,AB-,4375036398,laban67@example.com,"42, Krishna, Bongaigaon 013121",Day Scholar,8.34,62,Yes,No
+143,1EE0143,Shaurya Sama,EE,1,Male,B-,2879135519,samarth24@example.net,"496, Nadkarni Road, Sultan Pur Majra-710338",Hostel C,9.73,68,No,No
+144,1ME0144,Ojasvi Venkataraman,ME,1,Male,AB-,3686342372,kraghavan@example.net,"H.No. 393, Kala Ganj, Nadiad-096080",Hostel D,5.88,84,Yes,No
+145,4CSE0145,Bhavini Halder,CSE,4,Male,AB+,8904838509,njain@example.net,"H.No. 731, Date Circle, Sambalpur-147213",Hostel A,7.3,64,No,No
+146,4EE0146,Vedika Sur,EE,4,Female,O+,03443992281,wablemason@example.net,"73, Radhakrishnan Zila, Munger 579612",Hostel A,7.03,80,Yes,No
+147,3CH0147,Ishwar Natarajan,CH,3,Male,AB+,0506535468,sankaranhitesh@example.net,"19/26, Goyal, Amravati 714595",Hostel A,6.22,97,No,Yes
+148,3CE0148,Orinder Mahal,CE,3,Female,B-,05875477146,trivenithakur@example.com,"79, Taneja Marg, Gandhidham 132211",Hostel C,8.9,64,Yes,Yes
+149,3CH0149,Ayush Balay,CH,3,Female,B+,05082244934,khatribalvan@example.org,"H.No. 46, Bhat Ganj, Nagpur-916395",Hostel B,5.51,76,Yes,Yes
+150,2EE0150,Janani Divan,EE,2,Male,B+,08042768058,guptabhavika@example.net,"32, Sehgal Street, Naihati 702081",Hostel D,7.32,96,No,No
+151,3CH0151,Amaira Mital,CH,3,Male,AB-,08383331663,parekhvarsha@example.com,"51, Chaudhry Ganj, Akola-075254",Hostel A,7.34,100,No,No
+152,1EE0152,Vasatika Johal,EE,1,Female,A-,9487914576,lbhakta@example.org,"H.No. 446, Madan Nagar, Parbhani 701639",Hostel C,7.31,62,Yes,No
+153,3CH0153,Jagrati Tata,CH,3,Male,A-,+911989966710,ranbirsodhi@example.com,"333, Rattan Ganj, Tirupati 815280",Day Scholar,7.97,84,No,Yes
+154,2CE0154,Kabir Oommen,CE,2,Female,AB-,+917737107866,nilimabhatnagar@example.com,"85/87, Srinivasan Street, Ludhiana 341169",Day Scholar,5.75,63,No,Yes
+155,3CH0155,Max Andra,CH,3,Male,B+,+919041118089,ymisra@example.com,"H.No. 828, Tripathi Marg, Yamunanagar 678567",Hostel A,6.24,88,No,Yes
+156,3ME0156,Champak Kapoor,ME,3,Female,AB+,00576807737,ishadube@example.org,"81/01, Goyal Street, Nagpur 369754",Hostel D,8.87,98,Yes,No
+157,3CSE0157,David Anand,CSE,3,Male,AB+,+918106545449,wyattkohli@example.org,"78/72, Sathe Road, Kollam-290515",Hostel C,6.26,98,Yes,No
+158,2CSE0158,Hritik Solanki,CSE,2,Female,O+,+911829366199,yadavtanish@example.com,"H.No. 64, Kumer Zila, Alappuzha-937987",Hostel D,5.64,65,No,No
+159,3IT0159,Irya Sarraf,IT,3,Male,A-,7238979000,widisha32@example.com,"023, Mukhopadhyay Path, Jalna-554804",Hostel D,7.54,61,No,No
+160,2ECE0160,Vrinda Dayal,ECE,2,Female,AB-,7796970947,sundaramkalpit@example.com,"44, Misra Zila, Yamunanagar 074277",Hostel B,6.13,68,Yes,Yes
+161,1ME0161,Gaurangi Bhatia,ME,1,Male,O-,4728060593,adevan@example.net,"83/759, Nayar Ganj, Katni 259009",Day Scholar,5.66,84,Yes,Yes
+162,2ECE0162,Nimrat Magar,ECE,2,Female,A+,9412405210,zsen@example.com,"80/957, Sahota Path, Udaipur 886009",Hostel D,6.82,75,No,No
+163,4CH0163,Faraj Kala,CH,4,Male,B-,+919394494485,osuresh@example.com,"H.No. 70, Yogi Circle, Munger 050676",Hostel C,9.83,90,Yes,No
+164,4IT0164,Balvan Dayal,IT,4,Female,O+,8199737467,vedavarkey@example.com,"H.No. 241, Nayar Road, Vijayanagaram 474713",Hostel D,7.51,86,Yes,Yes
+165,2CH0165,Kai Prakash,CH,2,Female,A+,6440599696,fchaudhry@example.com,"744, Kalla Marg, Rourkela-697014",Hostel D,9.37,95,Yes,Yes
+166,1ME0166,Naksh Wali,ME,1,Male,O+,8631775690,bumbria@example.net,"H.No. 00, Maharaj Ganj, Vijayawada-664707",Hostel D,9.53,69,No,Yes
+167,4ECE0167,Azaan Bajwa,ECE,4,Female,A+,02182962229,gopal64@example.org,"H.No. 09, Bakshi Circle, Mahbubnagar-479100",Hostel D,5.27,92,No,Yes
+168,1CE0168,Veda Raj,CE,1,Female,B-,+914149348033,ranveerdara@example.org,"60/951, Oommen Marg, Ulhasnagar-905928",Hostel A,6.59,66,No,Yes
+169,1ECE0169,Praneel Gade,ECE,1,Female,AB-,+914441385230,hsalvi@example.com,"H.No. 98, Chad Road, Durgapur 590410",Hostel B,8.79,90,No,Yes
+170,1CSE0170,Chakrika Kurian,CSE,1,Female,B-,7279824467,narayananharish@example.net,"79, Kulkarni Ganj, Nanded 257255",Hostel B,7.74,98,No,Yes
+171,3CH0171,Jagdish Dhaliwal,CH,3,Male,O+,+915876353290,saumyaborra@example.com,"H.No. 210, Chowdhury Ganj, Rampur-230295",Hostel A,5.24,86,No,Yes
+172,4CSE0172,Charan Dhar,CSE,4,Male,B-,6978934618,pooja45@example.org,"077, Mukhopadhyay Marg, Chandrapur-398003",Hostel B,6.46,60,No,Yes
+173,4EE0173,Devansh Mallick,EE,4,Male,A-,00108267509,nidhi08@example.net,"80, Rama Path, Panihati-778940",Day Scholar,9.87,64,Yes,No
+174,4CH0174,Priya Prabhu,CH,4,Male,AB+,6302518973,latarohan@example.com,"H.No. 09, Shroff Road, Kharagpur-895076",Hostel C,6.27,61,No,Yes
+175,2ME0175,Anya D’Alia,ME,2,Male,O-,+915981375387,anamikadhingra@example.com,"H.No. 80, Guha Zila, Panvel-292589",Hostel B,5.22,94,No,Yes
+176,4CH0176,Meghana Sanghvi,CH,4,Female,B+,9418387212,okadakia@example.org,"H.No. 738, Viswanathan Chowk, Katihar 667879",Hostel B,5.32,89,Yes,No
+177,1ECE0177,Chanchal Sarna,ECE,1,Male,A+,+914670554809,kabiracharya@example.org,"50, Sarin Road, Howrah 799583",Hostel C,9.67,92,No,No
+178,1ME0178,Krishna Manda,ME,1,Male,O+,9997798682,ranveerrattan@example.net,"55/59, Sawhney Chowk, Katihar 632604",Hostel C,9.31,63,No,No
+179,3CSE0179,Niharika Zacharia,CSE,3,Female,AB+,+910715581446,ctella@example.net,"183, Palla Circle, Kirari Suleman Nagar-450320",Hostel D,9.47,84,No,Yes
+180,4CE0180,Aryan Wagle,CE,4,Female,O+,+914020152186,ekajacomar@example.org,"666, Yogi Zila, Suryapet-820434",Hostel A,8.64,65,No,Yes
+181,3EE0181,Theodore Nagy,EE,3,Female,A-,+918001216050,watikamorar@example.com,"11, Vyas Circle, Etawah-325333",Hostel A,6.64,78,No,No
+182,4EE0182,Jackson Padmanabhan,EE,4,Male,AB-,+914952455784,ekbal77@example.net,"H.No. 660, Nair Marg, Shimoga 332379",Hostel C,7.24,82,No,No
+183,1IT0183,Timothy Mitra,IT,1,Male,AB+,4857379766,om86@example.org,"H.No. 65, Chana Road, Madurai-145079",Hostel C,7.57,70,Yes,Yes
+184,4CH0184,Kiaan Chandran,CH,4,Male,B+,+916128821528,dnori@example.net,"01/02, Bhat Nagar, Karaikudi-809762",Hostel A,6.18,83,No,No
+185,1EE0185,Baljiwan Balasubramanian,EE,1,Male,AB-,07326578711,patlatanveer@example.org,"083, Bhatia Nagar, Howrah-378452",Hostel C,6.86,64,Yes,No
+186,3CE0186,Ranbir Dube,CE,3,Female,B-,+913504714006,mohammeddugar@example.org,"08, Saha Circle, Patna 080717",Hostel A,5.13,71,No,No
+187,1EE0187,Udyati Chatterjee,EE,1,Female,O+,09306205190,karan13@example.net,"H.No. 49, Naik Zila, Ranchi-380750",Hostel D,6.07,99,No,No
+188,1ECE0188,Om Bhatt,ECE,1,Male,A-,02005000516,gangulymanan@example.com,"H.No. 710, Choudhury Ganj, Karimnagar 840618",Hostel D,5.86,88,Yes,No
+189,3IT0189,Devika Dave,IT,3,Male,O+,08011967168,wvig@example.com,"25/995, Venkataraman Road, Solapur-602870",Hostel C,9.26,100,Yes,No
+190,2EE0190,Noah Varkey,EE,2,Male,B-,8241633440,krisha67@example.com,"35, Narula Zila, Madanapalle 832115",Hostel B,6.18,91,Yes,No
+191,3EE0191,Oeshi Shenoy,EE,3,Female,B+,0525898605,pahluwalia@example.com,"H.No. 29, Singh Marg, Barasat-434387",Day Scholar,9.42,64,No,No
+192,4IT0192,Ati Bhagat,IT,4,Female,AB+,5914447529,kaderachit@example.org,"66/481, Venkataraman Ganj, Loni 961818",Day Scholar,5.37,80,Yes,No
+193,3CE0193,Rehaan Narula,CE,3,Male,B+,03851465020,deolkashvi@example.com,"18, Dada Marg, Kollam 548788",Hostel B,7.16,63,Yes,Yes
+194,2ME0194,Anjali Chowdhury,ME,2,Male,O-,01736360196,aaravdyal@example.net,"29/933, Karpe Street, Jehanabad 043055",Hostel B,6.73,93,No,Yes
+195,2ME0195,Raghav Khurana,ME,2,Female,B+,+912741152926,abahri@example.com,"47, Menon Zila, Avadi-141355",Hostel C,8.07,65,Yes,Yes
+196,3ECE0196,Adweta Varkey,ECE,3,Male,A+,09968896413,vtank@example.org,"142, Arya, Gandhinagar-411704",Hostel A,5.23,96,No,Yes
+197,4CH0197,Arin Dugar,CH,4,Male,AB-,05727447799,mkhatri@example.com,"H.No. 207, Taneja Nagar, Jaipur-957442",Day Scholar,6.45,79,No,Yes
+198,4CH0198,Sarthak Dutt,CH,4,Female,AB-,00701728584,leela81@example.com,"783, Sodhi Ganj, Ambattur 253196",Hostel A,8.44,70,No,No
+199,4CE0199,Kavya Bandi,CE,4,Male,O-,9651706074,mishrabimala@example.net,"H.No. 696, Padmanabhan Nagar, Motihari 598052",Day Scholar,5.72,80,No,No
+200,3ECE0200,Raghav Pathak,ECE,3,Male,O-,03200018468,hmohan@example.com,"H.No. 80, Chacko Ganj, Guntur 413105",Hostel B,7.33,77,No,Yes
+201,1ECE0201,Bhavani Pandya,ECE,1,Male,O+,+915969290196,tboase@example.com,"864, Barad Chowk, Sambhal-114888",Hostel D,9.32,86,Yes,Yes
+202,3CH0202,Sanaya Mahal,CH,3,Female,B-,08938643317,kalpit36@example.com,"H.No. 55, Mand Chowk, Berhampur-174573",Hostel B,7.49,92,No,No
+203,4ME0203,Atharv Sura,ME,4,Male,A-,+913330851600,edwindavid@example.org,"20, Rege Zila, Saharsa 176413",Hostel D,7.53,75,Yes,No
+204,1CSE0204,Ucchal Sha,CSE,1,Female,AB-,+916313055077,thomas07@example.com,"99/560, Yadav Chowk, Pudukkottai-836351",Day Scholar,9.41,90,No,Yes
+205,1CH0205,Yauvani Dhawan,CH,1,Female,B+,7104818126,singhaachal@example.org,"H.No. 64, Mittal Street, Bhagalpur 295011",Hostel C,8.64,85,No,Yes
+206,1CE0206,Wahab Choudhry,CE,1,Male,O-,+911500489203,virajdhar@example.org,"H.No. 645, D’Alia, Khammam 804179",Day Scholar,6.44,84,No,No
+207,1CH0207,Umang Wadhwa,CH,1,Male,A-,08433834082,bathsara@example.org,"126, Jha, Sonipat 008159",Hostel D,6.87,81,No,Yes
+208,4ECE0208,Jagvi Subramaniam,ECE,4,Male,A+,+915393891824,goswamivincent@example.net,"H.No. 91, Issac Zila, Ambala-719605",Hostel A,5.69,81,No,No
+209,2ECE0209,Anmol Choudhry,ECE,2,Female,O-,04158670417,omkaar46@example.net,"H.No. 319, Raval Chowk, Morena 432983",Hostel B,6.96,99,No,No
+210,4EE0210,Parth Chad,EE,4,Female,AB-,6852372038,poojavora@example.org,"13, Mitter Circle, Dindigul-752051",Hostel A,6.84,67,No,No
+211,1CH0211,Caleb Sundaram,CH,1,Female,O+,+911927374292,hperi@example.org,"36, Kadakia Chowk, Kakinada-716679",Day Scholar,7.89,63,No,Yes
+212,4EE0212,Omisha Kashyap,EE,4,Male,B-,+915681165924,xnagar@example.org,"009, Roy Path, Amravati 804040",Hostel A,7.86,67,Yes,Yes
+213,3CE0213,Guneet Bobal,CE,3,Female,B+,+910236363694,wadhwatriya@example.org,"H.No. 183, Kothari Marg, Hazaribagh 067041",Hostel D,8.45,86,No,Yes
+214,2IT0214,Adweta Rastogi,IT,2,Male,O-,03508109830,nazarethgabriel@example.com,"52/46, Choudhary, Ghaziabad-152655",Hostel D,7.63,80,Yes,No
+215,3EE0215,Bimala Lal,EE,3,Female,O+,+916797486163,udarshsagar@example.com,"H.No. 505, Wason Nagar, Junagadh 898577",Day Scholar,7.42,75,No,No
+216,3ECE0216,Urmi Vohra,ECE,3,Female,B-,09230849175,kshere@example.net,"H.No. 920, Natt Circle, Amroha 944071",Hostel D,6.59,82,No,No
+217,4CSE0217,Balvan Dugal,CSE,4,Female,O-,+914169839089,madanmekhala@example.org,"H.No. 627, Zachariah Chowk, Jehanabad 302305",Hostel B,6.45,78,Yes,No
+218,3CE0218,Alexander Reddy,CE,3,Female,B-,05586205553,ojasjaggi@example.com,"22/682, Karnik Nagar, Adoni 617112",Hostel B,9.14,77,No,Yes
+219,2CSE0219,Aadhya Bala,CSE,2,Male,A+,8955814224,aryan76@example.com,"H.No. 051, Rattan Road, Hosur 931276",Day Scholar,6.13,74,Yes,Yes
+220,3CE0220,Wakeeta Chawla,CE,3,Female,A-,8844175931,brijesh18@example.net,"48/72, Nadkarni Circle, Khandwa-920012",Hostel B,5.03,95,Yes,No
+221,4IT0221,Arya Bath,IT,4,Female,B-,9198924184,orege@example.com,"63, Kadakia Zila, Etawah 803590",Hostel C,6.61,63,Yes,Yes
+222,1EE0222,Raghav Solanki,EE,1,Male,AB+,+910146035559,vborde@example.com,"80/28, Mammen Nagar, Kadapa 600315",Hostel B,9.67,62,No,No
+223,3ECE0223,Lekha Anand,ECE,3,Male,A+,08279172688,ekapad30@example.org,"712, Aurora Nagar, Etawah 367322",Hostel C,7.84,66,No,No
+224,4CE0224,Bhavika Hayer,CE,4,Male,AB-,02554788508,bhattacharyyavinaya@example.net,"75/052, Sampath Path, Chandigarh 599113",Hostel C,5.96,67,No,Yes
+225,4IT0225,Yauvani Deep,IT,4,Female,B+,8620226475,abha20@example.net,"H.No. 646, Chanda Road, Hubli–Dharwad-948724",Hostel A,8.68,78,Yes,Yes
+226,4EE0226,Yashawini Devi,EE,4,Female,O-,04070857749,yashicarajagopal@example.com,"889, Dass Marg, Vellore-628984",Hostel A,7.0,66,Yes,Yes
+227,3CE0227,Aachal Jani,CE,3,Male,A+,01725142338,harishsane@example.net,"48/24, Bhatnagar Street, Muzaffarnagar 447141",Hostel C,6.92,88,No,No
+228,1ME0228,Dalbir Desai,ME,1,Female,O-,04031934489,vbajaj@example.net,"79/281, Khare, Allahabad-709177",Hostel B,5.31,67,No,No
+229,4ECE0229,Shivansh Konda,ECE,4,Female,A-,7632012696,edoctor@example.net,"508, Prakash Circle, Rampur-679729",Hostel C,6.84,74,Yes,Yes
+230,2CE0230,Madhavi Mitra,CE,2,Female,O-,+914203432974,mohammedsharma@example.org,"H.No. 13, Ahluwalia Chowk, Mirzapur 878419",Hostel D,8.51,90,Yes,Yes
+231,1IT0231,Gaurangi Panchal,IT,1,Female,O-,07424643594,kundanathan@example.net,"84/34, Deshpande Path, Panihati-164732",Hostel A,9.59,67,Yes,Yes
+232,2EE0232,Krish Arora,EE,2,Male,O-,05809031372,gdayal@example.com,"23/768, Kant Marg, Proddatur-425901",Day Scholar,7.21,73,No,Yes
+233,4EE0233,Lipika Chana,EE,4,Male,AB-,6834868078,sbobal@example.net,"635, Basu Ganj, Gandhinagar-106124",Hostel B,7.57,89,Yes,No
+234,3IT0234,Nakul Bhargava,IT,3,Male,AB+,06387070183,oeshisane@example.net,"10/614, Parikh Road, Pallavaram 606658",Hostel C,9.08,73,Yes,Yes
+235,3CE0235,Daniel Kar,CE,3,Male,A+,+917201560301,siddharthprabhakar@example.net,"H.No. 50, Goyal Ganj, Delhi-286625",Hostel A,9.93,90,Yes,No
+236,2CE0236,Abdul Ratta,CE,2,Male,AB+,08911858580,frederickravel@example.org,"43/768, Sehgal Street, Coimbatore 417116",Hostel C,9.96,84,No,No
+237,1CE0237,Ayush Dayal,CE,1,Male,O-,9750880831,vsankaran@example.com,"H.No. 149, Aurora Chowk, Gudivada-855197",Hostel A,5.89,94,No,Yes
+238,2IT0238,Meghana Dubey,IT,2,Male,A+,+917149222688,yasti42@example.org,"31, Vig Zila, Pune-688648",Hostel C,7.32,94,No,No
+239,2CH0239,Aarnav Sankaran,CH,2,Male,AB-,+919893965498,morarkashvi@example.org,"08/69, Kara Path, Kanpur-528400",Hostel C,5.78,72,Yes,Yes
+240,4CH0240,Pushti Srinivas,CH,4,Male,B-,06794485685,krishijaya@example.net,"56, Kalita, Alappuzha 259931",Hostel B,5.34,98,Yes,No
+241,1EE0241,Abhimanyu Chaudhari,EE,1,Male,A+,7621400276,patricksrivastava@example.org,"33/551, Wali Road, Junagadh-557792",Hostel D,7.19,94,Yes,Yes
+242,3ECE0242,Harita Barman,ECE,3,Male,O-,8468233961,rohan18@example.org,"H.No. 45, Borra Chowk, Jamalpur-915315",Day Scholar,7.99,80,Yes,No
+243,2ECE0243,Daksha Sha,ECE,2,Female,O+,01687475462,aishani37@example.com,"965, Shankar Nagar, Dindigul-121883",Hostel C,5.3,97,Yes,No
+244,4EE0244,Kala Bakshi,EE,4,Male,O-,+910045754468,vamakshivyas@example.com,"H.No. 730, Bali Nagar, Rourkela 644892",Hostel D,8.93,80,No,No
+245,3ECE0245,Jasmit Sahni,ECE,3,Female,B+,1867433992,modilaksh@example.com,"22/270, Aurora, Danapur-701986",Day Scholar,7.37,74,No,Yes
+246,4CH0246,Janya Purohit,CH,4,Male,AB+,01665854174,oeshichahal@example.net,"57/542, Palla Zila, Davanagere 601519",Hostel D,7.79,68,No,Yes
+247,2ME0247,Arunima Agarwal,ME,2,Female,A-,+910199525820,bhanumatipillay@example.org,"46, Kurian Chowk, Amritsar-575546",Hostel D,9.24,65,Yes,Yes
+248,4ME0248,Viraj Parmar,ME,4,Male,A-,3325954780,anaydhawan@example.net,"H.No. 53, Cherian Path, Raipur 362414",Hostel B,9.02,97,Yes,No
+249,3ECE0249,Gagan Sen,ECE,3,Female,A+,4297202931,amairachand@example.net,"H.No. 35, Dyal Ganj, Kamarhati 830389",Hostel B,9.69,67,No,Yes
+250,2IT0250,Hemangini Ratta,IT,2,Female,B-,8755734829,charan94@example.com,"95/09, Merchant Nagar, Bihar Sharif-824087",Day Scholar,6.61,78,No,No
+251,3EE0251,Aradhana Sachdeva,EE,3,Female,O+,+911705442061,choudhuryjanaki@example.com,"691, Pant, Ozhukarai 863141",Hostel C,7.56,91,No,Yes
+252,4CH0252,Leela Bora,CH,4,Female,B-,+913642235253,shauryavenkataraman@example.com,"H.No. 18, Kara Path, Suryapet-935965",Hostel C,6.56,62,Yes,Yes
+253,3CSE0253,Idika Agrawal,CSE,3,Female,O+,5948345549,krish33@example.org,"10, Kumer Circle, Satara 287845",Hostel B,5.98,74,No,Yes
+254,3CE0254,Dev Balay,CE,3,Female,AB-,1654498518,gopalparsa@example.org,"32, Handa Marg, Kalyan-Dombivli 949220",Hostel D,7.3,82,Yes,Yes
+255,4IT0255,Saksham Dua,IT,4,Male,A+,+911163035067,groveredhitha@example.com,"43, Badal Marg, Sambhal 730267",Day Scholar,5.17,64,Yes,Yes
+256,2CE0256,Ekapad Bhat,CE,2,Male,A-,00088706630,forumkarnik@example.com,"31, Parsa Ganj, Madhyamgram 500233",Hostel B,5.05,92,No,No
+257,4CSE0257,Triya Shanker,CSE,4,Female,A+,08790978464,davidray@example.org,"H.No. 913, Wable Road, Nizamabad-178320",Hostel A,7.66,86,Yes,Yes
+258,3EE0258,Vasatika Bhandari,EE,3,Female,A+,+912510693597,aparmer@example.org,"27, Thakkar Nagar, Satna 290162",Day Scholar,9.07,87,Yes,Yes
+259,2CSE0259,Gunbir Malhotra,CSE,2,Male,B-,6552385457,charan25@example.com,"68/53, Hora Zila, Hyderabad 810267",Day Scholar,7.63,82,No,No
+260,3CSE0260,Pahal Bhalla,CSE,3,Female,AB-,+911589110927,jshanker@example.net,"H.No. 085, Bumb Ganj, Haldia 058595",Day Scholar,6.22,74,No,Yes
+261,1IT0261,Aarush Mall,IT,1,Male,AB+,+911454950072,ekta06@example.org,"467, Thaker Circle, Nashik-818527",Hostel D,6.89,90,Yes,Yes
+262,2IT0262,Bhavini Nagarajan,IT,2,Male,AB-,+915296731530,svasa@example.com,"76/738, Kala Zila, Mysore-387890",Hostel D,8.22,81,Yes,Yes
+263,2ECE0263,Faqid Iyengar,ECE,2,Female,O+,5335748190,fmunshi@example.org,"080, Sachdeva Ganj, Firozabad-370920",Hostel A,9.62,77,Yes,Yes
+264,3CH0264,Ekiya Merchant,CH,3,Male,B-,+915906250819,dayita66@example.org,"03, Chaudry Road, Siwan-688544",Day Scholar,5.72,85,Yes,No
+265,2ECE0265,Ethan Mani,ECE,2,Female,O-,01202176098,chaudharyniharika@example.com,"H.No. 734, Dhaliwal Nagar, Kulti 707382",Hostel D,8.78,68,Yes,No
+266,1CSE0266,Abha Misra,CSE,1,Female,B-,02531198546,vohragavin@example.net,"H.No. 171, Kothari Marg, Kirari Suleman Nagar 095759",Hostel A,6.7,99,No,No
+267,3CSE0267,Mitesh Vora,CSE,3,Female,AB-,4918883448,nshetty@example.org,"92/82, Ramaswamy Chowk, Karawal Nagar-808633",Hostel B,6.78,84,No,Yes
+268,4IT0268,Chandran Koshy,IT,4,Male,O+,07903356500,modijason@example.com,"H.No. 238, Naidu Road, Navi Mumbai 686335",Hostel B,8.57,65,No,Yes
+269,2CE0269,Adya Ravi,CE,2,Female,O-,4410470381,charvi06@example.org,"00/80, Mohan Chowk, Varanasi-339824",Hostel C,5.53,60,No,No
+270,3ME0270,Yatin Agrawal,ME,3,Male,B+,+911552646440,nchoudhry@example.com,"H.No. 832, Chaudry Nagar, Rajahmundry 433088",Hostel A,5.94,88,No,Yes
+271,1CSE0271,Gabriel Shroff,CSE,1,Female,A-,0790722332,narainzilmil@example.com,"83/460, Mallick Road, Sultan Pur Majra 065454",Day Scholar,7.99,80,No,Yes
+272,4ME0272,Ojas Varghese,ME,4,Female,A-,1793686005,ldin@example.org,"08, Bhakta Nagar, Gurgaon 067476",Day Scholar,9.53,75,Yes,No
+273,2ECE0273,Varenya Ramaswamy,ECE,2,Female,O+,+916103353404,dharreva@example.com,"96/403, Wable Marg, Mau-079285",Hostel C,7.47,64,Yes,No
+274,4ME0274,Barkha Dyal,ME,4,Female,AB-,03366064316,srinivasisaac@example.com,"H.No. 375, D’Alia Circle, Nashik-097626",Hostel A,6.81,75,No,Yes
+275,1CE0275,Abeer Gole,CE,1,Male,O+,02739457316,ramharini@example.org,"744, Keer Chowk, Bareilly-812966",Hostel A,9.74,81,No,No
+276,3CE0276,Meghana Bhatnagar,CE,3,Female,B+,+913654651045,parth20@example.org,"81, Chander Road, Karnal-647244",Hostel C,6.6,72,No,No
+277,4ECE0277,Chasmum Sule,ECE,4,Female,O+,9383529512,tanmayishetty@example.com,"41/522, Dara Nagar, Chittoor-139956",Hostel D,9.84,75,No,No
+278,4ME0278,Tara Parsa,ME,4,Female,A-,+918037370088,shetheshana@example.com,"73, Shanker Street, Vasai-Virar 104072",Day Scholar,6.0,94,Yes,Yes
+279,4IT0279,Bahadurjit Pillay,IT,4,Male,AB-,+916603402041,watika57@example.net,"85/481, Deo Zila, Patiala-864829",Hostel C,9.16,64,No,No
+280,3ECE0280,Yadavi Sami,ECE,3,Male,O+,05586127332,anjali97@example.org,"124, Warrior Marg, Tiruchirappalli 890348",Hostel B,8.58,84,Yes,No
+281,4EE0281,Yagnesh Ray,EE,4,Female,AB+,00819634897,girish46@example.com,"47/950, Chana, Chinsurah-294672",Day Scholar,5.18,83,Yes,Yes
+282,2CH0282,Raksha Sur,CH,2,Female,B+,06803685592,shravyapingle@example.org,"48, Munshi Road, Bhubaneswar-239750",Day Scholar,5.22,85,No,No
+283,1CSE0283,Michael Sidhu,CSE,1,Male,O+,0643748852,william64@example.net,"75/509, Saraf Circle, Bilaspur-693058",Hostel B,7.55,93,Yes,No
+284,4ME0284,Ridhi Talwar,ME,4,Female,B+,+917136834863,onipant@example.net,"H.No. 79, Kala Road, Ahmedabad 500593",Hostel C,9.99,90,Yes,No
+285,1CE0285,Arjun Srinivasan,CE,1,Male,B+,+916886395010,msura@example.net,"716, Saxena Path, Shimoga-546533",Hostel C,6.56,89,Yes,No
+286,4ME0286,Dakshesh Sarin,ME,4,Male,AB-,2933371550,sathvikchaudhary@example.com,"749, Bajaj Road, Siliguri 464968",Hostel D,6.59,79,Yes,Yes
+287,3CSE0287,Darsh Dasgupta,CSE,3,Male,B+,6272251039,urmi24@example.org,"57/19, Sathe Zila, Vijayanagaram-659063",Hostel B,7.58,95,Yes,No
+288,4EE0288,Yashodhara Bumb,EE,4,Female,B-,+917228923282,saumya78@example.org,"82/63, Amble Ganj, Nagaon-456456",Hostel D,8.15,71,No,No
+289,2CSE0289,Elijah Memon,CSE,2,Female,AB+,4695824375,ikala@example.net,"H.No. 486, Agate Circle, Muzaffarpur-091691",Hostel D,5.02,73,Yes,No
+290,1CH0290,Manan Banerjee,CH,1,Male,B+,03832916004,fredericknagi@example.net,"H.No. 978, Rajan Ganj, Tenali-692728",Hostel C,6.63,89,Yes,No
+291,4IT0291,Parth Subramaniam,IT,4,Female,AB+,00680748845,parmerradhika@example.org,"31/14, Hayer Street, Durgapur-517387",Day Scholar,6.96,67,No,No
+292,4CH0292,Vedika Prakash,CH,4,Male,O+,+915413963730,kai89@example.org,"585, Brar Road, Khora -916626",Day Scholar,7.95,68,No,Yes
+293,3ECE0293,Daksha Kapoor,ECE,3,Male,B+,+914887964806,ubali@example.com,"17, Pradhan Path, Ranchi 696155",Hostel C,8.47,92,No,No
+294,2EE0294,Yauvani Sant,EE,2,Female,AB+,0759343108,chamanchad@example.org,"09/39, Apte Ganj, Haldia 134134",Hostel B,7.43,94,Yes,Yes
+295,3CE0295,Hemal Tailor,CE,3,Male,B+,+910704968038,zansi04@example.com,"994, Sachdeva Road, Nangloi Jat-522613",Hostel C,9.21,99,Yes,No
+296,4CSE0296,Ganga Saha,CSE,4,Male,B-,+910748702605,unair@example.com,"96/375, Luthra Ganj, Bidar-524781",Hostel D,9.82,92,No,No
+297,4IT0297,Jacob Cherian,IT,4,Female,AB-,4823189661,nidra31@example.com,"93, Subramaniam Zila, Bangalore-532930",Hostel D,5.84,96,Yes,Yes
+298,1ME0298,Veer Dani,ME,1,Female,B-,1513277779,balaymaanav@example.org,"46, Chopra, Ludhiana 482592",Day Scholar,6.44,89,No,Yes
+299,1EE0299,Oscar Hegde,EE,1,Female,O-,06422277787,lloyal@example.org,"H.No. 714, Salvi Road, Tiruvottiyur 314643",Day Scholar,9.11,62,No,Yes
+300,1CE0300,Veer Bansal,CE,1,Male,O+,1270382405,rnigam@example.org,"89, Chada Chowk, Dhule-731053",Hostel A,7.25,82,Yes,No
+301,1CH0301,Tanish Raju,CH,1,Male,B-,0911878598,mugdha64@example.net,"42, Nair Nagar, Mau 398284",Day Scholar,8.45,99,No,Yes
+302,2EE0302,Bhanumati Basak,EE,2,Male,B-,+910883072272,sudikshaverma@example.com,"H.No. 39, Butala Marg, Noida 259967",Hostel A,7.85,94,No,Yes
+303,3ME0303,Lopa Badami,ME,3,Female,O+,8913698157,falan62@example.com,"H.No. 94, Narasimhan, Muzaffarpur-261792",Day Scholar,9.93,66,Yes,No
+304,3CSE0304,Falak Mukhopadhyay,CSE,3,Male,B+,+917444325397,tdalal@example.net,"83, Chakraborty Ganj, Bhagalpur-171988",Hostel B,5.73,80,Yes,No
+305,2CE0305,Edhitha Dixit,CE,2,Female,AB+,+911728452216,sarmanachiket@example.org,"H.No. 43, Deol Chowk, Bardhaman 417611",Hostel D,7.26,100,Yes,No
+306,3EE0306,Irya Menon,EE,3,Female,AB-,5112144558,noah34@example.org,"H.No. 253, Boase Marg, Hospet 171173",Hostel D,6.64,60,Yes,No
+307,3IT0307,Tara Sandal,IT,3,Male,AB+,2183899132,bhavinihalder@example.net,"417, Prabhakar Path, Nanded 860225",Hostel B,9.84,73,No,No
+308,3ME0308,Rishi Narula,ME,3,Female,B+,+914466953076,triptiagarwal@example.net,"60/06, Korpal Chowk, Shahjahanpur 226385",Day Scholar,9.26,81,Yes,Yes
+309,4CSE0309,William Hegde,CSE,4,Male,A-,+910352316875,kondachandresh@example.org,"H.No. 31, Sule Nagar, Guntur 977553",Hostel B,7.21,60,No,Yes
+310,2IT0310,Nicholas Soni,IT,2,Female,B+,+911652107959,hemanitaneja@example.org,"31/128, Srinivas Path, Berhampur-268732",Hostel C,5.47,83,No,Yes
+311,2ME0311,Nidra Date,ME,2,Male,AB+,05078711801,sarthak01@example.com,"33/52, Salvi Nagar, Arrah 393853",Hostel C,8.63,74,No,Yes
+312,1IT0312,Inaya Bhatia,IT,1,Male,B-,0587407150,reyanshdeshmukh@example.net,"H.No. 27, Varughese, Mathura 410058",Hostel D,5.39,97,Yes,No
+313,1CSE0313,Jai Purohit,CSE,1,Female,A-,06889622976,ekavirgara@example.org,"41, Pingle Circle, Pallavaram 611762",Hostel D,8.47,90,Yes,Yes
+314,1CE0314,Vasana Choudhry,CE,1,Male,A-,3453627885,jacksarma@example.org,"17, Sekhon, Bahraich-902218",Hostel C,6.84,79,Yes,No
+315,2CH0315,Rajata Deshpande,CH,2,Male,A-,+914099354471,advaithsachar@example.net,"057, Dyal Ganj, Khora -502904",Day Scholar,7.82,99,Yes,No
+316,2ME0316,Vedika Rajagopal,ME,2,Male,AB+,09564174597,raagini87@example.com,"12/25, Natt Zila, Jamnagar 070679",Day Scholar,8.43,73,Yes,Yes
+317,1ECE0317,Waida Chahal,ECE,1,Female,O-,1067075383,alkaseth@example.org,"00, Bhatt, Pallavaram-351224",Hostel D,6.57,68,Yes,No
+318,1IT0318,Libni Roy,IT,1,Male,O+,04590336204,mitalisood@example.net,"784, Kumar Street, Bardhaman 819107",Hostel A,9.24,79,Yes,Yes
+319,4IT0319,Arunima Kala,IT,4,Female,A+,7659979815,jonathantripathi@example.com,"H.No. 394, Majumdar Ganj, Jalandhar 013809",Hostel B,7.47,67,Yes,No
+320,1IT0320,Wakeeta Choudhary,IT,1,Male,O-,2240164881,ubikaaurora@example.org,"45/59, Gala, Hajipur 008415",Hostel C,5.66,96,No,No
+321,2EE0321,Peter Patla,EE,2,Female,A-,+911665273036,wsharaf@example.org,"129, Dave Road, Barasat 440314",Hostel A,7.94,60,No,Yes
+322,1CSE0322,Charan Gade,CSE,1,Female,O+,+911855232267,samaksh28@example.net,"H.No. 063, Tata Marg, Bijapur-626962",Day Scholar,8.84,87,No,Yes
+323,2IT0323,Dhruv Ranganathan,IT,2,Female,A-,+919407897991,chakrikadoshi@example.org,"H.No. 289, Taneja Street, Tirunelveli-149430",Hostel C,5.4,73,Yes,No
+324,1CE0324,Meera Karpe,CE,1,Female,AB+,6244643022,mchandran@example.net,"H.No. 55, Chauhan Road, Pune-251831",Hostel B,5.29,65,No,Yes
+325,1CE0325,Aryan Shah,CE,1,Female,B+,+910203434358,tanvi02@example.com,"H.No. 48, Krishnamurthy Circle, Eluru-871382",Hostel A,5.06,68,Yes,Yes
+326,3CE0326,Zaid Modi,CE,3,Female,B+,2763955937,amaira13@example.org,"52/277, Bhagat, Sonipat 284343",Hostel C,5.63,77,Yes,Yes
+327,4ME0327,Oliver Ganesh,ME,4,Female,A-,08229014508,chawlasai@example.com,"86/199, Parmer Street, Amaravati 069828",Hostel C,8.56,96,Yes,No
+328,3CE0328,Hemal Vaidya,CE,3,Male,AB-,5552956925,ukeer@example.net,"H.No. 47, Kapoor Chowk, Gorakhpur 250708",Day Scholar,5.83,70,No,Yes
+329,1EE0329,Daksha Saini,EE,1,Male,A+,+916285554089,anya85@example.net,"839, Aurora Road, Mangalore-200051",Hostel A,9.29,60,Yes,Yes
+330,3CE0330,Aarna Doshi,CE,3,Female,B+,09410674595,kkadakia@example.org,"H.No. 318, Mital Path, Hazaribagh-561072",Hostel B,9.66,62,No,Yes
+331,2ME0331,Ikbal Kaul,ME,2,Female,O-,1032179341,dgulati@example.net,"55/614, Bhalla Chowk, Jamnagar 410784",Hostel C,9.13,96,No,Yes
+332,1EE0332,Rachana Issac,EE,1,Male,B-,07840989799,narangfalak@example.com,"H.No. 59, Nagy, Nizamabad 441402",Day Scholar,9.91,85,Yes,No
+333,3CH0333,Balvan Tailor,CH,3,Female,O-,+912887992410,yverma@example.net,"H.No. 66, Gala Ganj, Aurangabad 177554",Hostel A,7.77,60,No,Yes
+334,3ME0334,Kevin Sandhu,ME,3,Male,AB-,+919806036373,osha76@example.net,"43/59, Dewan Nagar, Gandhinagar-996926",Hostel C,7.96,91,Yes,Yes
+335,1ECE0335,Vincent Vora,ECE,1,Female,A+,+911987012493,kkothari@example.org,"H.No. 914, Bora Circle, Buxar-055184",Hostel B,7.71,100,Yes,No
+336,4CSE0336,Adweta Kale,CSE,4,Female,A-,03109081574,kashishrajagopalan@example.org,"H.No. 205, Thakkar Marg, Mau 525969",Hostel B,7.65,75,No,No
+337,2CSE0337,Priya Chhabra,CSE,2,Female,A-,08109485328,naveensha@example.com,"38/767, Gupta, Aurangabad 908776",Hostel A,9.61,93,No,No
+338,1CE0338,Noah Radhakrishnan,CE,1,Male,B+,06444174976,bhagataarna@example.net,"H.No. 972, Sibal Marg, Secunderabad-038103",Hostel D,5.37,96,Yes,No
+339,2IT0339,Nitesh Yohannan,IT,2,Male,O+,+912271813232,jackganesh@example.net,"23, Patla Circle, Agartala-343459",Hostel C,9.25,85,No,No
+340,3CE0340,Udarsh Khatri,CE,3,Male,A-,+916251000265,dbutala@example.org,"H.No. 723, Lad Ganj, Karawal Nagar 168310",Hostel B,5.68,97,Yes,Yes
+341,2CSE0341,Yashvi Yogi,CSE,2,Female,AB-,00247407480,chaayakala@example.net,"10, Pal Street, Kamarhati 549344",Hostel C,7.03,94,No,Yes
+342,3CE0342,Zehaan Thaker,CE,3,Female,O+,+917261698122,zehaan41@example.com,"H.No. 058, Singhal Path, Bhopal-817833",Hostel A,5.45,79,Yes,Yes
+343,3CH0343,Ojasvi Nagi,CH,3,Male,A-,06162374062,williamkapur@example.com,"H.No. 45, Sule Road, Mahbubnagar 205696",Hostel B,9.84,85,Yes,No
+344,2ME0344,Indali Palla,ME,2,Male,AB+,7774027204,subramanianurvi@example.net,"H.No. 45, Muni Circle, Tenali 481175",Hostel D,7.78,95,Yes,Yes
+345,1CE0345,Vasudha Doctor,CE,1,Male,A-,05840792566,ubose@example.net,"84/342, Yogi Zila, Suryapet-514154",Hostel A,5.31,74,Yes,Yes
+346,4CH0346,Peter Nazareth,CH,4,Female,A-,+918240800270,yparmer@example.net,"60, Solanki Street, Raichur 159001",Day Scholar,7.93,64,Yes,Yes
+347,4ECE0347,Xiti Borde,ECE,4,Male,A-,02512657236,bavapriya@example.net,"76/822, Cheema Zila, Jalandhar-342069",Hostel C,5.61,89,Yes,Yes
+348,4EE0348,Theodore Oza,EE,4,Female,AB-,1000285790,hritiknarula@example.org,"760, Som, Bhind-989754",Hostel A,6.91,87,Yes,No
+349,2ECE0349,Farhan Som,ECE,2,Female,O+,03632739100,upmatoor@example.net,"40/18, Kibe Ganj, Etawah 483238",Hostel D,9.42,62,Yes,No
+350,4CE0350,Girindra Balay,CE,4,Female,A+,+910166603481,nayakalexander@example.com,"97/00, Baral, Mehsana 837546",Hostel A,6.4,68,No,Yes
+351,2IT0351,Maya Sandhu,IT,2,Male,AB+,04126519560,emutti@example.net,"78/91, Datta, Bhalswa Jahangir Pur-376005",Hostel C,7.4,91,No,No
+352,3CE0352,Pushti Pandey,CE,3,Male,A+,8193146976,kai98@example.com,"55, Batra Path, Bhimavaram 815277",Hostel C,7.99,61,No,Yes
+353,4CH0353,Naveen Batra,CH,4,Female,B-,04629711721,dwali@example.net,"65, Goda Circle, Ulhasnagar 756305",Hostel B,5.5,75,No,Yes
+354,2CH0354,Daksha Kumar,CH,2,Female,O-,4540604695,suleurmi@example.org,"35, Ben Chowk, Bhavnagar 515523",Hostel B,5.88,97,No,No
+355,1EE0355,Krish Madan,EE,1,Female,B+,07501883899,samatanveer@example.net,"H.No. 08, Talwar Circle, Navi Mumbai-718215",Day Scholar,9.74,91,No,Yes
+356,1CE0356,Ekbal Bhat,CE,1,Male,A+,04078500778,ijayaperi@example.org,"675, Sangha, Saharanpur-047190",Hostel B,8.01,61,No,Yes
+357,2ME0357,Vidhi Subramanian,ME,2,Male,O-,+915813905002,harita29@example.com,"09/98, Mangal, Bilaspur-362422",Hostel B,9.59,80,Yes,Yes
+358,2ECE0358,Rachana Chopra,ECE,2,Male,O-,07624951629,vdora@example.com,"71/362, Ganesh Chowk, Chapra 727209",Hostel A,6.87,85,Yes,No
+359,3ME0359,Abhimanyu Anne,ME,3,Male,B+,+912893292305,guneetrajan@example.net,"62, Chad Path, North Dumdum-217111",Hostel D,8.96,91,No,Yes
+360,3IT0360,Girik Tailor,IT,3,Male,B+,09143807433,merchantqabil@example.net,"16, Bakshi Road, Giridih 707624",Hostel D,6.53,78,Yes,Yes
+361,1IT0361,Warhi Lata,IT,1,Female,A+,7710985106,aryaradha@example.org,"H.No. 562, Parikh Road, Bongaigaon 579257",Hostel B,8.01,99,Yes,Yes
+362,2CE0362,Lakshit Dayal,CE,2,Female,A-,+915827302513,kalpit01@example.net,"H.No. 18, Magar Path, Danapur 516105",Hostel B,6.73,80,Yes,Yes
+363,3CH0363,Udarsh Singhal,CH,3,Female,A+,8055201074,virajpandya@example.net,"H.No. 846, Setty Marg, Tinsukia 995287",Hostel C,6.05,64,No,No
+364,1CH0364,Varenya Dar,CH,1,Male,A+,+916157321685,haritaramachandran@example.com,"H.No. 96, Das Ganj, Allahabad-057780",Hostel D,7.19,86,Yes,No
+365,4CE0365,Victor Bhatnagar,CE,4,Female,AB+,4814429784,joshuarajagopalan@example.org,"H.No. 441, Bhatia Street, Davanagere-088158",Hostel A,9.14,96,Yes,Yes
+366,1CE0366,Matthew Bhattacharyya,CE,1,Male,O+,06188069673,chaitanyanarayan@example.net,"25/42, Agrawal Zila, Bathinda-196698",Hostel A,6.59,66,Yes,No
+367,4ECE0367,Indrajit Narula,ECE,4,Male,A-,+917722210765,gauri26@example.org,"984, Dhar Marg, Cuttack-064615",Day Scholar,9.71,65,No,No
+368,1IT0368,Brinda Apte,IT,1,Female,B+,4325988815,gkoshy@example.net,"H.No. 034, Edwin, Bokaro-960634",Day Scholar,9.45,70,Yes,Yes
+369,2ME0369,Charan Sarna,ME,2,Male,AB+,+915240209779,tanmayikaran@example.com,"17/570, Zachariah Nagar, Akola 784012",Day Scholar,8.61,94,No,No
+370,2ME0370,Tarak Kala,ME,2,Male,A+,+913392732393,falak80@example.org,"329, Garde Ganj, Nagaon 590018",Hostel D,7.86,91,Yes,Yes
+371,1ME0371,Maanav Lal,ME,1,Female,A-,+914236625167,deokaran@example.net,"922, Dugar Marg, Tadepalligudem-405247",Hostel C,9.12,100,No,Yes
+372,1CSE0372,Naveen Venkataraman,CSE,1,Male,B+,04736200595,ayush15@example.com,"H.No. 51, Tella Chowk, Jaipur-901388",Hostel C,9.89,90,Yes,No
+373,4CH0373,Victor Murthy,CH,4,Female,AB-,+916070513518,anyapadmanabhan@example.net,"H.No. 345, Jayaraman Street, South Dumdum 020920",Hostel C,5.46,94,No,Yes
+374,4ME0374,Christopher Narayan,ME,4,Female,B+,04406015323,matthew65@example.com,"114, Mangat Road, Machilipatnam-361389",Hostel D,5.22,88,No,No
+375,3ECE0375,Udant Chanda,ECE,3,Male,B+,6170152551,ikbal10@example.org,"38/75, Comar Chowk, Alwar-102160",Hostel A,5.43,82,No,Yes
+376,1EE0376,Thomas Dalal,EE,1,Female,AB+,04462833148,duttalaban@example.org,"17/75, Sule Zila, Belgaum-562815",Day Scholar,8.44,90,Yes,No
+377,1ME0377,Logan Walla,ME,1,Female,A+,+912776976590,randhawaeiravati@example.org,"65/352, Taneja Nagar, Jalgaon 886136",Day Scholar,7.86,93,Yes,Yes
+378,4CH0378,Vrishti Sharaf,CH,4,Male,B+,6446167434,qsom@example.com,"H.No. 996, Basak Marg, Bongaigaon-997186",Hostel B,9.04,68,Yes,No
+379,4CSE0379,Chatura Varty,CSE,4,Male,B+,07215366395,ekiyanagi@example.net,"27/196, Savant Circle, Fatehpur 758291",Day Scholar,6.29,64,Yes,No
+380,4EE0380,Hiral Dixit,EE,4,Female,O+,6707234397,oliverchadha@example.org,"H.No. 43, Rau Road, Bhavnagar-998078",Day Scholar,7.29,60,No,Yes
+381,2CE0381,Udyati Mane,CE,2,Male,A-,+918041381393,ekta16@example.com,"829, Lal Street, Nagercoil 625344",Hostel A,7.81,66,No,No
+382,3CE0382,Max Gole,CE,3,Female,AB-,01488347397,nikita87@example.net,"364, Chaudhuri Chowk, Ajmer 859619",Day Scholar,8.04,62,Yes,No
+383,2CE0383,Bhavya Natarajan,CE,2,Female,A+,3177503874,kalitaxalak@example.org,"26/03, Loyal Marg, Kadapa 559315",Hostel D,9.45,81,Yes,Yes
+384,4IT0384,Reyansh Kaul,IT,4,Female,O-,+913735516209,acharyadeepa@example.org,"84/128, Dave Marg, Katihar-136090",Hostel A,6.69,79,No,No
+385,4CH0385,Arjun Kuruvilla,CH,4,Male,B-,09429531817,oni17@example.net,"H.No. 440, Amble Path, Gurgaon 665138",Hostel B,6.5,88,No,No
+386,4IT0386,Nathaniel Dugar,IT,4,Male,B-,+916646149779,luke95@example.net,"87/549, Bhandari Ganj, Jaunpur-285270",Hostel D,6.06,86,No,No
+387,1CH0387,Diya Ahuja,CH,1,Male,A-,+911386232045,chanakya03@example.com,"23/17, Thaman Circle, Kochi-722686",Hostel C,8.55,85,Yes,Yes
+388,2ECE0388,Chatresh Mammen,ECE,2,Male,A+,08006723801,meghanakoshy@example.net,"05, Khurana Marg, Pimpri-Chinchwad 112153",Hostel B,5.17,63,No,Yes
+389,3ME0389,Irya Savant,ME,3,Female,AB+,0155999084,asani@example.com,"08/130, Sarkar Ganj, Amaravati-805678",Hostel A,8.41,75,No,No
+390,4EE0390,Kavya Rege,EE,4,Male,AB-,+916510045336,riyadube@example.org,"87/94, Bhasin Path, Panchkula 514114",Day Scholar,7.76,82,Yes,No
+391,1IT0391,Diya Sastry,IT,1,Female,A+,1177045171,bnaidu@example.net,"H.No. 21, Luthra Path, Bhiwandi-492992",Hostel D,5.25,96,Yes,Yes
+392,2IT0392,Advay Kanda,IT,2,Male,O+,+914596584207,anusha17@example.org,"87/76, Chacko Nagar, Phagwara 322630",Hostel D,7.57,60,No,Yes
+393,2IT0393,Leela Saran,IT,2,Male,B-,4251279070,isridhar@example.org,"H.No. 171, Hegde Nagar, Bijapur-764605",Hostel C,8.04,79,No,No
+394,3CE0394,Nathaniel Sem,CE,3,Female,O+,0152917368,chokshihredhaan@example.net,"18, Din, Malda 144181",Hostel B,7.33,93,No,Yes
+395,3CSE0395,Benjamin Bava,CSE,3,Female,O+,07139901985,viganya@example.com,"95, Khatri Marg, Bhalswa Jahangir Pur 618940",Hostel A,7.41,81,No,No
+396,3CH0396,Hema Saxena,CH,3,Female,O+,+917647738831,chandranseshadri@example.com,"H.No. 57, Barman Circle, Madurai-409859",Hostel B,5.75,75,Yes,No
+397,3IT0397,Shaurya Bhatnagar,IT,3,Male,A+,+912515816218,yochanayogi@example.net,"H.No. 202, Tiwari Path, Ambattur 660932",Hostel D,9.99,76,No,No
+398,1CE0398,Chandani Radhakrishnan,CE,1,Male,O-,+916795334952,vshere@example.com,"17/26, Koshy Chowk, Kulti 873725",Hostel B,8.43,100,No,No
+399,3EE0399,Kai Biswas,EE,3,Male,B+,+917441248260,chasmum33@example.org,"H.No. 718, Chaudhry Ganj, Vadodara-280460",Hostel C,5.49,68,No,Yes
+400,3IT0400,Onkar Shanker,IT,3,Male,B-,2617683903,nehaverma@example.net,"H.No. 120, Master, Mysore 641960",Hostel C,6.12,79,No,No
+401,3ME0401,Jason Vaidya,ME,3,Female,AB-,00145600857,anandchanakya@example.com,"H.No. 514, Keer Path, Bhiwandi-141280",Hostel A,7.35,100,Yes,No
+402,1ECE0402,Dominic Vyas,ECE,1,Female,O+,6971934240,dayitasrinivasan@example.org,"867, Dhillon Circle, Tirupati 550827",Hostel D,5.27,69,Yes,Yes
+403,4ME0403,Abha Agate,ME,4,Female,B+,0627755264,hkeer@example.com,"56/36, Chawla Zila, Ambarnath 198020",Hostel C,9.31,71,Yes,No
+404,2ME0404,Sudiksha Radhakrishnan,ME,2,Female,A+,6002883190,ayushman59@example.net,"H.No. 178, Morar Ganj, Khandwa-739940",Hostel A,7.26,73,Yes,Yes
+405,1CE0405,Brinda Radhakrishnan,CE,1,Male,AB+,+917889044719,garimasur@example.com,"36/092, Bora Nagar, Aurangabad-257351",Hostel D,7.02,90,No,Yes
+406,2CSE0406,Anmol Tank,CSE,2,Female,A+,+919926083701,chanchal85@example.net,"07/845, Narayan Zila, Bhubaneswar-277073",Hostel C,8.78,93,Yes,Yes
+407,1IT0407,Vaishnavi Gandhi,IT,1,Male,B-,5371912321,leenadevi@example.com,"606, Dutta Road, Bettiah 230046",Hostel C,6.56,66,No,No
+408,1ECE0408,Aditya Parsa,ECE,1,Male,O+,+911119897493,beraaachal@example.net,"H.No. 29, Subramanian Chowk, Baranagar-228711",Hostel C,7.28,93,No,No
+409,2IT0409,Panini Srinivas,IT,2,Female,AB-,04673966349,mohantyamol@example.org,"34/56, Nadkarni Road, Nagercoil-747483",Hostel C,8.75,70,No,Yes
+410,2ECE0410,Siddharth Mall,ECE,2,Male,B-,9851011736,nmani@example.org,"57/592, Sahota Road, Dhule 292401",Hostel A,7.95,70,Yes,No
+411,1IT0411,Suhani Kumar,IT,1,Female,O+,06562053988,pgoel@example.org,"92/289, Tandon Zila, Ulhasnagar 634048",Day Scholar,8.12,98,Yes,Yes
+412,1IT0412,Ekani Din,IT,1,Male,A-,08058558244,siyanigam@example.com,"386, Anne Street, Bijapur 231034",Hostel D,7.22,67,No,No
+413,2IT0413,Abhimanyu Sha,IT,2,Male,A+,06161932769,jai34@example.net,"29, Gopal Marg, Amritsar-804022",Hostel C,7.1,66,No,Yes
+414,1CE0414,Lila Kala,CE,1,Male,O+,+914620311615,vsarin@example.com,"679, Nayar Circle, Siliguri 833478",Hostel A,8.92,91,Yes,Yes
+415,3CH0415,Inaya Patla,CH,3,Male,O-,+917398125963,alexander27@example.com,"H.No. 215, Dube, Ahmednagar 324070",Hostel D,6.48,62,No,Yes
+416,4IT0416,Tripti Sibal,IT,4,Female,B-,04472028904,krishnabains@example.org,"H.No. 336, Joshi Path, Tenali-532034",Hostel A,5.06,65,Yes,No
+417,1ECE0417,Libni Pandit,ECE,1,Male,A-,1245005109,hiralmurthy@example.org,"64/44, Ahuja Chowk, Raiganj-260037",Hostel C,8.22,89,No,No
+418,1CE0418,Priya Varty,CE,1,Male,B+,0897589330,nagarajandaksh@example.net,"H.No. 371, Nagy Zila, Jalgaon-694707",Hostel A,9.26,83,No,No
+419,1IT0419,Bhavini Bora,IT,1,Male,A+,3268236507,chatterjeeurishilla@example.org,"63/648, Naik Ganj, Ramagundam 391160",Hostel A,9.26,70,No,No
+420,3CE0420,Tanish Dutta,CE,3,Male,O-,09667453351,fsahni@example.org,"14/272, Chada, Kamarhati 683644",Hostel C,5.91,85,No,No
+421,4ME0421,Anita Dey,ME,4,Female,AB+,05414017764,beradaksha@example.com,"43/708, Sathe Ganj, Lucknow-311288",Hostel B,5.57,63,Yes,Yes
+422,4CE0422,Ladli Dara,CE,4,Female,B+,+910504351343,xavierbalasubramanian@example.net,"37/897, Guha Zila, Loni 833643",Day Scholar,6.9,82,Yes,Yes
+423,4CE0423,Charles Amble,CE,4,Male,AB+,8298447871,naveen46@example.com,"H.No. 24, Mishra Nagar, Madanapalle-147633",Hostel D,5.23,76,No,Yes
+424,2IT0424,Tanay Barman,IT,2,Female,A-,05110662418,lakshbhatti@example.org,"27/280, Kale Chowk, Jaipur-045294",Hostel D,8.31,75,No,No
+425,4IT0425,Hitesh Warrior,IT,4,Male,A+,+919123483276,gautam84@example.net,"911, Shankar Zila, Agra-063404",Hostel A,8.22,70,No,No
+426,2CH0426,Chandani Sahni,CH,2,Male,AB-,6044435274,upmapanchal@example.com,"53/84, Balan Street, Cuttack-498827",Hostel C,6.2,77,Yes,Yes
+427,4EE0427,Harish Kunda,EE,4,Female,B-,+913035483992,boseyashvi@example.com,"33/08, Pal Path, Amaravati 851095",Hostel A,7.3,96,No,Yes
+428,4CH0428,Zayan Basu,CH,4,Female,O-,0394545700,kamala27@example.org,"H.No. 85, Venkataraman Nagar, Panvel-314253",Hostel A,9.9,61,Yes,No
+429,1CE0429,Gaurangi Bera,CE,1,Male,A-,+911540099302,wsubramaniam@example.net,"52/97, Kari Path, Burhanpur-312236",Day Scholar,9.82,100,No,Yes
+430,4IT0430,Indali Bajwa,IT,4,Female,O-,+918438944786,ghosebrijesh@example.net,"89/798, Kothari Road, Ahmednagar-487473",Hostel A,9.08,89,No,No
+431,3IT0431,Teerth Nadig,IT,3,Female,A-,+912843199161,gpall@example.org,"77/10, Viswanathan Ganj, Gwalior-631412",Hostel A,8.8,74,Yes,No
+432,3ME0432,Yachana Bhatt,ME,3,Female,A-,06658389031,uppalrushil@example.com,"76/47, Varughese Marg, Danapur-497939",Hostel A,9.48,91,Yes,No
+433,3CSE0433,Wahab Naik,CSE,3,Male,B-,06365387607,vasatikasehgal@example.net,"02/09, Panchal Nagar, Begusarai 916001",Hostel A,9.65,85,Yes,No
+434,2CH0434,Ijaya Kota,CH,2,Female,A-,6588290339,ishaseth@example.com,"H.No. 56, Mallick Road, Ratlam-908820",Hostel D,5.23,100,Yes,No
+435,2CE0435,Hiral Date,CE,2,Female,A+,06630471143,wbhasin@example.org,"26/70, Puri Path, Tiruppur 529665",Day Scholar,8.68,95,No,No
+436,2EE0436,Unnati Ramesh,EE,2,Male,B+,4520936542,aarinichahal@example.org,"88/898, Sampath Chowk, Eluru-744998",Hostel A,6.94,98,No,No
+437,2CE0437,Edhitha Srinivasan,CE,2,Female,AB+,3691109339,falak70@example.net,"77/97, Prabhakar Chowk, Tadipatri-735444",Hostel C,9.85,88,Yes,Yes
+438,3CE0438,Faras Gera,CE,3,Female,B-,4743579374,kevin14@example.org,"H.No. 24, Narasimhan Zila, Phagwara-325324",Hostel B,6.05,78,No,Yes
+439,2IT0439,Jagat Shankar,IT,2,Female,A-,+912190846261,ctoor@example.com,"12/21, Patla Ganj, Raebareli 574994",Hostel C,7.81,97,No,No
+440,4CH0440,Falan Bawa,CH,4,Male,A-,0819572328,abha89@example.com,"31, Dada, Erode-454154",Hostel A,6.9,63,Yes,Yes
+441,2ME0441,Theodore Krishna,ME,2,Female,O+,1525398150,rnatarajan@example.org,"319, Nayar Chowk, Hajipur 698918",Hostel B,9.2,78,Yes,Yes
+442,4ME0442,Kashvi Yadav,ME,4,Male,B-,+912246382275,simonaurora@example.net,"H.No. 449, Chandran Street, Tiruppur-479802",Day Scholar,6.94,92,No,Yes
+443,4CE0443,Kavya Sahni,CE,4,Female,O-,6741419717,bavazinal@example.net,"H.No. 48, Bahl Street, Karimnagar 255176",Day Scholar,5.27,76,Yes,No
+444,2CH0444,Harinakshi Ratti,CH,2,Female,B-,01798823481,sanya25@example.net,"410, Patil Marg, Moradabad-167752",Hostel B,6.47,71,Yes,Yes
+445,1ECE0445,Vrishti Arya,ECE,1,Female,A+,01629397119,yashica21@example.org,"H.No. 53, Murthy Circle, Chandigarh-924847",Hostel D,6.4,76,Yes,Yes
+446,3EE0446,Gaurang Sachdeva,EE,3,Male,O-,05794799858,chaayahora@example.org,"H.No. 56, Rout Path, Nadiad-510014",Hostel D,8.55,69,Yes,Yes
+447,1ME0447,Guneet Kurian,ME,1,Female,AB-,4429253634,hchoudhry@example.com,"689, Bava Nagar, Jamnagar-348189",Day Scholar,7.75,64,No,Yes
+448,1ECE0448,Theodore Ratta,ECE,1,Male,AB+,02093673449,anamika44@example.com,"98/77, Choudhury Marg, Firozabad-050427",Day Scholar,7.69,65,No,Yes
+449,3ECE0449,Ekanta Hayre,ECE,3,Female,O-,+917780511748,osha08@example.net,"12/17, Chandran Path, Bhopal 708291",Hostel C,6.09,99,No,Yes
+450,3CSE0450,Rushil Virk,CSE,3,Female,B-,+919528228289,cbera@example.org,"17/711, Johal Circle, Bhind-524115",Day Scholar,9.59,75,Yes,No
+451,1CE0451,Chanakya Patil,CE,1,Female,O+,9843802272,anitachanda@example.org,"H.No. 328, Oommen Ganj, Saharanpur 681191",Day Scholar,8.62,61,No,No
+452,1CE0452,Ranveer Thaker,CE,1,Female,B-,+918428382579,devansh09@example.com,"92/803, Nori Nagar, Tadepalligudem-267589",Hostel C,7.57,66,Yes,Yes
+453,1IT0453,Hredhaan Barman,IT,1,Male,B-,01134963646,fariqpathak@example.net,"987, Dass Path, Sri Ganganagar 893276",Hostel D,9.18,73,No,Yes
+454,2IT0454,Urmi Brahmbhatt,IT,2,Male,AB-,0537293598,naksh84@example.net,"H.No. 93, Dara Path, Kolkata-449409",Hostel C,5.19,64,Yes,Yes
+455,3CH0455,Amaira Sharma,CH,3,Male,B-,+910178498533,zpandey@example.com,"751, Bajaj Zila, Vijayawada 397465",Hostel C,7.04,88,No,No
+456,1ME0456,Yoshita Khanna,ME,1,Female,A-,2719686862,sray@example.org,"988, Chandran, Udaipur 334895",Day Scholar,5.03,99,Yes,Yes
+457,1IT0457,Brinda Pai,IT,1,Female,A-,+917665699613,isaini@example.net,"22/506, Dyal Ganj, Panvel 959100",Hostel C,8.93,79,Yes,No
+458,4CH0458,Ijaya Khanna,CH,4,Female,AB+,08826454352,bobalhamsini@example.net,"44/669, Murty Zila, Guntur-970673",Hostel A,7.37,94,Yes,Yes
+459,4IT0459,Fitan Kari,IT,4,Female,B+,02279228251,yloyal@example.com,"98/29, Iyengar Marg, Satara 005864",Hostel C,8.39,83,Yes,Yes
+460,1CSE0460,Lila Wali,CSE,1,Male,AB+,02486389039,gaurika34@example.net,"25, Sekhon Path, Mehsana 301643",Day Scholar,7.74,65,No,Yes
+461,3IT0461,Gaurav Devan,IT,3,Male,AB+,01957228698,usaran@example.com,"33/714, Andra, Ongole-387208",Day Scholar,5.71,71,Yes,No
+462,1ECE0462,Diya Sidhu,ECE,1,Male,A+,+914837874108,aarinideol@example.org,"49/093, Jhaveri Street, Saharsa 236231",Day Scholar,7.31,95,Yes,No
+463,1IT0463,Jacob Kothari,IT,1,Female,A-,07948156656,rghosh@example.com,"H.No. 76, Balasubramanian Zila, Nellore 015149",Hostel B,8.63,91,No,No
+464,2ECE0464,Utkarsh Natt,ECE,2,Male,O+,9726814883,duttasamesh@example.net,"46/03, Deol, Guna 267565",Day Scholar,5.35,72,No,No
+465,3CE0465,Brinda Dasgupta,CE,3,Female,B+,+919629780119,logankadakia@example.com,"H.No. 84, Lala Zila, Gandhinagar 293430",Day Scholar,7.83,80,No,Yes
+466,3CSE0466,Nakul Kale,CSE,3,Male,B-,+915609787197,hbhattacharyya@example.org,"H.No. 739, Sarkar Nagar, Rajpur Sonarpur-396269",Hostel D,6.38,83,Yes,No
+467,4CE0467,Laksh Pradhan,CE,4,Female,O-,+914263339965,pallavi64@example.com,"58/28, Varghese Chowk, Secunderabad-338896",Hostel C,7.43,66,Yes,Yes
+468,3CH0468,Vivaan Bassi,CH,3,Male,B-,+918444305156,dsaha@example.org,"27/62, Sarma Marg, Baranagar 603314",Hostel C,8.67,100,Yes,Yes
+469,1CSE0469,Bakhshi Mann,CSE,1,Female,B-,06495405224,xchaudhary@example.net,"727, Rege, Thoothukudi 287647",Hostel A,7.76,94,No,Yes
+470,4ME0470,Jeet Magar,ME,4,Male,O+,+916241895907,indrajit12@example.net,"77, Kunda Road, Surat-847052",Hostel B,7.32,92,Yes,No
+471,1ME0471,Ekavir Ram,ME,1,Male,B+,+919242509769,duagopal@example.com,"60, Jayaraman Zila, Nashik-213361",Day Scholar,5.7,70,Yes,Yes
+472,4IT0472,Patrick Mandal,IT,4,Female,A+,+915573590613,barmanradha@example.net,"84/129, Tandon Marg, Ulhasnagar 368767",Hostel B,8.81,74,Yes,No
+473,2ME0473,Rushil Das,ME,2,Male,B-,1872624190,shethnathaniel@example.net,"37/60, Chowdhury Street, Kollam 093502",Day Scholar,9.54,83,No,No
+474,1CE0474,Timothy Gandhi,CE,1,Male,O-,06198142041,prabhumahika@example.com,"H.No. 507, Gokhale Marg, Nandyal 557805",Hostel A,8.52,93,No,No
+475,2EE0475,Bhavna Raghavan,EE,2,Female,AB+,+911692263749,zachariahmekhala@example.com,"H.No. 176, Mani Nagar, Mirzapur 805572",Hostel C,7.94,64,No,No
+476,4ECE0476,Rajata Mukhopadhyay,ECE,4,Female,O-,+910145018004,dsur@example.net,"83, Srinivasan Road, Pallavaram-558146",Hostel D,8.96,98,Yes,Yes
+477,2CE0477,Bhavani Chawla,CE,2,Male,A-,07278283669,aprabhakar@example.org,"41/990, Contractor Street, Sambhal 466818",Day Scholar,8.22,73,Yes,Yes
+478,3ECE0478,Gopal Goda,ECE,3,Male,B-,+917178744766,rdevan@example.org,"24, Bal Road, Nashik-270224",Hostel D,9.06,67,No,No
+479,2CE0479,Charvi Morar,CE,2,Male,AB+,6445694289,vinaya27@example.com,"55/00, Chad, Bhilai 526045",Hostel A,6.22,68,Yes,Yes
+480,1IT0480,Vivaan Dash,IT,1,Male,A+,+916958608888,chadanvi@example.com,"29/585, Chaudhari Road, Khammam-519954",Hostel B,6.29,71,No,Yes
+481,3IT0481,Bhavya Talwar,IT,3,Male,B-,8379459211,elijahshenoy@example.org,"44/25, Bhat Path, Kishanganj-874113",Hostel D,8.03,90,No,Yes
+482,4ECE0482,Anthony Pradhan,ECE,4,Male,B+,1218130620,aarinichanda@example.net,"357, Soman, Kolkata-206134",Day Scholar,8.3,76,Yes,No
+483,1CE0483,Zaid Chauhan,CE,1,Male,AB+,+912766284023,sbera@example.com,"63/45, Maharaj Path, Gopalpur 559101",Hostel D,5.66,61,Yes,No
+484,2CH0484,Odika Borah,CH,2,Male,B+,02510265528,nbehl@example.org,"H.No. 79, Rege Marg, Ghaziabad-020685",Hostel D,9.51,98,Yes,Yes
+485,4CSE0485,Frado Korpal,CSE,4,Male,A+,7048807150,lilacomar@example.org,"79, Bhavsar Ganj, Firozabad-684967",Hostel D,7.61,83,Yes,No
+486,4ECE0486,Priya Vyas,ECE,4,Female,O-,9594466165,anirudh55@example.com,"88/53, Mishra Street, Malegaon-542760",Day Scholar,9.02,96,Yes,No
+487,3ECE0487,Yasti Walla,ECE,3,Female,B-,+911443311875,oanand@example.com,"H.No. 150, Brar Zila, Pimpri-Chinchwad 535307",Hostel A,6.42,94,No,No
+488,1ECE0488,Riya Deo,ECE,1,Male,A-,00525736131,lwadhwa@example.net,"H.No. 04, Srinivas Path, Bidar-440465",Day Scholar,5.04,73,No,No
+489,1ME0489,Varenya Tiwari,ME,1,Male,AB+,+914288202155,adweta12@example.org,"54, Ahuja Circle, Vadodara 039772",Day Scholar,6.27,94,No,No
+490,3EE0490,Bimala Hans,EE,3,Female,B-,6238356215,ladanthony@example.com,"32/441, Deol Ganj, Nagercoil-319901",Hostel D,7.76,95,No,Yes
+491,4ME0491,Oni Pandya,ME,4,Female,O+,+912998784778,somneel@example.net,"H.No. 403, Chanda Marg, Kozhikode 605525",Day Scholar,6.72,85,Yes,Yes
+492,2IT0492,Balhaar Saxena,IT,2,Female,B+,0466680197,chaturaparikh@example.org,"50/51, Vohra Zila, Malda 658215",Hostel A,6.07,85,No,Yes
+493,4ECE0493,Girish Kala,ECE,4,Male,A-,7747923583,akeer@example.net,"12/10, Sawhney Chowk, Amritsar-325164",Hostel B,7.36,98,No,Yes
+494,3CSE0494,Lakshmi Sathe,CSE,3,Male,O-,9342166250,warriorpranav@example.net,"84, Vig Zila, Sagar 834283",Hostel A,8.05,84,No,No
+495,1IT0495,Fariq Banerjee,IT,1,Male,AB-,05856724357,rudra73@example.net,"H.No. 36, Ramanathan Zila, Chinsurah 294700",Hostel D,5.05,93,No,Yes
+496,2CSE0496,Warinder Sekhon,CSE,2,Male,A+,06662422610,nagrawal@example.org,"44, Palla Road, Ramagundam-257786",Hostel C,6.2,60,Yes,Yes
+497,4ME0497,Bhavini Contractor,ME,4,Female,AB+,09394140921,hreddy@example.com,"12, Pandya Street, Lucknow 754388",Hostel D,7.93,93,Yes,Yes
+498,3CSE0498,Bishakha Lall,CSE,3,Female,O-,04939325874,vrittikannan@example.org,"H.No. 870, Chad Nagar, Srikakulam 427223",Hostel C,6.13,72,No,No
+499,1EE0499,Hemani Dara,EE,1,Female,B+,00371075905,banjeet15@example.org,"37, Tailor Street, Panchkula 256263",Hostel D,7.53,95,Yes,No
+500,1ME0500,Jai Wable,ME,1,Female,O+,+915165594578,yuvraj47@example.net,"H.No. 46, Tank Marg, Davanagere-436383",Hostel D,9.83,96,No,Yes
+501,3CH0501,Charan Pandit,CH,3,Female,AB-,0183161193,seshadrimaanav@example.net,"H.No. 20, Kaur Marg, Jabalpur-195337",Day Scholar,9.31,90,Yes,No
+502,4CSE0502,Jagat Lata,CSE,4,Male,B-,+912587524642,thomasshroff@example.com,"65, Prasad Path, Secunderabad 872162",Hostel C,7.06,82,Yes,No
+503,3ECE0503,Brinda Bhatt,ECE,3,Male,AB+,0142901807,jonathanoza@example.net,"525, Karpe Zila, Bikaner-681639",Hostel C,5.38,71,No,No
+504,2ME0504,Kevin Garde,ME,2,Female,B+,+916279630732,harrisonmitra@example.com,"33/59, Khosla Marg, Rajahmundry 213157",Hostel B,7.49,72,Yes,Yes
+505,3CH0505,Yug Contractor,CH,3,Male,B-,+912955119086,oviyadevi@example.net,"H.No. 080, Brar Street, Bhubaneswar-508009",Hostel B,9.17,99,No,Yes
+506,1CH0506,Kevin Bains,CH,1,Male,A-,6396745340,butalanihal@example.org,"32/61, Contractor Chowk, Kulti 643618",Hostel D,8.07,94,Yes,No
+507,3ME0507,Farhan Sodhi,ME,3,Female,O+,+919604853300,dalalrushil@example.org,"17, Madan Circle, Nanded-147546",Hostel D,5.91,92,No,No
+508,2ECE0508,Mohammed Ravel,ECE,2,Male,AB+,04988355194,manbirchaudhuri@example.com,"84/02, Soni Path, Chapra 844553",Hostel D,9.7,62,No,No
+509,2CH0509,Dipta Vig,CH,2,Female,A-,6993103650,hpall@example.com,"H.No. 45, Parikh Path, Loni 710267",Day Scholar,7.3,60,Yes,Yes
+510,1CE0510,Nachiket Basu,CE,1,Female,O-,+917765756141,geraeiravati@example.org,"94/548, Edwin, Panvel-489186",Day Scholar,9.31,71,No,Yes
+511,4ME0511,Girik Dube,ME,4,Female,O-,03582039835,deepa39@example.org,"569, Karan Nagar, Pallavaram-869308",Hostel B,7.49,73,No,No
+512,4ME0512,Omisha Varty,ME,4,Female,AB-,+911733228175,ayushmanlad@example.org,"34, Koshy Street, Tiruchirappalli 202116",Hostel B,7.86,96,Yes,Yes
+513,3IT0513,Aarna Desai,IT,3,Male,AB+,+918988197593,daliapahal@example.net,"H.No. 47, Wadhwa Path, Hospet 278721",Hostel D,5.98,69,No,Yes
+514,4ECE0514,Amruta Kadakia,ECE,4,Female,B+,2967173560,mason69@example.net,"97/71, Kaur Street, Berhampur 829278",Day Scholar,7.67,80,No,No
+515,1ME0515,Vedant Dewan,ME,1,Female,A-,+915409371863,yatanrai@example.com,"85, Loyal Chowk, Katihar 261286",Hostel B,5.3,76,No,Yes
+516,3CE0516,Warhi Mallick,CE,3,Female,O-,+911902585909,pbath@example.com,"H.No. 231, Rastogi Ganj, Bidhannagar 518280",Hostel C,7.8,76,No,Yes
+517,1CE0517,Jeremiah Palan,CE,1,Female,B-,+913474174695,zehaannaik@example.org,"17/639, Korpal Zila, Ulhasnagar-377190",Day Scholar,7.88,94,Yes,No
+518,3ME0518,Bhavika Dhillon,ME,3,Female,AB-,08838734545,nakulsetty@example.com,"43, Chandra, Rajahmundry-023802",Hostel A,6.91,78,No,Yes
+519,2CH0519,Balhaar Wason,CH,2,Female,AB+,7234280887,yprabhu@example.net,"H.No. 60, Chandran Nagar, Hajipur 630214",Day Scholar,7.86,64,Yes,Yes
+520,2ME0520,Jason Kari,ME,2,Female,O-,03009373916,hemangini28@example.net,"H.No. 891, Nair Path, Jehanabad-369886",Hostel C,8.55,98,No,No
+521,3CE0521,Madhavi Gara,CE,3,Female,AB+,+919918911491,praneelramaswamy@example.org,"70/448, Kala Street, Kurnool-230730",Hostel B,5.92,61,Yes,Yes
+522,3IT0522,Luke Thaman,IT,3,Male,B-,0276033841,sanayakrish@example.org,"95/482, Mannan Path, Saharsa-192923",Hostel B,6.99,66,Yes,No
+523,1EE0523,Yashasvi Borde,EE,1,Male,AB+,01858558123,kevin28@example.org,"51, Ramachandran, Gudivada 412646",Day Scholar,8.82,65,Yes,No
+524,2EE0524,Urvi Bhatia,EE,2,Male,AB+,02878922280,tnaik@example.org,"551, Sarraf Road, Vadodara 071600",Hostel C,6.15,78,No,Yes
+525,2ECE0525,Pranav Sundaram,ECE,2,Male,A+,07811890931,hredhaan17@example.org,"H.No. 345, Varughese Road, Srinagar-883211",Hostel C,9.3,80,No,No
+526,3CH0526,Michael Ram,CH,3,Female,B+,+912180816116,ekavirmammen@example.org,"90/96, Koshy Marg, Firozabad 513062",Day Scholar,5.89,98,No,No
+527,3EE0527,Rajata Mand,EE,3,Female,AB-,04922586398,abha24@example.com,"H.No. 178, Garg Street, Farrukhabad-171474",Day Scholar,6.14,65,No,No
+528,4ME0528,Garima Mani,ME,4,Female,B+,07962568949,barmanaadi@example.org,"685, Mohanty Chowk, Karnal 825624",Hostel C,5.05,93,Yes,No
+529,4ME0529,Timothy Kale,ME,4,Male,AB-,+917989395162,zansibera@example.net,"H.No. 30, Keer Road, Panvel-818330",Hostel D,6.5,87,No,Yes
+530,1CH0530,Ijaya Pai,CH,1,Female,B-,05786449106,yashasvidewan@example.org,"614, Rastogi Street, Khandwa-418830",Hostel D,9.41,87,No,Yes
+531,4ECE0531,Vrishti Roy,ECE,4,Female,B-,03551678735,xhari@example.net,"23/866, Kaul Path, Bokaro 218843",Hostel C,5.4,100,Yes,No
+532,3ME0532,Naveen Ram,ME,3,Female,B-,04657699731,minhasurishilla@example.org,"06, Kar, Nadiad-604529",Hostel A,5.91,78,Yes,No
+533,4EE0533,Krisha Gokhale,EE,4,Female,AB-,+919023083300,ibhalla@example.com,"H.No. 68, Bhasin Path, Khora -378743",Hostel B,6.6,69,Yes,Yes
+534,1ECE0534,Onkar Ganesh,ECE,1,Female,O+,+916134156240,anmol73@example.com,"96, Shah Circle, Tadepalligudem-715594",Hostel B,8.58,60,Yes,Yes
+535,1ECE0535,Sathvik Cherian,ECE,1,Female,B-,02356955765,mgara@example.org,"08, Pau Circle, Thoothukudi-419419",Hostel C,7.1,91,No,No
+536,1IT0536,Sarthak Shankar,IT,1,Female,A-,+917273388840,veda61@example.com,"98/356, Sehgal Path, Erode 187281",Hostel B,5.28,85,Yes,No
+537,2ECE0537,Pooja Ratta,ECE,2,Female,AB+,1595647484,tanay92@example.org,"13, Sha Zila, Parbhani 190033",Hostel A,5.61,75,No,No
+538,1ECE0538,Yashawini Devan,ECE,1,Male,AB-,01236294980,ishwarvasa@example.com,"H.No. 51, Venkatesh Nagar, Bijapur-782113",Hostel A,7.61,73,No,No
+539,3IT0539,Meera Keer,IT,3,Female,B+,04834952723,singhbarkha@example.net,"H.No. 51, Bora Marg, Sagar-833654",Hostel A,8.72,95,Yes,No
+540,3CE0540,Pallavi Sabharwal,CE,3,Male,O-,7795389258,sai66@example.org,"136, Karnik Chowk, Jammu-289411",Hostel A,9.32,73,Yes,Yes
+541,4IT0541,Yashoda Pillay,IT,4,Female,A+,0510400684,devanfiyaz@example.com,"H.No. 051, Pingle Street, Indore-206354",Hostel B,8.97,97,Yes,No
+542,2CH0542,Panini Deshpande,CH,2,Male,A+,5362296372,chandreshdhawan@example.net,"H.No. 23, Thakur Ganj, Solapur 049409",Day Scholar,8.92,90,Yes,No
+543,1CH0543,Chavvi Anand,CH,1,Male,B+,7147587918,vbalay@example.com,"H.No. 97, Desai Zila, Kishanganj 226371",Hostel D,5.46,99,No,Yes
+544,3CSE0544,Ishita Mody,CSE,3,Male,A-,+913767210725,abasu@example.org,"H.No. 870, Choudhry Nagar, Tiruchirappalli-572045",Hostel B,7.44,80,No,No
+545,2IT0545,Jhalak Mangat,IT,2,Male,AB+,0340145983,kritikavarughese@example.com,"44/874, Lala, Ambarnath 779985",Hostel C,8.62,76,Yes,No
+546,4IT0546,Kala Mohanty,IT,4,Female,AB-,+911765316923,baljiwanpall@example.com,"82, Sem Ganj, Naihati 108980",Hostel B,7.83,94,No,No
+547,4IT0547,Wahab Wagle,IT,4,Female,B+,9624875703,oatwal@example.net,"887, Kade Nagar, Junagadh 633429",Hostel A,7.66,88,No,No
+548,3EE0548,Vrinda Mane,EE,3,Female,A+,06220653313,wridesh60@example.com,"16/051, Ravel Zila, Jalgaon 737846",Day Scholar,6.9,71,Yes,No
+549,2CH0549,Lajita Oak,CH,2,Female,A-,+915035281819,bajwaridhi@example.net,"95/609, Buch Street, Bokaro 823413",Day Scholar,9.1,72,No,Yes
+550,3EE0550,Ekta Manda,EE,3,Female,AB+,06052204338,neel84@example.net,"H.No. 588, Kuruvilla Chowk, Khammam 692292",Hostel C,5.55,93,Yes,Yes
+551,2CH0551,Ishani Tella,CH,2,Male,A+,0712606684,mekhala78@example.net,"H.No. 34, Chander Ganj, Phagwara 212538",Hostel B,5.54,72,Yes,Yes
+552,4EE0552,Yashvi Ganesh,EE,4,Female,O+,4553112189,forum80@example.com,"43/858, Vyas Nagar, Erode 342288",Hostel A,6.83,98,Yes,Yes
+553,4ECE0553,Saksham Saraf,ECE,4,Male,AB-,2513730655,ramviraj@example.org,"210, Virk Marg, Guntur-221700",Hostel A,6.8,86,No,Yes
+554,3CH0554,Yug Pillay,CH,3,Male,A-,+919605678221,mallickchavvi@example.com,"H.No. 74, Bir Circle, Malda 320678",Hostel C,5.39,73,Yes,Yes
+555,2IT0555,Maanas Bajwa,IT,2,Female,B-,+913134238828,tanveerbalan@example.com,"71, Master Street, Rajahmundry-302075",Hostel B,7.63,75,Yes,No
+556,1IT0556,Vanya Grover,IT,1,Female,AB-,00409175949,ladlipandey@example.com,"951, Krishna Marg, Ichalkaranji-466523",Hostel D,9.41,70,Yes,No
+557,3EE0557,Yochana Mallick,EE,3,Male,AB-,08535970947,farhanvarma@example.org,"H.No. 92, Loyal Chowk, Tezpur 135686",Hostel C,9.51,95,No,No
+558,4CE0558,Andrew Raman,CE,4,Female,B-,08297121904,yachanachacko@example.net,"H.No. 902, Shankar Street, Jalgaon-618030",Day Scholar,7.73,84,No,No
+559,4CE0559,Yutika Pal,CE,4,Female,A+,3164443084,dubemegha@example.com,"88, Bassi Nagar, Madhyamgram-028829",Hostel A,9.91,98,Yes,Yes
+560,1ME0560,Ronith Dugal,ME,1,Female,B-,1120924204,zachariahkeya@example.org,"H.No. 092, Rai, Madhyamgram-450130",Hostel B,9.28,61,No,Yes
+561,1CSE0561,Sanaya Saraf,CSE,1,Female,O-,01417885057,dhawanchaaya@example.org,"H.No. 57, Dora Zila, Mau-782445",Hostel B,5.69,83,Yes,Yes
+562,3ME0562,Tristan Doshi,ME,3,Male,AB+,3774691755,gaganbhatti@example.com,"895, Gole Nagar, Medininagar-141074",Day Scholar,9.59,64,No,No
+563,4ECE0563,Charvi Boase,ECE,4,Male,O+,01507650857,georgesethi@example.net,"H.No. 12, Lad Street, Ozhukarai-445780",Hostel A,8.65,96,No,Yes
+564,1CH0564,Upadhriti Nagi,CH,1,Female,O-,+911315129430,finn03@example.org,"H.No. 930, Bala Marg, Bhopal-707084",Hostel D,7.08,67,Yes,Yes
+565,4IT0565,Jagdish Dua,IT,4,Male,O+,4741300151,ckaul@example.org,"H.No. 62, Barman Marg, Malegaon 084166",Day Scholar,5.21,94,Yes,No
+566,2EE0566,Sai Dhingra,EE,2,Male,A+,02703829510,tripti70@example.com,"39/87, Gill Path, Ludhiana 484834",Hostel D,9.86,98,Yes,Yes
+567,3CE0567,Mohammed Patla,CE,3,Female,B+,+910732306972,qchar@example.com,"81/55, Virk Path, Thiruvananthapuram 568829",Hostel B,6.68,90,Yes,No
+568,1ME0568,Janaki Dhawan,ME,1,Female,AB+,09581912671,chandranmunshi@example.net,"26/473, Amble Road, Davanagere 965889",Hostel B,8.81,90,Yes,No
+569,2CE0569,Zilmil Suri,CE,2,Male,B-,06555196836,nagybhanumati@example.org,"H.No. 49, Apte Path, Dhule 398831",Hostel A,6.33,87,No,Yes
+570,4CSE0570,Qabil Narula,CSE,4,Female,O-,5236939639,vyanjana67@example.org,"H.No. 99, Devi Path, Noida 149402",Hostel C,5.95,82,Yes,No
+571,3ECE0571,Manya Loke,ECE,3,Female,B+,+919874343909,ekaja06@example.com,"06/72, Sarma Marg, Jehanabad-454679",Hostel D,5.22,74,Yes,No
+572,1ECE0572,Veda Madan,ECE,1,Male,A+,4469035818,pchana@example.net,"H.No. 539, Tella Ganj, Gandhinagar 270808",Hostel B,9.74,69,No,Yes
+573,1ME0573,Chakradev Jain,ME,1,Female,AB-,5567347962,yuvrajbhagat@example.com,"48/49, Tank Chowk, Mira-Bhayandar-709193",Hostel D,5.11,73,Yes,Yes
+574,3EE0574,Mason Tiwari,EE,3,Female,B+,3200726402,onkar82@example.net,"H.No. 75, Sawhney Marg, Kishanganj-006729",Hostel A,6.88,93,Yes,No
+575,1ECE0575,Maanas Murty,ECE,1,Female,B-,1670299189,arin29@example.com,"640, Dhar, Avadi-541602",Day Scholar,6.36,89,Yes,Yes
+576,3CE0576,Frado Hora,CE,3,Female,A-,02149444298,anmol70@example.com,"22, Chhabra Road, North Dumdum 824026",Hostel A,6.46,84,Yes,No
+577,1EE0577,Rudra Trivedi,EE,1,Female,AB-,0293179766,ijayabhandari@example.com,"59/775, Guha Marg, Ongole-193592",Day Scholar,7.66,71,Yes,No
+578,1EE0578,Joshua Babu,EE,1,Male,B-,02103642287,januja46@example.org,"770, Bajaj Zila, Korba-042469",Day Scholar,6.52,91,No,Yes
+579,3CSE0579,Oeshi Sagar,CSE,3,Female,O-,+916454770124,kannananjali@example.org,"H.No. 997, Mahajan Path, Shimla-703491",Hostel C,6.18,92,No,Yes
+580,3IT0580,Yatan Sabharwal,IT,3,Female,A+,2365715920,waliaabha@example.com,"76/99, Nori Chowk, Ramagundam 414994",Day Scholar,9.75,74,Yes,No
+581,2CE0581,Oni Pandya,CE,2,Male,AB+,7309018301,mbakshi@example.com,"H.No. 11, Sachar Marg, Ratlam 689693",Day Scholar,9.8,99,Yes,No
+582,2ECE0582,Qushi Iyengar,ECE,2,Female,O+,+918936837628,munshifalak@example.org,"H.No. 57, Sathe, Unnao-081492",Day Scholar,6.65,94,Yes,Yes
+583,2IT0583,Bhavini Sachdev,IT,2,Male,B+,09143821494,avihanda@example.net,"33/76, Srinivasan, Ulhasnagar 763561",Hostel C,8.44,93,Yes,No
+584,2CH0584,Chaman Bains,CH,2,Male,O-,00756332333,shroffzashil@example.net,"480, Shetty Marg, Panchkula 461665",Hostel A,7.79,67,Yes,No
+585,2CH0585,Tara Deep,CH,2,Male,O-,+918568844433,avni21@example.org,"94/55, Mukhopadhyay Nagar, Mangalore 344088",Hostel D,9.81,79,No,No
+586,2ECE0586,Tanish Ghosh,ECE,2,Male,B+,06591777764,jhalak36@example.net,"338, Lal, Shahjahanpur-056839",Hostel B,5.13,99,No,Yes
+587,2EE0587,Anita Chopra,EE,2,Male,A+,06725739633,warda55@example.org,"H.No. 608, Bahri Street, Mango-594031",Hostel C,5.4,90,Yes,No
+588,3IT0588,Ethan Mitra,IT,3,Male,AB+,07218708959,vihaanpalla@example.org,"32/790, Chowdhury Chowk, Shimoga 240331",Hostel D,7.37,70,Yes,Yes
+589,4CSE0589,Om Joshi,CSE,4,Male,O+,+910345527023,banerjeeaditya@example.net,"54/33, Tak Marg, Noida 274586",Hostel D,6.11,72,Yes,Yes
+590,4ECE0590,Aahana Konda,ECE,4,Female,O-,4729484656,daksheshbal@example.org,"H.No. 194, Dhar Path, Malegaon 956944",Hostel D,9.44,87,No,Yes
+591,4EE0591,Nidra Tella,EE,4,Female,AB+,07662981902,whayre@example.org,"H.No. 193, Barad Street, Dhule-651924",Day Scholar,9.7,96,Yes,Yes
+592,4CE0592,Kashvi Radhakrishnan,CE,4,Male,B-,+914625842325,waliachandran@example.org,"41/38, Bail Street, Surendranagar Dudhrej 069618",Day Scholar,7.69,62,No,Yes
+593,3ECE0593,Harita Bhandari,ECE,3,Female,AB+,+918906295456,radhikagarg@example.net,"08, Gupta Road, Gopalpur-878561",Hostel C,8.87,78,No,Yes
+594,3CE0594,Ekanta Loyal,CE,3,Male,B+,5675816755,arjun24@example.com,"H.No. 27, Varkey Zila, Dewas-960711",Hostel D,9.15,88,Yes,Yes
+595,2ECE0595,Zashil Naik,ECE,2,Female,AB+,08172722004,kdua@example.org,"59/74, Setty Zila, Agartala 250506",Hostel C,7.25,71,No,Yes
+596,1CE0596,Azad Devi,CE,1,Female,O-,+914165098953,benjaminverma@example.net,"H.No. 847, Goyal Path, Mehsana-623072",Hostel B,8.59,67,Yes,Yes
+597,4IT0597,Maanas Menon,IT,4,Female,A-,+914452511222,narasimhanlila@example.net,"211, Virk Ganj, Mathura 378298",Day Scholar,8.54,92,Yes,No
+598,4EE0598,Osha Rana,EE,4,Male,B+,03016450448,gaurikachakrabarti@example.net,"H.No. 33, Master Marg, Sikar-335396",Hostel C,7.83,69,Yes,Yes
+599,1ECE0599,Umang Natt,ECE,1,Female,O+,4656784401,farhan93@example.org,"H.No. 46, Varkey Zila, Panvel-003141",Hostel C,8.65,88,No,Yes
+600,2CSE0600,Henry Pall,CSE,2,Male,A+,+915713188817,sakshambrahmbhatt@example.com,"08, Doshi Street, Bally 205339",Day Scholar,8.83,60,No,No
+601,4CH0601,Maya Kohli,CH,4,Male,AB-,04571876613,yraju@example.com,"35/625, Gupta Street, Thoothukudi 527267",Hostel B,6.08,90,No,No
+602,1CE0602,Warinder Kothari,CE,1,Male,B-,+914881824179,simonbadami@example.com,"64/31, Radhakrishnan Nagar, Kota-169253",Day Scholar,6.39,100,Yes,Yes
+603,2ECE0603,Maanas Chatterjee,ECE,2,Male,O-,4902388246,omyahayre@example.org,"95/44, Bahri Path, Durgapur 597646",Hostel A,5.73,62,No,No
+604,1CSE0604,Ekta Tiwari,CSE,1,Male,AB+,07247352919,meghana95@example.net,"21/740, Muni Road, Jhansi-970627",Hostel B,5.81,78,Yes,No
+605,3IT0605,Arjun Lala,IT,3,Male,A-,+918019400415,valalajita@example.org,"76/647, Hari Street, South Dumdum 787395",Hostel C,6.61,84,Yes,No
+606,1CH0606,Manbir Desai,CH,1,Female,AB-,5045334962,vyanjana13@example.net,"H.No. 060, Chandran Ganj, New Delhi-519201",Hostel B,5.61,77,No,No
+607,2EE0607,Dhruv Sami,EE,2,Male,A+,8118418494,georgeranganathan@example.net,"97/15, Pandey Nagar, Mau-670302",Hostel A,7.86,100,Yes,No
+608,3IT0608,Irya Choudhary,IT,3,Female,O-,4578576788,malhotracharvi@example.com,"H.No. 020, Chaudry Ganj, Sultan Pur Majra-936274",Hostel C,7.63,99,No,Yes
+609,4EE0609,Lipika Gopal,EE,4,Female,AB-,1513073748,frederick33@example.com,"34, Gokhale Chowk, Narasaraopet 492773",Hostel B,9.42,74,No,Yes
+610,1CSE0610,Pavani Ghosh,CSE,1,Male,AB-,01852066021,wahabcomar@example.com,"47, Vora Ganj, Dehradun 636928",Hostel A,8.69,73,No,No
+611,3CSE0611,Naksh Soni,CSE,3,Female,B-,09217359736,champakkothari@example.net,"78, Barad Street, Panihati 726576",Hostel A,8.2,78,No,Yes
+612,3ME0612,Upasna Kale,ME,3,Female,A+,9757206470,kalitaanika@example.org,"H.No. 87, Choudhary Street, Vijayanagaram-228959",Hostel A,8.43,81,No,Yes
+613,2CH0613,Falan Agarwal,CH,2,Male,O-,02142401400,wsule@example.org,"H.No. 94, Bhatti Nagar, Katihar-839531",Hostel C,9.61,90,No,Yes
+614,2IT0614,Matthew Arora,IT,2,Female,B+,08034318389,zehaan60@example.org,"H.No. 05, Bhalla Ganj, Bahraich 747348",Hostel D,9.46,94,No,No
+615,4CH0615,Omya Deshpande,CH,4,Male,O+,8636042288,wnazareth@example.com,"H.No. 82, Narain Circle, Farrukhabad 406259",Day Scholar,8.62,80,Yes,Yes
+616,3EE0616,Mahika Warrior,EE,3,Female,A-,05206569344,baliaarna@example.org,"H.No. 49, Mukhopadhyay Path, Hindupur 130644",Hostel B,6.4,61,No,No
+617,2IT0617,Caleb Chowdhury,IT,2,Female,B+,05055209630,pwason@example.com,"638, Chadha Circle, Kurnool 126566",Day Scholar,5.58,79,No,Yes
+618,4ME0618,Zehaan Bakshi,ME,4,Male,AB-,07309830192,deepkevin@example.net,"H.No. 282, Prakash Zila, Khandwa-426663",Hostel B,6.86,79,Yes,No
+619,1ECE0619,Janaki Setty,ECE,1,Female,A+,09173212863,rmaharaj@example.org,"06/955, Ray Ganj, Kumbakonam 147101",Hostel B,9.57,88,Yes,No
+620,2EE0620,Umang Bal,EE,2,Male,O-,05232324938,kandamekhala@example.org,"H.No. 049, Panchal Nagar, Dhule-166079",Hostel D,8.66,93,No,No
+621,1ECE0621,Triveni Misra,ECE,1,Male,B-,7041077213,forumbala@example.org,"335, Devan Street, Chandigarh-276275",Hostel A,7.3,93,Yes,Yes
+622,1ME0622,Amaira Grewal,ME,1,Male,O-,1310039414,sarrafazaan@example.net,"H.No. 09, Issac Road, Bijapur-705146",Hostel D,9.45,66,No,Yes
+623,3EE0623,Siddharth Swaminathan,EE,3,Male,O-,+913391843596,wvenkataraman@example.net,"H.No. 21, Patil Path, Panvel 936321",Hostel B,5.96,77,No,No
+624,1IT0624,Faraj Puri,IT,1,Female,B+,08371338261,snath@example.org,"H.No. 18, Saxena Zila, Bahraich-095155",Hostel B,6.37,60,Yes,Yes
+625,3EE0625,Unni Karnik,EE,3,Female,O+,5535542028,murthyaachal@example.net,"88, Sagar Circle, Sultan Pur Majra-169085",Hostel B,9.72,78,Yes,Yes
+626,3CSE0626,Baghyawati Memon,CSE,3,Female,AB-,+914486708194,nsibal@example.net,"77/605, Iyengar Nagar, Bhiwandi 840943",Hostel A,5.65,90,Yes,Yes
+627,1CE0627,Balendra Sodhi,CE,1,Male,AB+,00431334510,bhavaniandra@example.net,"H.No. 018, Bora Ganj, Baranagar 344086",Hostel D,5.89,98,No,No
+628,3ME0628,Kritika Palla,ME,3,Male,A-,00817834728,owenbarad@example.net,"65, Walla Circle, Khandwa 709429",Hostel D,7.84,65,No,Yes
+629,3CE0629,Lucky Divan,CE,3,Female,AB-,+919350102928,neelima71@example.net,"35/207, Kala Road, Nizamabad-540678",Hostel B,9.74,69,No,No
+630,2CE0630,Sudiksha Prabhu,CE,2,Female,O-,+915659851859,labanhalder@example.org,"188, Sami Street, Aizawl-295297",Hostel D,7.44,64,No,Yes
+631,4ME0631,Radhika Anne,ME,4,Female,B+,+918137754122,avni15@example.com,"414, Hora Ganj, Purnia-754573",Hostel C,8.84,98,Yes,Yes
+632,1CE0632,Vivaan Jain,CE,1,Female,A-,08716229847,aryacharita@example.org,"81/064, Mammen Street, Chapra 262413",Hostel C,7.66,85,No,Yes
+633,2EE0633,Advaith Ramanathan,EE,2,Male,AB-,8079004584,manan75@example.org,"H.No. 46, Comar Ganj, Amritsar-985840",Hostel D,5.33,73,No,No
+634,3EE0634,Raagini Pandit,EE,3,Male,B+,+918039570160,ahujaaradhana@example.org,"H.No. 02, Sampath Street, Kottayam-060242",Hostel A,8.7,96,No,Yes
+635,4EE0635,Frederick Buch,EE,4,Female,A-,06399297117,urege@example.org,"11/47, Sabharwal Zila, Ambattur-992538",Hostel D,5.88,85,Yes,Yes
+636,4IT0636,Bhavini Kaur,IT,4,Female,AB-,+918133681384,ekarajkant@example.com,"41/721, Walla Marg, Jorhat 845007",Hostel A,5.45,68,Yes,Yes
+637,2IT0637,Zayyan Saraf,IT,2,Female,O+,+912580723988,mbajaj@example.com,"162, Master Circle, Ghaziabad-445649",Hostel D,8.08,88,Yes,Yes
+638,3IT0638,Krisha Tak,IT,3,Female,O+,+914941830038,qabilsood@example.org,"H.No. 68, Thakur Ganj, Tezpur-284817",Hostel D,8.59,82,Yes,Yes
+639,4EE0639,Wakeeta Kapoor,EE,4,Male,O+,06302744273,ramanathanchakradev@example.org,"H.No. 77, Devi Marg, Pallavaram 446655",Hostel A,6.85,95,Yes,Yes
+640,3IT0640,Vamakshi Mody,IT,3,Male,O+,+913633105049,xavier67@example.com,"46/33, Khanna Road, Nadiad 695486",Hostel A,6.18,97,No,No
+641,4IT0641,Jagrati Kant,IT,4,Female,AB+,5032257515,jeet54@example.com,"H.No. 096, Wagle, Gandhidham-536081",Hostel D,7.73,71,No,Yes
+642,4ECE0642,Zilmil Vora,ECE,4,Female,AB+,1171288269,bbhandari@example.org,"H.No. 679, Dhawan, Dhanbad 279278",Hostel B,6.44,68,Yes,Yes
+643,1CSE0643,Rishi Kara,CSE,1,Male,AB-,+913952803287,prisha50@example.net,"79/350, Dutta Path, Anand 866402",Hostel D,9.87,68,Yes,Yes
+644,4IT0644,Banjeet Sehgal,IT,4,Female,AB+,1385583675,jatin20@example.org,"H.No. 967, Gill Nagar, Kamarhati 733853",Day Scholar,5.9,92,No,No
+645,3CE0645,Tristan Wali,CE,3,Male,B+,+918211113612,ladli48@example.com,"38/41, Cheema Ganj, Bhiwandi-119183",Hostel D,8.02,96,No,Yes
+646,3IT0646,Bakhshi Korpal,IT,3,Female,O-,+912315387222,kandagopal@example.com,"48/665, Dhaliwal Circle, Raipur 161729",Hostel A,9.89,96,No,No
+647,4CSE0647,Vedhika Comar,CSE,4,Male,B+,00839416640,santchakradhar@example.net,"25/002, Ghosh Street, Pali 871447",Day Scholar,9.92,77,No,Yes
+648,1EE0648,Faqid Bajwa,EE,1,Male,AB-,9239173810,pahalsachar@example.org,"01/35, Ray Marg, Rewa-558357",Hostel A,8.42,94,No,Yes
+649,1ME0649,Hema Ram,ME,1,Female,AB-,2249416940,darshgera@example.com,"17/17, Chada Marg, Ulhasnagar-381776",Day Scholar,9.53,96,No,No
+650,3ME0650,Madhavi Joshi,ME,3,Female,B+,4341928588,gtara@example.net,"30, Bhat Ganj, Jodhpur 209981",Hostel A,8.48,98,No,No
+651,4CSE0651,Dev Bhasin,CSE,4,Male,A+,4228135137,sainideepa@example.org,"238, Mitra Circle, Ludhiana-976465",Hostel C,9.04,99,Yes,No
+652,1CE0652,Anjali Kapoor,CE,1,Male,A-,04674377116,qdugar@example.com,"08/21, Sahota, Durg-189692",Hostel C,6.26,99,No,No
+653,3CH0653,Turvi Bhalla,CH,3,Male,A-,+913351056118,azad19@example.org,"755, Mistry Marg, Bhagalpur 810513",Day Scholar,5.87,97,Yes,No
+654,2ME0654,Tanveer Singhal,ME,2,Female,B-,7118223878,ubains@example.net,"93, Shukla Path, Ranchi 034896",Hostel D,5.9,93,Yes,No
+655,2CSE0655,Lekha Borah,CSE,2,Male,AB-,0046614418,omisha97@example.net,"H.No. 554, Sengupta Street, Chinsurah 901146",Hostel D,8.85,75,No,Yes
+656,3ECE0656,Xavier Munshi,ECE,3,Male,O+,8562296106,sahotaoviya@example.net,"34/388, Dey Circle, Kolkata 212251",Hostel A,5.26,89,No,No
+657,4ME0657,Lipika Seshadri,ME,4,Male,AB+,+912663719258,zkala@example.com,"02/014, Ganesan Marg, Pimpri-Chinchwad 449701",Hostel D,7.37,69,No,Yes
+658,4ME0658,Umang Sampath,ME,4,Female,O-,+918135844863,vmody@example.org,"61/985, Kamdar Ganj, Tirunelveli 820945",Day Scholar,8.41,62,Yes,No
+659,4CH0659,Zarna Sachdev,CH,4,Female,O-,8528582005,nisha55@example.net,"05/124, Raju Ganj, Madurai-971284",Hostel C,6.34,66,No,No
+660,2CE0660,Gaurangi Pandit,CE,2,Male,O-,+911508518498,idhar@example.net,"720, Purohit Chowk, Dibrugarh-440566",Hostel B,6.57,60,Yes,Yes
+661,4CSE0661,Bhavini Vohra,CSE,4,Male,A-,8255316359,pavanisalvi@example.com,"10/169, Pillai, Haldia 594820",Hostel D,6.76,78,No,Yes
+662,1CSE0662,Oviya Zacharia,CSE,1,Male,A+,3640370230,jasmitpalla@example.net,"H.No. 33, Wable Street, Karawal Nagar-081753",Day Scholar,8.28,73,Yes,Yes
+663,2CSE0663,Advay Shere,CSE,2,Female,B+,+919605595462,upkaar57@example.net,"76, Bhasin Path, Ramagundam 278419",Hostel A,8.48,76,No,No
+664,1IT0664,Neel Sethi,IT,1,Female,O+,05439198112,hemangkonda@example.org,"64, Subramanian, Thrissur 048781",Hostel D,8.46,80,No,Yes
+665,1CH0665,Naveen Barad,CH,1,Female,A+,08558960408,georgebhavsar@example.net,"26/24, Ghosh, Haldia-111152",Hostel D,6.94,63,No,No
+666,4ECE0666,Gaurika Sanghvi,ECE,4,Male,AB-,05444002865,harinisom@example.net,"H.No. 53, Sarraf Nagar, Raichur-526961",Hostel B,8.05,71,No,Yes
+667,4ECE0667,Krishna Pant,ECE,4,Male,A-,2313958620,otiwari@example.org,"H.No. 090, Munshi, Dharmavaram-134894",Hostel D,8.58,66,Yes,Yes
+668,3CSE0668,Ekani Sandal,CSE,3,Female,A+,08472934150,krishna40@example.net,"H.No. 94, Sane Zila, Jaipur-794055",Hostel D,5.74,100,Yes,Yes
+669,4IT0669,Lakshit Rajagopal,IT,4,Female,B+,09226460456,ishanvi68@example.org,"831, Dave Ganj, Deoghar 923844",Hostel C,9.52,96,Yes,No
+670,4CE0670,Vasatika Rai,CE,4,Female,A-,07937807123,chandani41@example.net,"H.No. 78, Mangal Ganj, Chandigarh 173141",Day Scholar,6.13,84,No,Yes
+671,3EE0671,Jagat Gole,EE,3,Female,O+,8333364247,naveen54@example.net,"778, Dar Path, Kumbakonam 622153",Hostel D,5.28,65,No,No
+672,4CSE0672,Michael Agrawal,CSE,4,Female,B-,03133503468,bimala89@example.com,"046, Mishra, Jamnagar-292234",Hostel B,7.77,84,Yes,No
+673,4IT0673,Harsh Sundaram,IT,4,Male,O-,0403058845,ikshita14@example.com,"86/22, Nath Ganj, Gandhinagar 184767",Hostel D,5.42,100,No,Yes
+674,1ECE0674,Dayita Kakar,ECE,1,Male,A+,6609464186,yachanakrish@example.com,"75, Chanda Path, Yamunanagar 571528",Day Scholar,6.19,84,Yes,No
+675,4CE0675,Onveer Dixit,CE,4,Male,A+,+916516468937,hemani39@example.org,"38, Krish Ganj, Etawah 603440",Hostel C,5.28,62,No,Yes
+676,4ECE0676,Orinder Menon,ECE,4,Male,B-,9433117821,pavani03@example.org,"H.No. 461, Banerjee Zila, Dharmavaram-291654",Hostel A,5.18,69,No,Yes
+677,1CE0677,Michael Chowdhury,CE,1,Male,B+,00473593054,divanmason@example.com,"10/173, Thakkar Path, Cuttack-006367",Hostel A,5.86,63,No,Yes
+678,2CE0678,Maya Badal,CE,2,Male,A-,07689843593,vedhika75@example.org,"74, Gulati Circle, Udaipur 991689",Hostel A,7.49,99,Yes,Yes
+679,2CH0679,Zinal Luthra,CH,2,Female,O-,+914854166998,ekansh51@example.net,"067, Bandi, Hajipur-121336",Hostel D,6.62,96,Yes,No
+680,2CH0680,Sai Dewan,CH,2,Male,B+,9552502811,parmaramruta@example.org,"545, Nagarajan Chowk, Kozhikode-755742",Hostel C,5.32,77,Yes,No
+681,3ECE0681,Damyanti Das,ECE,3,Male,AB-,08056240325,somanmugdha@example.org,"14/06, Din Road, Burhanpur 652383",Hostel B,9.63,62,Yes,Yes
+682,4CH0682,Odika Shanker,CH,4,Male,A+,+916803267851,krishna22@example.org,"11/46, Verma Nagar, Mirzapur-997050",Hostel D,5.4,60,Yes,Yes
+683,3IT0683,Aarini Mahal,IT,3,Female,AB-,0458571227,forum38@example.net,"61, Balakrishnan Marg, Karawal Nagar-698893",Hostel B,6.03,100,No,No
+684,2CE0684,Ganga Chacko,CE,2,Male,A+,04108669155,vartybalendra@example.org,"47/17, Yogi Road, Danapur 741708",Day Scholar,5.9,91,Yes,No
+685,4ME0685,Wahab Tara,ME,4,Male,B-,8519841313,dhritiwalia@example.com,"05/60, Gupta Nagar, Uluberia-158900",Hostel B,5.59,93,Yes,No
+686,2CH0686,Manbir Devi,CH,2,Female,B-,5755728722,ekiyasharaf@example.org,"39/718, Das Chowk, Miryalaguda-586594",Hostel C,5.27,67,Yes,No
+687,2CE0687,Ikshita Vora,CE,2,Male,A+,3243471802,kdeol@example.org,"48, Bhatia Path, Malda-154860",Hostel A,8.22,78,Yes,No
+688,3ME0688,Nikita Shah,ME,3,Female,A+,+910809682964,borasiddharth@example.com,"H.No. 646, Bath Nagar, Vasai-Virar 482014",Hostel A,8.7,94,Yes,Yes
+689,1CH0689,Shivani Natt,CH,1,Female,A-,2775529901,dayalnidra@example.org,"82/24, Banerjee Street, Nashik 658994",Hostel A,9.48,88,No,No
+690,3ECE0690,Wakeeta Bhalla,ECE,3,Male,A-,08420805153,veda57@example.com,"H.No. 342, Suresh Marg, Begusarai 424753",Hostel C,6.14,75,No,Yes
+691,2CE0691,Liam Vohra,CE,2,Male,AB-,07296666522,vidhimishra@example.org,"38/80, Nair, Bettiah-379250",Day Scholar,7.42,87,Yes,Yes
+692,4EE0692,Kai Dhar,EE,4,Male,AB+,+910538748066,akala@example.com,"41, Mallick Road, Ahmednagar-923229",Hostel C,5.68,72,No,No
+693,3ECE0693,Zinal Dugal,ECE,3,Male,A+,06862004190,maanav05@example.net,"H.No. 766, Shere Nagar, Gwalior 796706",Day Scholar,5.3,68,Yes,No
+694,4CE0694,Nirja Kannan,CE,4,Male,O-,09616753661,issacabhiram@example.org,"24, Mangal Marg, Nangloi Jat-972332",Hostel B,9.43,98,Yes,Yes
+695,2EE0695,Gautami Saxena,EE,2,Male,AB+,07755037610,lsheth@example.com,"01, Varghese Circle, Kakinada-252398",Day Scholar,7.45,73,No,No
+696,1ME0696,Devika Butala,ME,1,Female,B-,09428722838,xbava@example.net,"393, Loyal Marg, Parbhani-414665",Hostel B,6.64,97,Yes,Yes
+697,1EE0697,Advika Sharma,EE,1,Female,A+,06566100722,qkashyap@example.net,"182, Brahmbhatt, Kakinada 329343",Hostel A,9.96,92,Yes,No
+698,4EE0698,George Soni,EE,4,Female,A-,3058252712,joshuamutti@example.com,"65/801, Walia Marg, Burhanpur-790345",Hostel D,7.48,65,Yes,No
+699,2ECE0699,Netra Narain,ECE,2,Female,O+,3812221140,bmani@example.com,"644, Sidhu Zila, Guntakal-459048",Hostel B,8.24,65,Yes,No
+700,3IT0700,Geetika Comar,IT,3,Male,AB-,+917058691819,imaransehgal@example.org,"161, Ratti Circle, Aurangabad 608786",Day Scholar,8.74,61,No,No
+701,2CH0701,Lajita Shah,CH,2,Female,B+,+919355732658,mitalhemal@example.org,"57/619, Kuruvilla Nagar, Munger 071965",Hostel C,8.13,100,Yes,Yes
+702,3CE0702,Ria Suri,CE,3,Male,O+,+919769638969,krishna63@example.net,"H.No. 22, Agarwal Path, Hapur-797495",Hostel D,8.76,99,Yes,Yes
+703,3EE0703,Thomas Pandey,EE,3,Male,O-,+910665433066,waliaodika@example.org,"36/858, Kant Zila, Ahmednagar-564767",Hostel A,5.55,83,No,Yes
+704,3ME0704,Yatin Ravi,ME,3,Male,A-,2634191769,apalan@example.net,"H.No. 40, Basu Circle, Miryalaguda 674867",Day Scholar,8.55,73,Yes,No
+705,1ECE0705,Nitesh Baria,ECE,1,Female,B-,9825773740,rohanmajumdar@example.net,"39, Garg Ganj, Udaipur 697871",Hostel B,6.6,77,No,No
+706,1CSE0706,Chakradev Dey,CSE,1,Female,O-,2582714646,otata@example.org,"86/93, Virk, Anantapur 609779",Hostel D,7.43,93,Yes,No
+707,3IT0707,Azaan Bala,IT,3,Female,O-,7465753789,jgour@example.org,"31/39, Shankar, Shahjahanpur-765476",Hostel A,5.94,89,Yes,Yes
+708,2CE0708,Ishwar Bhatia,CE,2,Female,A-,+915706866658,timothybatra@example.net,"H.No. 67, Bhasin Street, Hapur-329471",Hostel A,5.82,67,Yes,No
+709,2ECE0709,Sanya Agate,ECE,2,Male,O+,3389032644,isathe@example.net,"213, Misra Marg, Bokaro-319745",Hostel D,9.85,94,Yes,No
+710,4ME0710,Vedhika Sandal,ME,4,Female,A+,+919281315725,ramanorinder@example.net,"H.No. 49, Gokhale Ganj, Bhagalpur 324553",Hostel C,5.95,61,Yes,No
+711,3CE0711,Isaiah Gade,CE,3,Female,AB-,+910285934233,riyachanda@example.com,"87/09, Basu Zila, Hapur 419514",Day Scholar,8.33,93,No,No
+712,2ME0712,Yash Samra,ME,2,Female,B+,2956865845,tparmer@example.net,"28/51, Shroff Path, Morena-483869",Hostel C,6.13,83,No,Yes
+713,3ECE0713,Gabriel Dutt,ECE,3,Female,AB-,+915750728169,balveer32@example.net,"32/13, Chatterjee Zila, Adoni 521654",Hostel B,8.09,70,No,Yes
+714,2ECE0714,Krishna Purohit,ECE,2,Male,B-,01050737199,urvashi62@example.org,"77/691, Varghese Street, Bathinda 336128",Hostel A,5.21,80,Yes,No
+715,3ME0715,William Dhaliwal,ME,3,Male,B-,+911709794340,svarkey@example.org,"09/881, Prashad Path, Srikakulam-963041",Day Scholar,8.54,80,No,Yes
+716,4ME0716,Farhan Ramesh,ME,4,Male,O+,4710054033,lajita08@example.com,"73/51, Trivedi Path, Surendranagar Dudhrej-014626",Hostel A,9.6,85,No,Yes
+717,3CE0717,Yash Mall,CE,3,Male,A+,9039982977,jananibasu@example.org,"319, Andra Ganj, Kota-211884",Day Scholar,9.88,81,No,No
+718,2ME0718,Harinakshi Sura,ME,2,Female,O-,+911659237436,yauvanibadal@example.net,"H.No. 28, Nair Street, Jalandhar-688758",Hostel A,8.66,62,Yes,Yes
+719,1ME0719,Dalbir Jhaveri,ME,1,Female,B-,4006116471,isaiah13@example.net,"91/238, Gulati, Adoni-673269",Hostel D,6.79,80,Yes,Yes
+720,2EE0720,Kai Tak,EE,2,Female,B-,09179515334,msuri@example.net,"64/430, Thaker Path, Karawal Nagar-415506",Hostel A,5.42,88,Yes,No
+721,4ECE0721,Aashi Sant,ECE,4,Female,A+,1156549082,meghanajoshi@example.com,"494, Talwar Circle, Khammam-540164",Hostel C,6.99,87,No,No
+722,1ME0722,Tanmayi Maharaj,ME,1,Female,O-,03898339505,samarthdivan@example.net,"29/071, Jayaraman Zila, Buxar 475300",Hostel C,6.54,88,Yes,Yes
+723,4IT0723,Rachita Devan,IT,4,Female,AB-,04649650550,majumdarbhavani@example.net,"H.No. 21, Modi Chowk, Suryapet-100868",Hostel C,5.82,87,No,Yes
+724,1CH0724,Utkarsh Ghosh,CH,1,Male,B-,5070844724,khosladeepa@example.com,"90/064, Rajan Road, Udaipur 718827",Hostel C,7.37,93,No,Yes
+725,4EE0725,Yauvani Agate,EE,4,Male,A+,+913717877691,qabilmahajan@example.org,"H.No. 49, Anand Road, Rajpur Sonarpur-224149",Hostel D,8.19,77,No,Yes
+726,4EE0726,Priya Raghavan,EE,4,Male,B-,+911364294346,nagarajanzarna@example.com,"390, Pathak Nagar, Durgapur-328927",Hostel B,9.16,78,No,Yes
+727,3CH0727,Meghana Sahni,CH,3,Female,AB-,8700896214,ronithbhatti@example.org,"966, Mall Marg, Bidhannagar 755981",Day Scholar,8.7,74,Yes,Yes
+728,3ECE0728,Ishanvi Kulkarni,ECE,3,Female,AB-,07477056050,kritikapurohit@example.com,"H.No. 30, Kunda Nagar, Warangal 519371",Hostel A,8.27,78,No,Yes
+729,2CE0729,Radha Sama,CE,2,Male,A-,04347952447,rajudavid@example.com,"62/37, Chandra Path, Tenali-090678",Hostel C,7.47,64,No,No
+730,4EE0730,Mahika Kumer,EE,4,Female,AB-,6991775905,vasamohammed@example.com,"77/368, Sunder Road, Panihati 315881",Hostel A,6.87,96,Yes,No
+731,1ECE0731,Wyatt Tank,ECE,1,Male,O-,05982430170,sodhiekta@example.com,"66/327, Walla Chowk, Bongaigaon-746021",Hostel D,9.39,68,No,Yes
+732,3CSE0732,Sanya Basak,CSE,3,Female,AB+,05629935728,wsule@example.org,"622, Nori Nagar, Kurnool 615602",Hostel C,5.24,78,Yes,Yes
+733,2CH0733,Tanvi Kapoor,CH,2,Male,B+,3728304098,chanaturvi@example.org,"H.No. 27, Barman Zila, Uluberia-284065",Day Scholar,6.61,80,No,No
+734,3IT0734,Parth Goyal,IT,3,Male,O-,5487996570,amadan@example.org,"H.No. 70, Sani Street, Kottayam 135401",Hostel B,5.06,93,No,No
+735,4CH0735,Alexander Ravel,CH,4,Female,O-,0033739259,gmore@example.com,"65/132, Loke Nagar, Coimbatore-367619",Hostel B,5.51,69,Yes,Yes
+736,1CH0736,Hemang Johal,CH,1,Female,AB-,09161813626,suragaurav@example.net,"256, Devan Road, Adoni 779899",Hostel A,5.58,68,Yes,No
+737,3ME0737,Zilmil Varghese,ME,3,Female,B+,+915458551482,gayathri78@example.com,"420, Shankar Street, Mahbubnagar 631381",Hostel D,9.45,98,No,Yes
+738,3IT0738,Ryan Jaggi,IT,3,Male,A-,3207562854,banjeetratta@example.com,"651, Chada, Rohtak-875725",Hostel B,5.64,69,Yes,No
+739,2ECE0739,Damyanti Raj,ECE,2,Male,A-,+918032503655,ekta86@example.com,"H.No. 899, Shukla Marg, Danapur-825895",Hostel D,8.45,67,Yes,Yes
+740,4CH0740,Darika Krishnan,CH,4,Female,A+,05469644051,jsarin@example.org,"90/893, Sule Street, Kadapa 334254",Hostel B,5.54,92,Yes,No
+741,3CSE0741,Advika Deshmukh,CSE,3,Male,A-,07344821326,trivedinitesh@example.org,"H.No. 674, Mohan, Bhind 078660",Hostel C,8.34,66,Yes,Yes
+742,2EE0742,Rachita Parmer,EE,2,Male,O-,02068955898,garima80@example.org,"85, Nagy Nagar, Hazaribagh-379880",Hostel A,5.45,77,No,No
+743,2ECE0743,Xalak Nadig,ECE,2,Male,A-,01628553181,mandavrishti@example.com,"H.No. 412, Chawla Nagar, Bhusawal-635901",Day Scholar,8.82,93,Yes,Yes
+744,2ME0744,Sarthak Chakraborty,ME,2,Male,A-,07854548152,yadavakshay@example.net,"H.No. 819, Guha Zila, Ramagundam 090747",Hostel B,9.6,90,No,Yes
+745,1CE0745,Wyatt Mahal,CE,1,Male,O-,1262001981,tanish09@example.net,"H.No. 358, Chada Zila, Jamnagar 826568",Hostel D,7.12,92,Yes,No
+746,3CSE0746,Saksham Chakraborty,CSE,3,Male,AB-,8825280902,rmital@example.org,"H.No. 09, Bera Ganj, Tirupati 791569",Hostel A,7.6,91,No,No
+747,1EE0747,Warda Gupta,EE,1,Male,O-,+914611112216,gbakshi@example.net,"241, Dasgupta, Ballia-915119",Hostel D,5.58,78,No,No
+748,4IT0748,Yug Mitra,IT,4,Male,AB+,1121719140,balhaarkata@example.org,"422, Vaidya Ganj, Bahraich 031308",Hostel C,9.92,87,Yes,Yes
+749,4CH0749,Nandini Balay,CH,4,Female,B+,05815560605,sraval@example.net,"H.No. 594, Bhavsar Road, Hajipur 670401",Hostel A,9.99,91,Yes,No
+750,1CE0750,Manan Dash,CE,1,Male,B+,06118150302,vpatil@example.net,"74/97, Madan Road, Warangal-174715",Hostel D,7.0,97,Yes,Yes
+751,3CSE0751,Shaurya Mitter,CSE,3,Male,O-,7696209489,munshimaanav@example.net,"H.No. 178, Jani Marg, Surat-214924",Hostel B,7.97,85,Yes,Yes
+752,4CH0752,Charvi Bal,CH,4,Female,O+,09741062621,csule@example.org,"818, Khalsa Road, Baranagar-188511",Day Scholar,7.97,85,No,No
+753,4IT0753,Aahana Bal,IT,4,Female,O+,7664521486,tjha@example.net,"92/787, Johal Street, Bokaro-580311",Hostel B,8.84,66,Yes,No
+754,4CE0754,Pooja Chand,CE,4,Male,B+,07433585964,deyishani@example.org,"257, Gopal Path, Jamnagar 552848",Hostel A,5.5,63,Yes,No
+755,1IT0755,Chaitaly Chandra,IT,1,Male,AB+,+913154313978,jagatnayar@example.net,"251, Loyal, Dindigul-365439",Day Scholar,8.4,69,No,Yes
+756,1CH0756,Jatin Ahuja,CH,1,Female,AB-,08594229370,vyanjana34@example.com,"53/59, Sahni Chowk, Guntur 943690",Hostel B,6.47,91,No,No
+757,3EE0757,Banjeet Datta,EE,3,Male,A+,+918896302851,henrywalia@example.com,"H.No. 45, Nagy Nagar, Muzaffarpur 344046",Hostel D,9.4,67,No,No
+758,4ME0758,Krishna Chandran,ME,4,Female,AB-,+917954527764,dominic73@example.com,"H.No. 178, Dua Path, Sikar 266547",Hostel A,5.16,95,No,Yes
+759,4CE0759,Indira Karnik,CE,4,Male,O+,+913639905050,ojasjayaraman@example.com,"73/05, Lall Path, Panipat-460533",Hostel D,7.44,67,No,No
+760,2CE0760,Zayan Yohannan,CE,2,Male,AB+,7670685033,mannanmaya@example.net,"67/167, Thaker, Dehradun 016037",Hostel C,7.47,84,No,No
+761,1ME0761,Diya Sama,ME,1,Male,A+,+915444740107,ayaan65@example.net,"95, Bhatt Chowk, Dehri 271648",Hostel B,9.18,82,Yes,No
+762,1CE0762,Ayush Hora,CE,1,Female,O-,9339136210,lakshmibahl@example.net,"H.No. 26, Doshi Circle, Raichur 474492",Hostel C,7.06,63,Yes,Yes
+763,3ECE0763,Lakshmi Prashad,ECE,3,Male,A-,00915685647,brinda97@example.com,"36, Mahal Road, Jalgaon-221496",Hostel C,5.57,70,Yes,No
+764,4CSE0764,Lila Loyal,CSE,4,Female,AB+,2729177003,kmandal@example.org,"04/04, Prakash Marg, Haridwar-393286",Hostel C,5.1,90,Yes,No
+765,4CE0765,Jonathan Gopal,CE,4,Female,A-,8408946503,kapurria@example.com,"59, Raj Path, Tiruppur 618743",Hostel D,5.5,73,No,No
+766,3EE0766,Urishilla Parmer,EE,3,Male,O+,+917042233285,ovarty@example.net,"H.No. 661, Hora Zila, Visakhapatnam-491663",Hostel C,9.85,72,No,Yes
+767,2CH0767,Amara Sami,CH,2,Female,O+,01164176039,qbhargava@example.net,"H.No. 72, Bajwa Ganj, Bikaner 142187",Hostel A,6.49,96,No,Yes
+768,1EE0768,Vivaan Doctor,EE,1,Male,O-,+918674632163,radha93@example.org,"34/92, Bora Circle, Bhiwandi-048584",Hostel C,5.34,93,No,No
+769,3ECE0769,Irya Kashyap,ECE,3,Male,O+,5476047018,aishani47@example.com,"79/86, Suresh Marg, Bikaner 973920",Day Scholar,9.02,87,No,Yes
+770,4CE0770,Divya Goel,CE,4,Female,AB-,+914410240114,neelima31@example.com,"32, Om, Guntur-253813",Day Scholar,5.9,61,Yes,No
+771,4ECE0771,Joshua Kaur,ECE,4,Female,AB+,1073385847,maanav97@example.com,"31/254, Chadha, Erode 259586",Day Scholar,8.63,63,Yes,No
+772,2CE0772,Hredhaan Hayer,CE,2,Male,B+,08021966327,aggarwalimaran@example.net,"39/41, Soman Chowk, Raebareli-785234",Hostel C,9.22,86,No,Yes
+773,2IT0773,Indali Rana,IT,2,Female,O+,+916331848982,rsalvi@example.org,"H.No. 253, Raghavan Zila, Bokaro-272955",Hostel C,8.23,76,Yes,No
+774,1ECE0774,Oviya Bath,ECE,1,Male,B-,06898198590,nborde@example.com,"H.No. 305, Saran Zila, Ambarnath 056755",Hostel A,6.23,79,No,No
+775,4EE0775,Rajata Modi,EE,4,Female,A+,+918314840805,shenoywishi@example.com,"746, Sangha Chowk, Begusarai-347756",Hostel B,5.8,68,Yes,No
+776,3CH0776,Harinakshi Comar,CH,3,Male,A+,6925830040,snagarajan@example.org,"71, Sahota Road, Panihati-344232",Hostel D,8.91,63,Yes,No
+777,3EE0777,Januja Dugal,EE,3,Male,AB+,+910456306739,ria35@example.org,"60/79, Dash Zila, Bidar-127773",Hostel C,8.36,65,No,Yes
+778,1ECE0778,Watika Shukla,ECE,1,Male,O+,8378425505,bainsdamini@example.com,"003, Raman Chowk, Bikaner 008781",Hostel D,9.42,75,Yes,No
+779,4ME0779,Gaurangi Sem,ME,4,Male,AB+,09510681554,maya36@example.net,"75/99, Mangat Street, Udaipur 089081",Hostel B,5.72,71,Yes,No
+780,4CE0780,Geetika Hayer,CE,4,Female,A+,+910797239216,libnisant@example.org,"48, Iyengar Path, Singrauli-714823",Hostel D,7.67,67,No,No
+781,2CE0781,Osha Soman,CE,2,Female,B+,3546712608,hmadan@example.org,"32, Bhagat Zila, Erode-440549",Hostel C,7.38,83,No,Yes
+782,1IT0782,Raagini Sundaram,IT,1,Male,B-,9275832760,rmall@example.org,"H.No. 382, Suri Road, Panihati-928153",Hostel C,7.76,79,No,Yes
+783,2EE0783,Vihaan Dani,EE,2,Female,AB+,+910389870109,kadakiaridhi@example.org,"H.No. 28, Morar Nagar, Satara 738218",Hostel A,9.55,85,No,No
+784,2CSE0784,Amrita Muni,CSE,2,Female,B-,2687935766,xavier97@example.net,"42, Yadav Zila, Panihati-681789",Hostel B,9.58,100,No,No
+785,1CH0785,Madhav Kade,CH,1,Female,A-,9944096017,janaki76@example.net,"26, Grover Circle, Kulti 040805",Hostel D,7.36,86,No,No
+786,1CH0786,Benjamin Kar,CH,1,Male,O+,05471710754,boommen@example.com,"H.No. 58, Chahal Ganj, Vijayanagaram 972817",Day Scholar,5.33,86,No,No
+787,1IT0787,Dipta Walla,IT,1,Male,B+,06067103071,elijahchaudhari@example.net,"H.No. 502, Kala Chowk, Bokaro 240545",Hostel D,8.96,68,Yes,No
+788,3ECE0788,Timothy Baria,ECE,3,Female,A-,+913671229405,ygill@example.org,"55/32, Lal Zila, Udupi 234834",Hostel A,5.79,93,Yes,No
+789,3CH0789,Utkarsh Arya,CH,3,Female,AB-,02091525713,doshifaqid@example.org,"10, Deshmukh Ganj, Munger 929399",Hostel B,6.3,97,No,No
+790,1ECE0790,Hardik Dugar,ECE,1,Female,O-,1725330687,mangatvedika@example.net,"60/444, Nanda Zila, Rohtak-172905",Hostel B,6.97,84,Yes,Yes
+791,2CSE0791,Samesh Prashad,CSE,2,Male,AB-,9574428786,aadi66@example.com,"35, Bumb Path, Madhyamgram 561566",Hostel B,6.31,70,Yes,No
+792,4EE0792,Vansha Vyas,EE,4,Female,B+,5771422890,idhar@example.org,"H.No. 58, Doshi Chowk, Thoothukudi-856801",Hostel A,9.79,70,Yes,Yes
+793,4IT0793,Jagat Varkey,IT,4,Female,AB-,05323483691,yastikeer@example.net,"63/700, Sahni Road, Serampore 305454",Hostel A,6.12,73,Yes,No
+794,4ME0794,George Patla,ME,4,Female,B+,7334347799,ramanpranit@example.net,"36/95, Sandal Nagar, Jabalpur-888848",Hostel D,9.28,98,Yes,No
+795,2IT0795,Aarush Wali,IT,2,Female,B+,02451426235,mahika17@example.org,"H.No. 870, Zacharia Circle, Proddatur-161313",Hostel D,8.96,61,No,No
+796,4ECE0796,Radha Kale,ECE,4,Male,O-,8300088413,wakeetanagarajan@example.org,"22, Chadha Chowk, Tirupati-653279",Day Scholar,8.42,89,Yes,Yes
+797,2CE0797,Yashawini Bansal,CE,2,Female,AB+,06914571057,anthonyramaswamy@example.org,"H.No. 526, Thaman Road, Malda-880280",Hostel B,8.57,87,No,Yes
+798,1CSE0798,Brinda Mital,CSE,1,Male,O-,01406621158,matthewmore@example.net,"H.No. 74, Som Nagar, Tenali-287262",Hostel B,7.35,82,Yes,Yes
+799,4ME0799,Tejas Gaba,ME,4,Female,AB+,1185467440,charita41@example.org,"62, Samra Marg, Kharagpur-237327",Hostel C,5.66,95,Yes,Yes
+800,2ME0800,Lakshmi Hari,ME,2,Female,O-,3959669577,hsavant@example.net,"00/460, Pandya Path, Khammam 121641",Hostel D,5.66,80,No,Yes
+801,1ME0801,Ranveer Johal,ME,1,Female,A+,07661463859,gabajeremiah@example.org,"H.No. 97, Sur Road, Kochi-113700",Hostel B,7.5,77,No,No
+802,3ME0802,Meghana Sarna,ME,3,Female,O-,+915403896178,vigindira@example.org,"999, Hans Street, Kishanganj 688985",Hostel D,9.46,80,No,Yes
+803,4EE0803,Idika Dhingra,EE,4,Male,B-,03174414142,pmangal@example.com,"10/428, Randhawa Circle, Haridwar-644135",Hostel B,5.27,71,Yes,No
+804,2ME0804,Yashica Johal,ME,2,Female,AB+,01507171436,bbansal@example.org,"H.No. 504, Hari Ganj, Nizamabad 387132",Hostel A,9.98,91,Yes,No
+805,4ME0805,Yoshita Cheema,ME,4,Female,AB-,04540297278,daksha03@example.net,"H.No. 20, Dar Circle, Ulhasnagar 591331",Hostel A,9.23,69,Yes,No
+806,2CSE0806,George Pillai,CSE,2,Female,B+,07823592820,qhegde@example.net,"04/42, Vig Chowk, Machilipatnam-499662",Hostel B,8.75,77,Yes,Yes
+807,2EE0807,Isaiah Chatterjee,EE,2,Female,A-,4934445273,okumer@example.org,"81/969, Seth Road, Amravati 361680",Hostel B,8.84,66,No,Yes
+808,1ME0808,Veda Swamy,ME,1,Female,O-,+912178770360,msrivastava@example.com,"042, Khurana Street, Ballia 736493",Day Scholar,9.65,66,No,Yes
+809,1CSE0809,Garima Deo,CSE,1,Female,AB-,03243322092,evyas@example.org,"H.No. 306, Vora Nagar, Ichalkaranji 882878",Hostel D,8.14,77,Yes,No
+810,4CSE0810,Abeer Kumer,CSE,4,Female,B+,9489601781,hbakshi@example.org,"H.No. 753, Garde Marg, Nangloi Jat-858303",Hostel B,9.32,78,No,Yes
+811,1IT0811,Janya Menon,IT,1,Female,A-,+917367454463,reyansh41@example.com,"H.No. 703, Patla Circle, Sasaram-492184",Hostel D,6.28,75,No,Yes
+812,2CSE0812,Jack Swaminathan,CSE,2,Male,AB+,06085785394,timothy69@example.com,"H.No. 732, Kala Nagar, Begusarai-812292",Hostel D,6.42,69,Yes,No
+813,4CE0813,Gaurika Kuruvilla,CE,4,Female,B+,+919615096887,wahabmittal@example.net,"399, Devan Path, Bangalore-802455",Hostel C,8.33,83,Yes,No
+814,4CE0814,Aarav Walla,CE,4,Female,O+,5058750154,yadavigolla@example.org,"82/963, Krishnamurthy Ganj, Sambhal-083869",Day Scholar,8.0,65,No,No
+815,2EE0815,Anika Sarkar,EE,2,Female,AB+,05032337582,anthony35@example.net,"89/002, Krishnamurthy Ganj, Mathura 552622",Hostel A,5.2,81,No,Yes
+816,2IT0816,Turvi Krishnan,IT,2,Female,A-,1920349684,chandani81@example.org,"692, Ratti Circle, Bhubaneswar-417962",Hostel C,7.34,65,No,No
+817,2ECE0817,Balendra Pall,ECE,2,Female,B-,+919752805667,rbhatia@example.net,"H.No. 517, Merchant Marg, Raipur-139258",Day Scholar,7.14,96,Yes,Yes
+818,1CSE0818,Karan Chadha,CSE,1,Female,AB+,+919858496747,andrewgala@example.org,"07/838, Kanda Road, Udaipur-937066",Hostel A,7.32,96,No,No
+819,1ME0819,Hemal Badami,ME,1,Male,A-,06367875514,osankaran@example.net,"19, Mohanty Ganj, Parbhani-544844",Hostel D,5.9,71,No,Yes
+820,4CSE0820,Gunbir Dixit,CSE,4,Female,O-,8480004847,samakshhegde@example.com,"64/329, Mohan Marg, Tadipatri 201192",Day Scholar,8.62,88,No,No
+821,2CH0821,Bhanumati Vig,CH,2,Male,B+,00905667558,chakrikagupta@example.net,"H.No. 11, Tiwari Circle, Machilipatnam-582615",Hostel A,8.74,98,No,Yes
+822,1CE0822,Eesha Nadkarni,CE,1,Male,AB+,9329776594,bhavini28@example.org,"H.No. 850, Kadakia Nagar, Ulhasnagar-414330",Hostel A,5.07,90,No,No
+823,4CH0823,Aarini Chakrabarti,CH,4,Female,O-,4010485467,veerchand@example.com,"28/945, Hora Nagar, Ludhiana 968239",Hostel D,9.02,65,Yes,Yes
+824,2CSE0824,Bimala Sangha,CSE,2,Male,A+,+910895962179,vasanamaharaj@example.org,"57/251, Rana Marg, Parbhani-030577",Hostel B,9.3,73,No,Yes
+825,2IT0825,Girish Ramesh,IT,2,Female,B-,01640714984,faraj90@example.net,"26/731, Bains Marg, Bhiwani 736965",Hostel A,6.5,89,Yes,No
+826,1CE0826,Ekantika Jha,CE,1,Male,B+,8696307191,ramharinakshi@example.net,"638, Grover Nagar, Bahraich-080725",Hostel B,8.69,88,No,No
+827,4CSE0827,Ikshita Kurian,CSE,4,Male,B-,05331553851,devanshchaudhuri@example.net,"00, Mitter Nagar, Korba 316685",Hostel C,7.85,85,Yes,No
+828,1CSE0828,Hardik Yadav,CSE,1,Female,AB+,02781387657,georgegola@example.net,"H.No. 72, Korpal Marg, Jamalpur 380367",Hostel D,8.69,98,No,Yes
+829,4CE0829,Dayita Shukla,CE,4,Female,AB-,+911732882262,balveer29@example.net,"76/71, Dugar Ganj, Akola 606797",Hostel B,8.57,93,Yes,No
+830,3EE0830,Ethan Lall,EE,3,Male,O+,09559362692,mangatmaanav@example.com,"71/200, Raman Zila, Solapur 812743",Hostel D,9.45,67,No,No
+831,4CE0831,Aachal Gala,CE,4,Male,B+,2106924126,nilima26@example.net,"31, Dass Zila, Ajmer-475689",Hostel C,8.63,90,No,No
+832,2ECE0832,Aarna Sabharwal,ECE,2,Female,AB-,+916901743887,ipatel@example.com,"H.No. 856, Khanna Zila, Arrah-384340",Hostel B,9.42,84,No,No
+833,4CH0833,Zarna Dugar,CH,4,Male,B-,9271776199,ysha@example.org,"88, Shankar Ganj, Uluberia-324508",Hostel C,8.45,65,No,Yes
+834,2ECE0834,Lajita Maharaj,ECE,2,Male,AB-,+915268176226,radhahegde@example.net,"132, Maharaj Chowk, Danapur 767724",Hostel A,8.97,91,No,Yes
+835,1ECE0835,Advik Viswanathan,ECE,1,Male,O-,5445856566,darrushil@example.org,"96/25, Prasad Ganj, Davanagere-942490",Hostel C,6.79,70,Yes,Yes
+836,1CH0836,Faris Kulkarni,CH,1,Female,AB+,0359417157,davidmitra@example.net,"H.No. 35, Lad Ganj, Patna 957784",Hostel A,8.09,67,Yes,No
+837,3ME0837,Parth Devan,ME,3,Female,A+,07368634742,jagat00@example.net,"72, Chauhan Path, Bhilai 571327",Day Scholar,6.34,69,Yes,Yes
+838,4CE0838,Noah Jayaraman,CE,4,Male,A-,05735514057,prashadhema@example.org,"405, Dhawan Ganj, Hubli–Dharwad-044102",Day Scholar,8.05,66,Yes,Yes
+839,1ECE0839,Oliver Srinivasan,ECE,1,Male,O-,08443503917,brijesh58@example.net,"H.No. 05, Sandhu Chowk, Orai-269445",Hostel B,8.64,88,No,Yes
+840,3ECE0840,Bhavna Loke,ECE,3,Female,B+,01365642762,thomasmohan@example.net,"50, Ramachandran Marg, Rajkot-762604",Hostel A,9.24,88,No,Yes
+841,4ECE0841,Nirja Bali,ECE,4,Female,O+,+917336232558,yamini11@example.org,"H.No. 796, Bhatia Marg, Sikar 272356",Day Scholar,5.86,77,No,No
+842,2ME0842,Ekalinga Kadakia,ME,2,Male,AB+,3255000825,daminirai@example.net,"H.No. 41, Sharaf Marg, Sangli-Miraj & Kupwad 165844",Hostel B,5.69,87,No,No
+843,3CE0843,Januja Ramaswamy,CE,3,Male,AB-,00115169700,hayeraadi@example.org,"91/64, Gokhale Street, Nagaon 493594",Hostel B,8.85,93,Yes,Yes
+844,3ME0844,Yasti Minhas,ME,3,Female,B+,7669778375,emandal@example.org,"58/185, Vora Ganj, Kadapa 983964",Hostel D,5.31,62,Yes,Yes
+845,3IT0845,Upasna Mane,IT,3,Female,AB+,+911482449205,yochanasawhney@example.org,"50, Peri Marg, Bhatpara-072519",Day Scholar,9.37,80,No,Yes
+846,3CH0846,Lavanya Chad,CH,3,Male,AB+,9654051575,advik11@example.org,"H.No. 61, Bail Marg, Bhalswa Jahangir Pur 201457",Hostel D,8.22,94,No,No
+847,4CH0847,Warinder Contractor,CH,4,Male,O+,07774020926,agastya09@example.net,"44, Ramanathan Circle, Ichalkaranji-257989",Hostel A,5.18,81,No,Yes
+848,3EE0848,Anay Narang,EE,3,Male,A-,05918519872,rmemon@example.net,"15/108, Tandon Path, Tiruvottiyur-572866",Day Scholar,7.76,93,No,Yes
+849,1CSE0849,Libni Mannan,CSE,1,Female,B-,07675503017,farasprashad@example.net,"H.No. 22, Subramanian Chowk, Ambala-589335",Hostel C,8.63,92,Yes,Yes
+850,3CH0850,Pavani Badami,CH,3,Female,O-,09257055788,tarak17@example.net,"59, Ramachandran Road, Muzaffarpur-673115",Hostel A,5.24,67,No,No
+851,1EE0851,Hredhaan Gola,EE,1,Female,O-,+916898021674,nachiket32@example.net,"17, Gupta Chowk, Lucknow-285565",Hostel B,9.03,97,Yes,No
+852,3ME0852,Nidhi Yadav,ME,3,Male,AB+,05765033985,gangulydaksha@example.net,"40, Lall Nagar, Amroha 327821",Day Scholar,8.69,66,No,Yes
+853,3CH0853,Sara Buch,CH,3,Female,A-,9916952151,rmohanty@example.com,"08, Kumar Chowk, Serampore 621938",Hostel B,8.56,86,Yes,Yes
+854,4CSE0854,Ladli Chandra,CSE,4,Male,AB-,+912641583607,nitara47@example.org,"H.No. 02, Brahmbhatt, Danapur-869480",Hostel B,7.23,83,No,No
+855,3CH0855,Mohammed Yohannan,CH,3,Female,AB+,02927821723,lkata@example.net,"91/78, Konda Ganj, Davanagere 483615",Hostel D,8.45,91,No,Yes
+856,2ECE0856,Rudra Prabhakar,ECE,2,Female,AB-,8116872419,ibal@example.com,"H.No. 601, Bahri Zila, Hindupur 810733",Hostel B,9.84,92,Yes,Yes
+857,4CE0857,Zayyan Borah,CE,4,Male,B+,+916020697690,ugrewal@example.net,"90, Doctor Marg, Arrah-262588",Day Scholar,6.85,67,No,Yes
+858,3CSE0858,Upkaar Solanki,CSE,3,Female,A+,8003325548,tanejawilliam@example.net,"H.No. 852, Kapadia Circle, Tezpur-949318",Day Scholar,5.77,83,No,No
+859,3ME0859,Krisha Subramaniam,ME,3,Female,A+,2214761339,vpradhan@example.net,"26/605, Kunda Path, Darbhanga-871509",Hostel B,5.71,97,No,Yes
+860,3ME0860,Wishi Chaudhry,ME,3,Male,B+,+918080298578,hmutti@example.com,"872, Dara Chowk, Durg 076411",Hostel D,5.01,95,No,Yes
+861,1CH0861,Edhitha Kalla,CH,1,Female,AB-,+914416957872,zmannan@example.org,"H.No. 373, Chaudry Circle, Secunderabad 179463",Day Scholar,6.55,88,No,No
+862,2CE0862,Balvan Basu,CE,2,Male,AB-,08934988460,jsheth@example.com,"H.No. 18, Dewan Chowk, Thrissur 496953",Hostel D,8.34,69,No,Yes
+863,4CH0863,Aayush Master,CH,4,Female,B-,7658232913,bhaktajhalak@example.org,"H.No. 049, Dada Marg, Malegaon-180872",Hostel D,6.69,62,No,No
+864,1IT0864,Ronith Prabhu,IT,1,Male,A+,+911031033555,srinivasnitara@example.net,"16/724, Tella Marg, Hubli–Dharwad-009421",Day Scholar,8.15,79,Yes,Yes
+865,1ECE0865,Bimala Sastry,ECE,1,Male,AB-,09801282502,fbhardwaj@example.org,"007, Kakar Circle, Bahraich 879131",Day Scholar,9.48,67,Yes,Yes
+866,2ME0866,Yashica Lal,ME,2,Male,AB-,9931840697,bahadurjitjhaveri@example.net,"44/949, Kothari Circle, Bally 529306",Hostel A,9.03,98,No,No
+867,1EE0867,Forum Sama,EE,1,Female,A+,2756362037,xlalla@example.com,"14/49, Wable Street, Rohtak-264877",Hostel C,7.19,86,Yes,No
+868,3CE0868,Joshua Setty,CE,3,Male,A-,+910930811385,balanbanjeet@example.org,"98, Dutta Nagar, Jalandhar-359837",Hostel A,7.71,78,Yes,Yes
+869,1ME0869,Pahal Ranganathan,ME,1,Male,O+,+918023257202,manbir33@example.com,"H.No. 707, Misra Chowk, Belgaum 352487",Hostel D,8.39,63,No,Yes
+870,1CSE0870,Eshana Bhakta,CSE,1,Female,AB+,3447665031,ppant@example.com,"88, Sane Road, New Delhi-582288",Hostel A,6.6,86,No,No
+871,1CE0871,Vivaan Jha,CE,1,Male,B-,+917890723932,sampathbaghyawati@example.org,"601, Chandran Road, Jabalpur 772261",Hostel B,8.76,97,Yes,No
+872,4EE0872,Ikbal Shan,EE,4,Male,O+,07019936452,rsandhu@example.com,"75/705, Kumer, Alwar 200546",Hostel A,6.59,95,No,Yes
+873,1CE0873,Onveer Vig,CE,1,Female,B-,+917395774877,geetika77@example.org,"255, Goel Marg, Bilaspur 245889",Hostel A,6.35,97,Yes,Yes
+874,2CH0874,Tanvi Grewal,CH,2,Female,AB+,+917135761160,wsarraf@example.com,"61, Sundaram Zila, Bidhannagar 022141",Hostel D,5.42,100,Yes,Yes
+875,2ME0875,Kabir Naidu,ME,2,Male,AB+,1530067148,wyatt63@example.com,"H.No. 14, Sankaran, Buxar 621978",Day Scholar,7.26,60,No,No
+876,2IT0876,Bachittar Kara,IT,2,Male,A+,00660699234,hdutta@example.com,"H.No. 742, Din Road, Ramagundam 014858",Hostel D,6.37,76,No,No
+877,2CH0877,Saksham Bhargava,CH,2,Female,A+,0427300880,udyati19@example.com,"14/043, Sinha Circle, Haridwar-589479",Hostel B,8.7,96,Yes,No
+878,4CSE0878,Gaurangi Korpal,CSE,4,Male,B+,00464222833,hardik83@example.org,"02/782, Srinivas Circle, Saharsa-828628",Day Scholar,9.99,87,Yes,No
+879,3IT0879,Siya Balay,IT,3,Female,AB-,+911318493774,bmerchant@example.net,"31, Comar Chowk, Proddatur-735670",Hostel C,6.23,80,No,Yes
+880,3CE0880,Odika Khalsa,CE,3,Male,B+,3781598829,esrinivas@example.com,"H.No. 292, Chhabra Chowk, Amravati 201520",Hostel A,8.04,60,Yes,Yes
+881,4CE0881,Ikbal Yogi,CE,4,Female,A-,9603567241,chaman35@example.com,"H.No. 682, Sahota Path, Dibrugarh 471198",Hostel A,7.69,88,Yes,No
+882,4CH0882,Nikita Hayer,CH,4,Female,AB+,+913193469424,dewanneelima@example.com,"H.No. 024, Bumb, Moradabad-915010",Hostel B,9.2,60,Yes,No
+883,2ME0883,Gauri Vig,ME,2,Female,A+,+919793022852,lallnihal@example.org,"32, Malhotra Nagar, Bhiwandi 133161",Hostel B,8.72,77,No,Yes
+884,3CSE0884,Rishi Borde,CSE,3,Male,B-,+918533745612,zashilupadhyay@example.net,"H.No. 89, Saha Street, Kozhikode 233671",Hostel D,9.84,62,No,No
+885,2IT0885,Yasti Kunda,IT,2,Male,B-,+914575828863,fmohan@example.com,"931, Ravel Nagar, Proddatur 488490",Hostel D,5.55,77,No,Yes
+886,2EE0886,Wakeeta Chakraborty,EE,2,Male,A-,9195569852,bhallaradha@example.com,"07, Lad Zila, Bihar Sharif-175989",Day Scholar,5.64,64,Yes,No
+887,2EE0887,Eta Saran,EE,2,Female,B-,04564413196,yachanabains@example.net,"379, Gola Street, Shivpuri-997737",Hostel A,9.96,94,No,No
+888,4CSE0888,Dayita Dubey,CSE,4,Male,O-,+917965787066,dakshkeer@example.com,"42, Mall Path, Ramgarh-083492",Hostel D,9.22,86,No,Yes
+889,4IT0889,Ridhi Sani,IT,4,Female,O-,+919299951040,barkha67@example.net,"H.No. 12, Sant Chowk, Haldia 297347",Day Scholar,8.8,74,Yes,No
+890,4CE0890,Omisha Sandhu,CE,4,Female,A+,9362561841,bachittarchoudhary@example.com,"87/47, Puri Marg, Ramgarh-362572",Hostel D,5.97,65,Yes,Yes
+891,4IT0891,Nathaniel Bains,IT,4,Male,B-,+914088100067,ntailor@example.net,"H.No. 41, Dutt Chowk, Delhi 539518",Hostel B,5.82,79,Yes,Yes
+892,4CSE0892,Zaitra Behl,CSE,4,Female,A+,05295643588,tcontractor@example.com,"H.No. 132, Loyal Zila, Jaunpur-854003",Day Scholar,8.99,81,No,Yes
+893,4CSE0893,Niharika Brar,CSE,4,Male,O-,7842778897,gagan18@example.net,"55/59, Sani Marg, Fatehpur 814567",Hostel A,9.11,93,Yes,Yes
+894,4CH0894,William Salvi,CH,4,Male,AB-,08919543378,sethharinakshi@example.com,"079, Rao Street, Anand 156878",Day Scholar,5.62,63,Yes,No
+895,1ME0895,Liam Menon,ME,1,Male,A+,03144421771,ukrish@example.org,"69/40, Peri Marg, Panipat-064447",Hostel D,5.27,99,No,Yes
+896,1CSE0896,Pranav Rau,CSE,1,Male,O+,06998731178,omkaar97@example.com,"H.No. 968, Agate Marg, Mahbubnagar-731747",Hostel D,7.01,99,No,Yes
+897,1CH0897,Chaman Bhatti,CH,1,Female,AB+,01576454568,pgola@example.com,"742, Tella Nagar, Ghaziabad-339624",Hostel D,8.98,99,Yes,No
+898,1IT0898,Eta Ramesh,IT,1,Female,O-,7587758265,kundasai@example.net,"H.No. 918, More Road, Kurnool-551382",Day Scholar,5.96,66,Yes,Yes
+899,2EE0899,Darpan Palan,EE,2,Male,O+,8432967719,qarin46@example.net,"99/25, Anne Nagar, Varanasi 537746",Hostel C,7.11,99,No,Yes
+900,2ECE0900,Quincy Dar,ECE,2,Male,A+,00188422947,hpau@example.org,"H.No. 552, Salvi Zila, Rourkela-589693",Hostel B,6.56,87,No,No
+901,2EE0901,Warhi Ray,EE,2,Male,AB-,1765949327,hitesh45@example.com,"84/425, Bumb Zila, Faridabad-961740",Hostel C,8.02,78,No,Yes
+902,2EE0902,Anya Behl,EE,2,Male,B-,01317348618,anirudhrattan@example.com,"H.No. 48, Bhatnagar, Avadi 041750",Day Scholar,9.1,95,Yes,No
+903,2ME0903,Darika Murthy,ME,2,Male,B-,9588097213,wriddhishrattan@example.net,"18, Barad Road, Serampore 892778",Hostel A,6.71,90,No,No
+904,3CH0904,Faris Prabhakar,CH,3,Female,AB+,+919354573269,mallzansi@example.net,"H.No. 248, Sani, Sultan Pur Majra-232371",Hostel C,5.81,89,Yes,No
+905,1ECE0905,Zarna Bala,ECE,1,Male,B-,+912769439871,banand@example.net,"H.No. 96, Puri Path, Tadepalligudem 498295",Hostel D,8.12,75,No,No
+906,4CH0906,Urvashi Gola,CH,4,Male,AB+,8594180423,pauhredhaan@example.org,"08/303, Sehgal Road, Tenali-778760",Hostel B,9.13,60,No,Yes
+907,3CSE0907,Om Handa,CSE,3,Male,A-,6086716554,khalsabhavya@example.org,"H.No. 058, Sankar Chowk, Bahraich-769719",Hostel B,6.45,72,No,Yes
+908,2CSE0908,Madhav Raju,CSE,2,Male,O+,+915483189192,ssubramanian@example.com,"H.No. 132, Tara Street, Bhavnagar 900677",Hostel B,6.09,76,Yes,No
+909,2CH0909,Qadim Verma,CH,2,Male,B-,+910998986987,srinivasaarush@example.net,"H.No. 238, Madan Chowk, Chandrapur-796810",Hostel A,5.88,76,Yes,Yes
+910,2CH0910,Urvi Chaudhary,CH,2,Female,A-,3198960455,lpatel@example.com,"H.No. 092, Chand Road, Sangli-Miraj & Kupwad-817527",Hostel C,9.68,79,No,Yes
+911,3ME0911,Henry Shanker,ME,3,Male,AB+,05981431541,rzachariah@example.net,"63/991, Chand Nagar, Udaipur-739614",Hostel A,5.59,68,Yes,Yes
+912,4EE0912,Arya Ravi,EE,4,Female,O-,07292568930,bhavyavala@example.org,"652, Devi Street, Vijayanagaram 956020",Day Scholar,7.15,100,Yes,Yes
+913,2CH0913,Vasana Yohannan,CH,2,Female,B+,0188981269,krisha95@example.com,"00/003, Kar Path, Kumbakonam-865417",Hostel C,6.24,100,No,Yes
+914,4CH0914,Vansha Kumer,CH,4,Male,A-,7219496354,radha75@example.org,"H.No. 57, Rama Chowk, Bhilwara 932484",Hostel D,8.95,99,Yes,Yes
+915,4EE0915,Widisha Bhasin,EE,4,Female,AB-,+919571411519,mannvritti@example.net,"47/307, Kanda Chowk, Tadepalligudem 266451",Day Scholar,7.32,80,No,No
+916,4IT0916,Nicholas Lal,IT,4,Female,O+,7065360997,onveeryogi@example.com,"64/00, Sahota Marg, Rajahmundry-607792",Day Scholar,7.0,97,Yes,Yes
+917,2ECE0917,Guneet Kadakia,ECE,2,Female,B-,+914268121136,usrivastava@example.net,"72/11, Dhar, Ambarnath-275500",Hostel D,6.09,87,No,Yes
+918,3CH0918,Yashica Johal,CH,3,Female,A-,1016310172,xitidave@example.org,"H.No. 001, Dewan Zila, Bidar-007026",Hostel B,8.76,78,No,No
+919,1ECE0919,Lakshit Bobal,ECE,1,Female,O-,05090593994,xkaran@example.org,"339, Saran, Barasat-097793",Hostel D,7.26,87,No,No
+920,4CH0920,Tanvi Wagle,CH,4,Female,O+,2783057293,mpalla@example.org,"25/26, Padmanabhan Chowk, Kurnool-660611",Hostel D,5.12,88,Yes,No
+921,1IT0921,Arya Deol,IT,1,Female,A-,+919767825874,drout@example.com,"23, Sur Ganj, Jaunpur 103361",Hostel C,9.21,92,Yes,No
+922,1ECE0922,Zaid Vig,ECE,1,Male,A-,7375232119,devanpanini@example.org,"H.No. 566, Korpal Marg, Gorakhpur 336368",Hostel C,5.19,72,No,Yes
+923,3IT0923,Teerth Joshi,IT,3,Female,O+,+915459637452,triya06@example.com,"395, Vyas Chowk, Tadipatri 982692",Hostel C,5.95,98,Yes,No
+924,3CSE0924,Adweta Karnik,CSE,3,Female,O-,1786702663,harini53@example.org,"323, Tailor Circle, Patiala 738433",Hostel D,9.73,97,Yes,No
+925,2IT0925,Zarna Anne,IT,2,Female,B-,06375069404,liam21@example.net,"060, Arya Marg, Dewas-792696",Hostel B,8.62,73,No,Yes
+926,4EE0926,Luke Dave,EE,4,Female,O-,00148621813,sseth@example.org,"67/079, Guha Street, Surat-321649",Hostel A,6.57,72,No,No
+927,4ECE0927,Ekapad Bakshi,ECE,4,Female,A+,04866659117,ekani28@example.org,"15/328, Dora Nagar, Nagpur-349501",Hostel C,5.69,68,No,Yes
+928,3CE0928,Quincy Pall,CE,3,Female,B-,03107469573,onkar84@example.com,"72/412, Sinha, Sikar 864143",Hostel D,7.13,85,No,No
+929,1EE0929,Advik Mital,EE,1,Male,B+,+916424014468,parthgandhi@example.net,"43/54, Rajan Chowk, Imphal 702577",Hostel B,9.89,81,No,No
+930,4ECE0930,Zaid Nath,ECE,4,Male,AB+,7855344464,watika39@example.net,"H.No. 414, Narayan Circle, Kozhikode 811248",Hostel B,7.37,81,No,No
+931,2CSE0931,Aishani Sawhney,CSE,2,Male,B+,+916876777616,samimeghana@example.com,"99/69, Warrior Circle, Hindupur 686152",Hostel A,9.13,98,No,Yes
+932,2ECE0932,Odika Mukherjee,ECE,2,Male,AB+,04541016092,zayyanparmer@example.com,"369, Chand Chowk, Berhampore-996803",Hostel C,6.03,78,Yes,No
+933,3CSE0933,Naveen Mane,CSE,3,Male,B+,03660580879,miteshbarman@example.net,"47/608, Prakash Chowk, Ambala-179537",Hostel C,9.3,86,No,Yes
+934,2CSE0934,Chameli Chana,CSE,2,Female,AB-,4144763270,rohan46@example.net,"66/41, Narain Ganj, Ajmer-822951",Hostel A,6.94,73,Yes,Yes
+935,4ME0935,Caleb Karnik,ME,4,Female,B+,+914827017885,wahabtrivedi@example.org,"69/99, Kohli Street, Ulhasnagar 625300",Day Scholar,7.88,79,Yes,No
+936,2ME0936,Nandini Maharaj,ME,2,Male,B+,+911958443765,pradhanfrado@example.com,"95, Aggarwal Zila, Cuttack-353922",Hostel D,5.32,85,Yes,No
+937,4EE0937,William Goswami,EE,4,Female,AB-,7833119516,indali61@example.com,"45/92, Bala Chowk, Patiala-407159",Day Scholar,5.2,65,No,No
+938,3ME0938,Darpan Comar,ME,3,Female,B+,+912407879246,kiaan78@example.net,"36/762, Saxena Street, Narasaraopet 274238",Hostel D,6.25,99,No,No
+939,2CE0939,Kamala Bail,CE,2,Male,AB+,9787522797,tanvikrishna@example.com,"00, Kothari Street, Gopalpur 915932",Hostel A,6.2,70,No,No
+940,1IT0940,Aarna Gulati,IT,1,Male,AB-,07255017769,qmorar@example.com,"88/764, Rout Nagar, Latur 868853",Hostel D,9.96,95,Yes,No
+941,1CSE0941,Advay Sandhu,CSE,1,Female,AB+,05218054162,girindra38@example.net,"14, Manne Circle, Tinsukia-318746",Hostel D,5.82,73,Yes,No
+942,1CSE0942,Wakeeta Warrior,CSE,1,Female,AB+,2033920982,krishna12@example.com,"369, Viswanathan Chowk, Dehri-853783",Hostel C,8.73,72,No,Yes
+943,3CSE0943,Varsha Vig,CSE,3,Male,B+,08713109417,ekantika77@example.org,"44/99, De Road, Madurai 625995",Hostel C,8.35,89,No,No
+944,1CSE0944,Hemang Upadhyay,CSE,1,Male,AB-,9517959975,rudrakhatri@example.net,"933, Srinivas Nagar, Raurkela Industrial Township-354769",Hostel B,7.35,77,Yes,Yes
+945,1CH0945,Eesha Morar,CH,1,Male,B+,+917900517250,oagarwal@example.net,"729, Banik Ganj, Guntur 679133",Hostel C,5.62,85,Yes,Yes
+946,1IT0946,Fitan Gill,IT,1,Female,B+,7230034827,dsinha@example.org,"584, Mangal Road, Vadodara 421279",Hostel D,6.79,73,Yes,Yes
+947,1CE0947,Edhitha Sachar,CE,1,Male,AB+,+912791563195,dyalranveer@example.net,"67, Majumdar Marg, Ahmednagar-450610",Hostel C,7.22,98,Yes,Yes
+948,4CH0948,Ranbir Shah,CH,4,Male,B-,+916699863818,narasimhangautami@example.net,"49/94, Samra Road, Nadiad 620301",Hostel C,9.54,72,Yes,Yes
+949,1CE0949,Oeshi Raja,CE,1,Male,O-,+912735107455,ebanik@example.com,"03/051, Kuruvilla Circle, Aurangabad 902395",Hostel B,8.4,64,Yes,Yes
+950,2CH0950,Vamakshi Dora,CH,2,Male,A+,+918367302576,izacharia@example.org,"H.No. 607, Maharaj Chowk, Udupi 451601",Hostel D,7.56,80,No,Yes
+951,2EE0951,Samarth Bhargava,EE,2,Female,AB+,+914724507898,ymohanty@example.com,"337, Sha Circle, Sultan Pur Majra-652887",Hostel A,6.16,66,No,No
+952,1ECE0952,Oeshi Lad,ECE,1,Female,O-,06927726311,ekapadahluwalia@example.net,"015, Yadav Chowk, Ambarnath-771384",Hostel A,6.95,89,Yes,Yes
+953,3IT0953,Tarak Purohit,IT,3,Female,A+,8109505875,triya02@example.com,"H.No. 06, Tailor Road, Bhiwandi 265376",Hostel A,9.43,86,No,No
+954,2CSE0954,Yutika Walla,CSE,2,Female,A-,06487231654,yauvani39@example.net,"42, Mohanty Zila, Shimla-256237",Day Scholar,6.62,100,No,Yes
+955,2ME0955,Vritti Thakur,ME,2,Female,AB-,6453721360,chanaosha@example.org,"H.No. 718, Agarwal Circle, Nadiad 603259",Hostel A,6.68,98,No,No
+956,2EE0956,Vanya Dutt,EE,2,Male,B-,7830051516,nitara85@example.org,"72/312, Mammen Street, Barasat 813886",Hostel A,8.08,67,No,Yes
+957,4IT0957,Yagnesh Bumb,IT,4,Male,A-,1123654764,morekaran@example.com,"59/422, Bhatia Street, Morena 045007",Hostel A,5.69,91,No,Yes
+958,4ECE0958,Chaitanya Mukhopadhyay,ECE,4,Male,A+,+912773227542,chavvi55@example.net,"21/200, Master Zila, Mehsana-509412",Hostel B,9.62,98,No,No
+959,3ECE0959,Kamya Kar,ECE,3,Female,A+,6165997231,chaudryhenry@example.net,"61/411, Patla Marg, Thanjavur-943075",Day Scholar,8.96,86,No,Yes
+960,3ECE0960,Falak Sastry,ECE,3,Female,B-,2684291214,aayush32@example.com,"04, Khosla Road, Sikar-589400",Hostel B,7.7,75,Yes,No
+961,3EE0961,Raksha Barman,EE,3,Male,AB-,+919518908475,idhar@example.org,"01, Boase Circle, Sonipat-258386",Hostel A,5.32,91,Yes,Yes
+962,2CSE0962,Tanvi Bora,CSE,2,Male,B+,+919550365379,bosegirik@example.org,"75, Mangat Street, Panchkula 572977",Hostel A,5.87,95,Yes,Yes
+963,1EE0963,Vrinda Gaba,EE,1,Female,AB-,05756179373,ipathak@example.net,"999, Shere, Kochi 710467",Hostel C,5.82,72,Yes,No
+964,2ECE0964,Dalbir Raja,ECE,2,Female,O+,8093991409,zansipanchal@example.net,"756, Tella Circle, Kavali-079363",Day Scholar,7.24,100,Yes,No
+965,4CH0965,Zaitra Chatterjee,CH,4,Male,O-,02793778196,mhalder@example.com,"13/01, Vyas Chowk, Rewa-905081",Hostel D,6.89,90,No,No
+966,4EE0966,Gayathri Rau,EE,4,Male,AB-,6605647122,bkumer@example.com,"860, Vasa Path, Bongaigaon-651614",Hostel A,8.81,87,Yes,No
+967,2EE0967,Ikshita Vora,EE,2,Male,O+,07845458965,ekhalsa@example.org,"278, Bajwa Road, Morbi-523292",Hostel D,7.32,89,No,No
+968,4EE0968,Jagat Lal,EE,4,Male,O-,+916562200750,rattanqarin@example.net,"H.No. 729, Dash Zila, Chandrapur-406088",Hostel B,8.57,72,Yes,Yes
+969,1CSE0969,Advaith Bhakta,CSE,1,Female,AB-,7933611705,xrastogi@example.com,"70/36, Narang Zila, Raebareli 466861",Hostel D,9.63,85,No,No
+970,3CE0970,Bhavini Sane,CE,3,Male,AB+,00832327931,watika18@example.org,"H.No. 826, Nadig Chowk, Anand-073087",Hostel A,9.96,67,No,Yes
+971,4ECE0971,Isha Rai,ECE,4,Female,O-,2045841302,rdeo@example.org,"H.No. 217, Doctor Zila, Mau-739864",Day Scholar,8.55,100,No,Yes
+972,4IT0972,Ira Bhalla,IT,4,Female,B-,+911468195137,keergaurika@example.org,"46/200, Prashad Chowk, Raebareli 928761",Hostel B,7.39,83,Yes,Yes
+973,4ME0973,Idika Sathe,ME,4,Male,O+,01853444121,sanghvifaras@example.net,"H.No. 87, Kala Circle, Dehri 832502",Hostel B,8.01,70,Yes,Yes
+974,1CH0974,Gauri Narayanan,CH,1,Female,AB+,7451130152,nilima56@example.com,"50/752, Ganesh Path, Panvel-627417",Day Scholar,9.87,65,Yes,No
+975,4ECE0975,Mitesh Raghavan,ECE,4,Female,O+,9846786476,krishna38@example.com,"H.No. 54, Thakur Chowk, Morbi-804843",Day Scholar,9.84,84,No,No
+976,1CH0976,Pallavi Agarwal,CH,1,Male,O-,00565868078,nayaknicholas@example.com,"99/640, Kannan Chowk, Kishanganj-562130",Hostel B,6.35,73,No,No
+977,2CSE0977,Brijesh Rastogi,CSE,2,Female,A+,6381895832,lkala@example.net,"H.No. 787, Virk Street, Giridih-229110",Hostel A,5.35,86,No,No
+978,4IT0978,Vihaan Nair,IT,4,Male,B+,03310511100,balendra61@example.org,"H.No. 485, Kari Circle, Malda-221225",Hostel C,5.93,68,Yes,No
+979,1ECE0979,Oeshi Rajagopal,ECE,1,Female,B-,+912981931704,nsoman@example.net,"37/05, Doshi, Nagpur 181898",Hostel B,6.0,71,Yes,No
+980,4CH0980,Indira Issac,CH,4,Female,A-,07598040832,borraakshay@example.org,"74, Bandi Nagar, Kolhapur-267952",Hostel B,5.4,65,No,Yes
+981,1ME0981,Udant Chandran,ME,1,Female,A+,04699716705,krisha05@example.org,"H.No. 920, Agrawal Marg, Jorhat 851267",Day Scholar,6.17,91,Yes,Yes
+982,3CSE0982,Jagrati Nanda,CSE,3,Male,A+,6253414449,maxbasak@example.org,"H.No. 42, Cherian Nagar, Gandhinagar 522276",Hostel A,6.06,60,No,No
+983,4CE0983,Amrita Bassi,CE,4,Female,AB+,02480611822,lsubramaniam@example.com,"128, Dalal Chowk, Sasaram 497063",Hostel C,6.85,81,No,Yes
+984,4ME0984,Hredhaan Verma,ME,4,Female,A+,2547764649,daksha80@example.com,"11, Loyal Nagar, Davanagere-526599",Hostel C,9.37,66,Yes,No
+985,4CH0985,Max Gala,CH,4,Male,A+,3716627542,kashishmahajan@example.com,"H.No. 522, Bhasin Marg, Delhi-857862",Day Scholar,5.61,93,No,Yes
+986,4ME0986,Yochana Seth,ME,4,Female,AB+,+919225501527,lswaminathan@example.org,"18, Hayre Path, Surendranagar Dudhrej 922104",Hostel B,5.02,100,No,Yes
+987,3IT0987,Lajita Bedi,IT,3,Male,O-,2666948547,ochaudhuri@example.com,"42, Shan Street, Berhampore-586818",Hostel D,6.17,91,No,Yes
+988,4ME0988,Kamala Bhatnagar,ME,4,Female,A-,8832007131,chandani60@example.org,"718, Mannan Circle, Kurnool-856466",Hostel D,6.47,72,Yes,Yes
+989,4ECE0989,Urvi Rao,ECE,4,Male,O+,04304723432,yatan48@example.net,"37/24, Dutt Path, Proddatur 469595",Day Scholar,9.94,89,Yes,No
+990,4CSE0990,Pranit Dugar,CSE,4,Male,B-,+917566383845,virkdayamai@example.org,"H.No. 87, Sani Zila, Solapur-676680",Hostel B,5.85,65,Yes,No
+991,1IT0991,Wakeeta Mander,IT,1,Male,O-,+910946160612,saranfrado@example.org,"H.No. 759, Majumdar Chowk, Berhampore-370054",Hostel D,8.83,74,No,No
+992,1IT0992,Sathvik Char,IT,1,Male,AB-,4804652655,adhar@example.com,"H.No. 818, Ravi Road, Jammu-970284",Hostel A,8.98,81,Yes,Yes
+993,3IT0993,Qabil Naik,IT,3,Female,AB+,+910290979629,ikshitaparsa@example.org,"61/325, Bahl Zila, Amravati-755556",Day Scholar,9.83,87,Yes,Yes
+994,1ME0994,Tamanna Prabhu,ME,1,Female,A-,5907890749,pranit36@example.org,"44, Sarna Marg, Guna 268965",Hostel A,5.45,97,Yes,Yes
+995,3EE0995,Yug Chawla,EE,3,Male,O-,3242128738,ranbir96@example.org,"248, Behl Path, Howrah-917157",Hostel D,7.88,60,No,Yes
+996,2EE0996,Rushil Kurian,EE,2,Female,AB+,07620140794,girik66@example.com,"H.No. 76, Tella, Mumbai 255246",Hostel C,8.86,68,Yes,Yes
+997,1CE0997,Rajata Lal,CE,1,Female,O-,00039537948,balanojasvi@example.org,"825, Chaudhari Road, Singrauli-548347",Hostel B,9.08,78,Yes,No
+998,4IT0998,Aashi Dewan,IT,4,Male,O+,07324089645,revapall@example.net,"924, Luthra Chowk, Bhiwani 291272",Hostel B,8.74,62,No,No
+999,1EE0999,Urvashi Bala,EE,1,Female,AB-,7669366869,jeet91@example.net,"37/48, Gaba Marg, Alappuzha 353190",Hostel B,7.48,84,Yes,No
+1000,2ECE1000,Anita Shetty,ECE,2,Male,A+,+917634441659,radhatripathi@example.org,"79/111, Bhagat Street, Tiruppur 899655",Hostel B,9.28,85,No,Yes

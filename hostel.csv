@@ -1,0 +1,5 @@
+hostel_name,warden,warden_contact,total_rooms,capacity_per_room,mess_attached,wifi,laundry,curfew_time,rules
+Hostel A,Kritika Shroff,1695416151,51,2,No,Yes,Yes,10:00 PM,"No smoking, no alcohol, visitors allowed till 8 PM"
+Hostel B,Abeer Sinha,+918042446149,71,2,No,Yes,Yes,10:00 PM,"No smoking, no alcohol, visitors allowed till 8 PM"
+Hostel C,Jason Setty,+916186918725,93,2,No,Yes,Yes,10:00 PM,"No smoking, no alcohol, visitors allowed till 8 PM"
+Hostel D,Yash Sangha,04421468034,72,2,No,Yes,Yes,10:00 PM,"No smoking, no alcohol, visitors allowed till 8 PM"

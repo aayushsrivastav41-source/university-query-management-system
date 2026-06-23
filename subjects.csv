@@ -1,0 +1,330 @@
+branch,semester,subject,summary
+CSE,1,"Mathematics I, Physics, Basic Electronics, Programming in C, English Communication","Subjects in semester 1 of CSE branch are: Mathematics I, Physics, Basic Electronics, Programming in C, English Communication"
+CSE,1,Mathematics I,Mathematics I is a subject in semester 1 of CSE branch
+CSE,1,Physics,Physics is a subject in semester 1 of CSE branch
+CSE,1,Basic Electronics,Basic Electronics is a subject in semester 1 of CSE branch
+CSE,1,Programming in C,Programming in C is a subject in semester 1 of CSE branch
+CSE,1,English Communication,English Communication is a subject in semester 1 of CSE branch
+CSE,2,"Mathematics II, Chemistry, Data Structures, Digital Logic Design, Environmental Science","Subjects in semester 2 of CSE branch are: Mathematics II, Chemistry, Data Structures, Digital Logic Design, Environmental Science"
+CSE,2,Mathematics II,Mathematics II is a subject in semester 2 of CSE branch
+CSE,2,Chemistry,Chemistry is a subject in semester 2 of CSE branch
+CSE,2,Data Structures,Data Structures is a subject in semester 2 of CSE branch
+CSE,2,Digital Logic Design,Digital Logic Design is a subject in semester 2 of CSE branch
+CSE,2,Environmental Science,Environmental Science is a subject in semester 2 of CSE branch
+CSE,3,"Discrete Mathematics, Object Oriented Programming, Computer Organization, Database Management Systems, Operating Systems","Subjects in semester 3 of CSE branch are: Discrete Mathematics, Object Oriented Programming, Computer Organization, Database Management Systems, Operating Systems"
+CSE,3,Discrete Mathematics,Discrete Mathematics is a subject in semester 3 of CSE branch
+CSE,3,Object Oriented Programming,Object Oriented Programming is a subject in semester 3 of CSE branch
+CSE,3,Computer Organization,Computer Organization is a subject in semester 3 of CSE branch
+CSE,3,Database Management Systems,Database Management Systems is a subject in semester 3 of CSE branch
+CSE,3,Operating Systems,Operating Systems is a subject in semester 3 of CSE branch
+CSE,4,"Theory of Computation, Computer Networks, Software Engineering, Design and Analysis of Algorithms, Web Technologies","Subjects in semester 4 of CSE branch are: Theory of Computation, Computer Networks, Software Engineering, Design and Analysis of Algorithms, Web Technologies"
+CSE,4,Theory of Computation,Theory of Computation is a subject in semester 4 of CSE branch
+CSE,4,Computer Networks,Computer Networks is a subject in semester 4 of CSE branch
+CSE,4,Software Engineering,Software Engineering is a subject in semester 4 of CSE branch
+CSE,4,Design and Analysis of Algorithms,Design and Analysis of Algorithms is a subject in semester 4 of CSE branch
+CSE,4,Web Technologies,Web Technologies is a subject in semester 4 of CSE branch
+CSE,5,"Artificial Intelligence, Machine Learning, Compiler Design, Cloud Computing, Elective I","Subjects in semester 5 of CSE branch are: Artificial Intelligence, Machine Learning, Compiler Design, Cloud Computing, Elective I"
+CSE,5,Artificial Intelligence,Artificial Intelligence is a subject in semester 5 of CSE branch
+CSE,5,Machine Learning,Machine Learning is a subject in semester 5 of CSE branch
+CSE,5,Compiler Design,Compiler Design is a subject in semester 5 of CSE branch
+CSE,5,Cloud Computing,Cloud Computing is a subject in semester 5 of CSE branch
+CSE,5,Elective I,Elective I is a subject in semester 5 of CSE branch
+CSE,6,"Deep Learning, Information Security, Mobile Computing, Big Data Analytics, Elective II","Subjects in semester 6 of CSE branch are: Deep Learning, Information Security, Mobile Computing, Big Data Analytics, Elective II"
+CSE,6,Deep Learning,Deep Learning is a subject in semester 6 of CSE branch
+CSE,6,Information Security,Information Security is a subject in semester 6 of CSE branch
+CSE,6,Mobile Computing,Mobile Computing is a subject in semester 6 of CSE branch
+CSE,6,Big Data Analytics,Big Data Analytics is a subject in semester 6 of CSE branch
+CSE,6,Elective II,Elective II is a subject in semester 6 of CSE branch
+CSE,7,"Natural Language Processing, Internet of Things, Project Management, Elective III, Minor Project","Subjects in semester 7 of CSE branch are: Natural Language Processing, Internet of Things, Project Management, Elective III, Minor Project"
+CSE,7,Natural Language Processing,Natural Language Processing is a subject in semester 7 of CSE branch
+CSE,7,Internet of Things,Internet of Things is a subject in semester 7 of CSE branch
+CSE,7,Project Management,Project Management is a subject in semester 7 of CSE branch
+CSE,7,Elective III,Elective III is a subject in semester 7 of CSE branch
+CSE,7,Minor Project,Minor Project is a subject in semester 7 of CSE branch
+CSE,8,"Major Project, Entrepreneurship, Professional Ethics, Elective IV","Subjects in semester 8 of CSE branch are: Major Project, Entrepreneurship, Professional Ethics, Elective IV"
+CSE,8,Major Project,Major Project is a subject in semester 8 of CSE branch
+CSE,8,Entrepreneurship,Entrepreneurship is a subject in semester 8 of CSE branch
+CSE,8,Professional Ethics,Professional Ethics is a subject in semester 8 of CSE branch
+CSE,8,Elective IV,Elective IV is a subject in semester 8 of CSE branch
+ECE,1,"Mathematics I, Physics, Basic Electronics, Programming in C, English Communication","Subjects in semester 1 of ECE branch are: Mathematics I, Physics, Basic Electronics, Programming in C, English Communication"
+ECE,1,Mathematics I,Mathematics I is a subject in semester 1 of ECE branch
+ECE,1,Physics,Physics is a subject in semester 1 of ECE branch
+ECE,1,Basic Electronics,Basic Electronics is a subject in semester 1 of ECE branch
+ECE,1,Programming in C,Programming in C is a subject in semester 1 of ECE branch
+ECE,1,English Communication,English Communication is a subject in semester 1 of ECE branch
+ECE,2,"Mathematics II, Chemistry, Network Analysis, Electronic Devices, Environmental Science","Subjects in semester 2 of ECE branch are: Mathematics II, Chemistry, Network Analysis, Electronic Devices, Environmental Science"
+ECE,2,Mathematics II,Mathematics II is a subject in semester 2 of ECE branch
+ECE,2,Chemistry,Chemistry is a subject in semester 2 of ECE branch
+ECE,2,Network Analysis,Network Analysis is a subject in semester 2 of ECE branch
+ECE,2,Electronic Devices,Electronic Devices is a subject in semester 2 of ECE branch
+ECE,2,Environmental Science,Environmental Science is a subject in semester 2 of ECE branch
+ECE,3,"Signals and Systems, Analog Electronics, Digital Electronics, Electromagnetic Theory, Mathematics III","Subjects in semester 3 of ECE branch are: Signals and Systems, Analog Electronics, Digital Electronics, Electromagnetic Theory, Mathematics III"
+ECE,3,Signals and Systems,Signals and Systems is a subject in semester 3 of ECE branch
+ECE,3,Analog Electronics,Analog Electronics is a subject in semester 3 of ECE branch
+ECE,3,Digital Electronics,Digital Electronics is a subject in semester 3 of ECE branch
+ECE,3,Electromagnetic Theory,Electromagnetic Theory is a subject in semester 3 of ECE branch
+ECE,3,Mathematics III,Mathematics III is a subject in semester 3 of ECE branch
+ECE,4,"Communication Systems, Microprocessors, Control Systems, VLSI Design, Linear Integrated Circuits","Subjects in semester 4 of ECE branch are: Communication Systems, Microprocessors, Control Systems, VLSI Design, Linear Integrated Circuits"
+ECE,4,Communication Systems,Communication Systems is a subject in semester 4 of ECE branch
+ECE,4,Microprocessors,Microprocessors is a subject in semester 4 of ECE branch
+ECE,4,Control Systems,Control Systems is a subject in semester 4 of ECE branch
+ECE,4,VLSI Design,VLSI Design is a subject in semester 4 of ECE branch
+ECE,4,Linear Integrated Circuits,Linear Integrated Circuits is a subject in semester 4 of ECE branch
+ECE,5,"Digital Signal Processing, Wireless Communication, Embedded Systems, Antenna Theory, Elective I","Subjects in semester 5 of ECE branch are: Digital Signal Processing, Wireless Communication, Embedded Systems, Antenna Theory, Elective I"
+ECE,5,Digital Signal Processing,Digital Signal Processing is a subject in semester 5 of ECE branch
+ECE,5,Wireless Communication,Wireless Communication is a subject in semester 5 of ECE branch
+ECE,5,Embedded Systems,Embedded Systems is a subject in semester 5 of ECE branch
+ECE,5,Antenna Theory,Antenna Theory is a subject in semester 5 of ECE branch
+ECE,5,Elective I,Elective I is a subject in semester 5 of ECE branch
+ECE,6,"Optical Communication, Radar and Television, Digital Image Processing, Satellite Communication, Elective II","Subjects in semester 6 of ECE branch are: Optical Communication, Radar and Television, Digital Image Processing, Satellite Communication, Elective II"
+ECE,6,Optical Communication,Optical Communication is a subject in semester 6 of ECE branch
+ECE,6,Radar and Television,Radar and Television is a subject in semester 6 of ECE branch
+ECE,6,Digital Image Processing,Digital Image Processing is a subject in semester 6 of ECE branch
+ECE,6,Satellite Communication,Satellite Communication is a subject in semester 6 of ECE branch
+ECE,6,Elective II,Elective II is a subject in semester 6 of ECE branch
+ECE,7,"Advanced Communication, IoT and Applications, Project Management, Elective III, Minor Project","Subjects in semester 7 of ECE branch are: Advanced Communication, IoT and Applications, Project Management, Elective III, Minor Project"
+ECE,7,Advanced Communication,Advanced Communication is a subject in semester 7 of ECE branch
+ECE,7,IoT and Applications,IoT and Applications is a subject in semester 7 of ECE branch
+ECE,7,Project Management,Project Management is a subject in semester 7 of ECE branch
+ECE,7,Elective III,Elective III is a subject in semester 7 of ECE branch
+ECE,7,Minor Project,Minor Project is a subject in semester 7 of ECE branch
+ECE,8,"Major Project, Entrepreneurship, Professional Ethics, Elective IV","Subjects in semester 8 of ECE branch are: Major Project, Entrepreneurship, Professional Ethics, Elective IV"
+ECE,8,Major Project,Major Project is a subject in semester 8 of ECE branch
+ECE,8,Entrepreneurship,Entrepreneurship is a subject in semester 8 of ECE branch
+ECE,8,Professional Ethics,Professional Ethics is a subject in semester 8 of ECE branch
+ECE,8,Elective IV,Elective IV is a subject in semester 8 of ECE branch
+ME,1,"Mathematics I, Physics, Engineering Drawing, Workshop Practice, English Communication","Subjects in semester 1 of ME branch are: Mathematics I, Physics, Engineering Drawing, Workshop Practice, English Communication"
+ME,1,Mathematics I,Mathematics I is a subject in semester 1 of ME branch
+ME,1,Physics,Physics is a subject in semester 1 of ME branch
+ME,1,Engineering Drawing,Engineering Drawing is a subject in semester 1 of ME branch
+ME,1,Workshop Practice,Workshop Practice is a subject in semester 1 of ME branch
+ME,1,English Communication,English Communication is a subject in semester 1 of ME branch
+ME,2,"Mathematics II, Chemistry, Thermodynamics, Engineering Mechanics, Environmental Science","Subjects in semester 2 of ME branch are: Mathematics II, Chemistry, Thermodynamics, Engineering Mechanics, Environmental Science"
+ME,2,Mathematics II,Mathematics II is a subject in semester 2 of ME branch
+ME,2,Chemistry,Chemistry is a subject in semester 2 of ME branch
+ME,2,Thermodynamics,Thermodynamics is a subject in semester 2 of ME branch
+ME,2,Engineering Mechanics,Engineering Mechanics is a subject in semester 2 of ME branch
+ME,2,Environmental Science,Environmental Science is a subject in semester 2 of ME branch
+ME,3,"Fluid Mechanics, Manufacturing Processes, Material Science, Strength of Materials, Mathematics III","Subjects in semester 3 of ME branch are: Fluid Mechanics, Manufacturing Processes, Material Science, Strength of Materials, Mathematics III"
+ME,3,Fluid Mechanics,Fluid Mechanics is a subject in semester 3 of ME branch
+ME,3,Manufacturing Processes,Manufacturing Processes is a subject in semester 3 of ME branch
+ME,3,Material Science,Material Science is a subject in semester 3 of ME branch
+ME,3,Strength of Materials,Strength of Materials is a subject in semester 3 of ME branch
+ME,3,Mathematics III,Mathematics III is a subject in semester 3 of ME branch
+ME,4,"Heat Transfer, Machine Design, Kinematics of Machines, Metrology, Industrial Engineering","Subjects in semester 4 of ME branch are: Heat Transfer, Machine Design, Kinematics of Machines, Metrology, Industrial Engineering"
+ME,4,Heat Transfer,Heat Transfer is a subject in semester 4 of ME branch
+ME,4,Machine Design,Machine Design is a subject in semester 4 of ME branch
+ME,4,Kinematics of Machines,Kinematics of Machines is a subject in semester 4 of ME branch
+ME,4,Metrology,Metrology is a subject in semester 4 of ME branch
+ME,4,Industrial Engineering,Industrial Engineering is a subject in semester 4 of ME branch
+ME,5,"Dynamics of Machines, CAD/CAM, Refrigeration and AC, Automobile Engineering, Elective I","Subjects in semester 5 of ME branch are: Dynamics of Machines, CAD/CAM, Refrigeration and AC, Automobile Engineering, Elective I"
+ME,5,Dynamics of Machines,Dynamics of Machines is a subject in semester 5 of ME branch
+ME,5,CAD/CAM,CAD/CAM is a subject in semester 5 of ME branch
+ME,5,Refrigeration and AC,Refrigeration and AC is a subject in semester 5 of ME branch
+ME,5,Automobile Engineering,Automobile Engineering is a subject in semester 5 of ME branch
+ME,5,Elective I,Elective I is a subject in semester 5 of ME branch
+ME,6,"Finite Element Analysis, Robotics, Power Plant Engineering, Operations Research, Elective II","Subjects in semester 6 of ME branch are: Finite Element Analysis, Robotics, Power Plant Engineering, Operations Research, Elective II"
+ME,6,Finite Element Analysis,Finite Element Analysis is a subject in semester 6 of ME branch
+ME,6,Robotics,Robotics is a subject in semester 6 of ME branch
+ME,6,Power Plant Engineering,Power Plant Engineering is a subject in semester 6 of ME branch
+ME,6,Operations Research,Operations Research is a subject in semester 6 of ME branch
+ME,6,Elective II,Elective II is a subject in semester 6 of ME branch
+ME,7,"Advanced Manufacturing, Product Design, Project Management, Elective III, Minor Project","Subjects in semester 7 of ME branch are: Advanced Manufacturing, Product Design, Project Management, Elective III, Minor Project"
+ME,7,Advanced Manufacturing,Advanced Manufacturing is a subject in semester 7 of ME branch
+ME,7,Product Design,Product Design is a subject in semester 7 of ME branch
+ME,7,Project Management,Project Management is a subject in semester 7 of ME branch
+ME,7,Elective III,Elective III is a subject in semester 7 of ME branch
+ME,7,Minor Project,Minor Project is a subject in semester 7 of ME branch
+ME,8,"Major Project, Entrepreneurship, Professional Ethics, Elective IV","Subjects in semester 8 of ME branch are: Major Project, Entrepreneurship, Professional Ethics, Elective IV"
+ME,8,Major Project,Major Project is a subject in semester 8 of ME branch
+ME,8,Entrepreneurship,Entrepreneurship is a subject in semester 8 of ME branch
+ME,8,Professional Ethics,Professional Ethics is a subject in semester 8 of ME branch
+ME,8,Elective IV,Elective IV is a subject in semester 8 of ME branch
+CE,1,"Mathematics I, Physics, Engineering Drawing, Building Materials, English Communication","Subjects in semester 1 of CE branch are: Mathematics I, Physics, Engineering Drawing, Building Materials, English Communication"
+CE,1,Mathematics I,Mathematics I is a subject in semester 1 of CE branch
+CE,1,Physics,Physics is a subject in semester 1 of CE branch
+CE,1,Engineering Drawing,Engineering Drawing is a subject in semester 1 of CE branch
+CE,1,Building Materials,Building Materials is a subject in semester 1 of CE branch
+CE,1,English Communication,English Communication is a subject in semester 1 of CE branch
+CE,2,"Mathematics II, Chemistry, Surveying, Mechanics of Solids, Environmental Science","Subjects in semester 2 of CE branch are: Mathematics II, Chemistry, Surveying, Mechanics of Solids, Environmental Science"
+CE,2,Mathematics II,Mathematics II is a subject in semester 2 of CE branch
+CE,2,Chemistry,Chemistry is a subject in semester 2 of CE branch
+CE,2,Surveying,Surveying is a subject in semester 2 of CE branch
+CE,2,Mechanics of Solids,Mechanics of Solids is a subject in semester 2 of CE branch
+CE,2,Environmental Science,Environmental Science is a subject in semester 2 of CE branch
+CE,3,"Fluid Mechanics, Structural Analysis, Concrete Technology, Soil Mechanics, Mathematics III","Subjects in semester 3 of CE branch are: Fluid Mechanics, Structural Analysis, Concrete Technology, Soil Mechanics, Mathematics III"
+CE,3,Fluid Mechanics,Fluid Mechanics is a subject in semester 3 of CE branch
+CE,3,Structural Analysis,Structural Analysis is a subject in semester 3 of CE branch
+CE,3,Concrete Technology,Concrete Technology is a subject in semester 3 of CE branch
+CE,3,Soil Mechanics,Soil Mechanics is a subject in semester 3 of CE branch
+CE,3,Mathematics III,Mathematics III is a subject in semester 3 of CE branch
+CE,4,"Design of Structures, Transportation Engineering, Hydraulics, Environmental Engineering, Geotechnical Engineering","Subjects in semester 4 of CE branch are: Design of Structures, Transportation Engineering, Hydraulics, Environmental Engineering, Geotechnical Engineering"
+CE,4,Design of Structures,Design of Structures is a subject in semester 4 of CE branch
+CE,4,Transportation Engineering,Transportation Engineering is a subject in semester 4 of CE branch
+CE,4,Hydraulics,Hydraulics is a subject in semester 4 of CE branch
+CE,4,Environmental Engineering,Environmental Engineering is a subject in semester 4 of CE branch
+CE,4,Geotechnical Engineering,Geotechnical Engineering is a subject in semester 4 of CE branch
+CE,5,"Foundation Engineering, Water Resources, Construction Management, Remote Sensing, Elective I","Subjects in semester 5 of CE branch are: Foundation Engineering, Water Resources, Construction Management, Remote Sensing, Elective I"
+CE,5,Foundation Engineering,Foundation Engineering is a subject in semester 5 of CE branch
+CE,5,Water Resources,Water Resources is a subject in semester 5 of CE branch
+CE,5,Construction Management,Construction Management is a subject in semester 5 of CE branch
+CE,5,Remote Sensing,Remote Sensing is a subject in semester 5 of CE branch
+CE,5,Elective I,Elective I is a subject in semester 5 of CE branch
+CE,6,"Bridge Engineering, Urban Planning, Earthquake Engineering, Pavement Design, Elective II","Subjects in semester 6 of CE branch are: Bridge Engineering, Urban Planning, Earthquake Engineering, Pavement Design, Elective II"
+CE,6,Bridge Engineering,Bridge Engineering is a subject in semester 6 of CE branch
+CE,6,Urban Planning,Urban Planning is a subject in semester 6 of CE branch
+CE,6,Earthquake Engineering,Earthquake Engineering is a subject in semester 6 of CE branch
+CE,6,Pavement Design,Pavement Design is a subject in semester 6 of CE branch
+CE,6,Elective II,Elective II is a subject in semester 6 of CE branch
+CE,7,"Advanced Structures, Smart Infrastructure, Project Management, Elective III, Minor Project","Subjects in semester 7 of CE branch are: Advanced Structures, Smart Infrastructure, Project Management, Elective III, Minor Project"
+CE,7,Advanced Structures,Advanced Structures is a subject in semester 7 of CE branch
+CE,7,Smart Infrastructure,Smart Infrastructure is a subject in semester 7 of CE branch
+CE,7,Project Management,Project Management is a subject in semester 7 of CE branch
+CE,7,Elective III,Elective III is a subject in semester 7 of CE branch
+CE,7,Minor Project,Minor Project is a subject in semester 7 of CE branch
+CE,8,"Major Project, Entrepreneurship, Professional Ethics, Elective IV","Subjects in semester 8 of CE branch are: Major Project, Entrepreneurship, Professional Ethics, Elective IV"
+CE,8,Major Project,Major Project is a subject in semester 8 of CE branch
+CE,8,Entrepreneurship,Entrepreneurship is a subject in semester 8 of CE branch
+CE,8,Professional Ethics,Professional Ethics is a subject in semester 8 of CE branch
+CE,8,Elective IV,Elective IV is a subject in semester 8 of CE branch
+EE,1,"Mathematics I, Physics, Basic Electronics, Circuit Theory, English Communication","Subjects in semester 1 of EE branch are: Mathematics I, Physics, Basic Electronics, Circuit Theory, English Communication"
+EE,1,Mathematics I,Mathematics I is a subject in semester 1 of EE branch
+EE,1,Physics,Physics is a subject in semester 1 of EE branch
+EE,1,Basic Electronics,Basic Electronics is a subject in semester 1 of EE branch
+EE,1,Circuit Theory,Circuit Theory is a subject in semester 1 of EE branch
+EE,1,English Communication,English Communication is a subject in semester 1 of EE branch
+EE,2,"Mathematics II, Chemistry, Electrical Machines I, Network Theory, Environmental Science","Subjects in semester 2 of EE branch are: Mathematics II, Chemistry, Electrical Machines I, Network Theory, Environmental Science"
+EE,2,Mathematics II,Mathematics II is a subject in semester 2 of EE branch
+EE,2,Chemistry,Chemistry is a subject in semester 2 of EE branch
+EE,2,Electrical Machines I,Electrical Machines I is a subject in semester 2 of EE branch
+EE,2,Network Theory,Network Theory is a subject in semester 2 of EE branch
+EE,2,Environmental Science,Environmental Science is a subject in semester 2 of EE branch
+EE,3,"Electrical Machines II, Power Systems I, Control Systems, Measurements, Mathematics III","Subjects in semester 3 of EE branch are: Electrical Machines II, Power Systems I, Control Systems, Measurements, Mathematics III"
+EE,3,Electrical Machines II,Electrical Machines II is a subject in semester 3 of EE branch
+EE,3,Power Systems I,Power Systems I is a subject in semester 3 of EE branch
+EE,3,Control Systems,Control Systems is a subject in semester 3 of EE branch
+EE,3,Measurements,Measurements is a subject in semester 3 of EE branch
+EE,3,Mathematics III,Mathematics III is a subject in semester 3 of EE branch
+EE,4,"Power Systems II, Power Electronics, Microprocessors, Switchgear and Protection, Utilization of Electrical Energy","Subjects in semester 4 of EE branch are: Power Systems II, Power Electronics, Microprocessors, Switchgear and Protection, Utilization of Electrical Energy"
+EE,4,Power Systems II,Power Systems II is a subject in semester 4 of EE branch
+EE,4,Power Electronics,Power Electronics is a subject in semester 4 of EE branch
+EE,4,Microprocessors,Microprocessors is a subject in semester 4 of EE branch
+EE,4,Switchgear and Protection,Switchgear and Protection is a subject in semester 4 of EE branch
+EE,4,Utilization of Electrical Energy,Utilization of Electrical Energy is a subject in semester 4 of EE branch
+EE,5,"High Voltage Engineering, Electric Drives, Renewable Energy, PLC and SCADA, Elective I","Subjects in semester 5 of EE branch are: High Voltage Engineering, Electric Drives, Renewable Energy, PLC and SCADA, Elective I"
+EE,5,High Voltage Engineering,High Voltage Engineering is a subject in semester 5 of EE branch
+EE,5,Electric Drives,Electric Drives is a subject in semester 5 of EE branch
+EE,5,Renewable Energy,Renewable Energy is a subject in semester 5 of EE branch
+EE,5,PLC and SCADA,PLC and SCADA is a subject in semester 5 of EE branch
+EE,5,Elective I,Elective I is a subject in semester 5 of EE branch
+EE,6,"Smart Grid, Embedded Systems, Industrial Automation, Power Quality, Elective II","Subjects in semester 6 of EE branch are: Smart Grid, Embedded Systems, Industrial Automation, Power Quality, Elective II"
+EE,6,Smart Grid,Smart Grid is a subject in semester 6 of EE branch
+EE,6,Embedded Systems,Embedded Systems is a subject in semester 6 of EE branch
+EE,6,Industrial Automation,Industrial Automation is a subject in semester 6 of EE branch
+EE,6,Power Quality,Power Quality is a subject in semester 6 of EE branch
+EE,6,Elective II,Elective II is a subject in semester 6 of EE branch
+EE,7,"Advanced Power Systems, Energy Management, Project Management, Elective III, Minor Project","Subjects in semester 7 of EE branch are: Advanced Power Systems, Energy Management, Project Management, Elective III, Minor Project"
+EE,7,Advanced Power Systems,Advanced Power Systems is a subject in semester 7 of EE branch
+EE,7,Energy Management,Energy Management is a subject in semester 7 of EE branch
+EE,7,Project Management,Project Management is a subject in semester 7 of EE branch
+EE,7,Elective III,Elective III is a subject in semester 7 of EE branch
+EE,7,Minor Project,Minor Project is a subject in semester 7 of EE branch
+EE,8,"Major Project, Entrepreneurship, Professional Ethics, Elective IV","Subjects in semester 8 of EE branch are: Major Project, Entrepreneurship, Professional Ethics, Elective IV"
+EE,8,Major Project,Major Project is a subject in semester 8 of EE branch
+EE,8,Entrepreneurship,Entrepreneurship is a subject in semester 8 of EE branch
+EE,8,Professional Ethics,Professional Ethics is a subject in semester 8 of EE branch
+EE,8,Elective IV,Elective IV is a subject in semester 8 of EE branch
+IT,1,"Mathematics I, Physics, Basic Electronics, Programming in C, English Communication","Subjects in semester 1 of IT branch are: Mathematics I, Physics, Basic Electronics, Programming in C, English Communication"
+IT,1,Mathematics I,Mathematics I is a subject in semester 1 of IT branch
+IT,1,Physics,Physics is a subject in semester 1 of IT branch
+IT,1,Basic Electronics,Basic Electronics is a subject in semester 1 of IT branch
+IT,1,Programming in C,Programming in C is a subject in semester 1 of IT branch
+IT,1,English Communication,English Communication is a subject in semester 1 of IT branch
+IT,2,"Mathematics II, Chemistry, Data Structures, Digital Logic, Environmental Science","Subjects in semester 2 of IT branch are: Mathematics II, Chemistry, Data Structures, Digital Logic, Environmental Science"
+IT,2,Mathematics II,Mathematics II is a subject in semester 2 of IT branch
+IT,2,Chemistry,Chemistry is a subject in semester 2 of IT branch
+IT,2,Data Structures,Data Structures is a subject in semester 2 of IT branch
+IT,2,Digital Logic,Digital Logic is a subject in semester 2 of IT branch
+IT,2,Environmental Science,Environmental Science is a subject in semester 2 of IT branch
+IT,3,"Discrete Mathematics, Java Programming, Database Systems, Computer Networks, Operating Systems","Subjects in semester 3 of IT branch are: Discrete Mathematics, Java Programming, Database Systems, Computer Networks, Operating Systems"
+IT,3,Discrete Mathematics,Discrete Mathematics is a subject in semester 3 of IT branch
+IT,3,Java Programming,Java Programming is a subject in semester 3 of IT branch
+IT,3,Database Systems,Database Systems is a subject in semester 3 of IT branch
+IT,3,Computer Networks,Computer Networks is a subject in semester 3 of IT branch
+IT,3,Operating Systems,Operating Systems is a subject in semester 3 of IT branch
+IT,4,"Software Engineering, Web Development, Theory of Computation, Design Patterns, Information Security","Subjects in semester 4 of IT branch are: Software Engineering, Web Development, Theory of Computation, Design Patterns, Information Security"
+IT,4,Software Engineering,Software Engineering is a subject in semester 4 of IT branch
+IT,4,Web Development,Web Development is a subject in semester 4 of IT branch
+IT,4,Theory of Computation,Theory of Computation is a subject in semester 4 of IT branch
+IT,4,Design Patterns,Design Patterns is a subject in semester 4 of IT branch
+IT,4,Information Security,Information Security is a subject in semester 4 of IT branch
+IT,5,"Cloud Computing, Machine Learning, Mobile Application Development, Data Mining, Elective I","Subjects in semester 5 of IT branch are: Cloud Computing, Machine Learning, Mobile Application Development, Data Mining, Elective I"
+IT,5,Cloud Computing,Cloud Computing is a subject in semester 5 of IT branch
+IT,5,Machine Learning,Machine Learning is a subject in semester 5 of IT branch
+IT,5,Mobile Application Development,Mobile Application Development is a subject in semester 5 of IT branch
+IT,5,Data Mining,Data Mining is a subject in semester 5 of IT branch
+IT,5,Elective I,Elective I is a subject in semester 5 of IT branch
+IT,6,"DevOps, Blockchain Technology, Natural Language Processing, Cyber Security, Elective II","Subjects in semester 6 of IT branch are: DevOps, Blockchain Technology, Natural Language Processing, Cyber Security, Elective II"
+IT,6,DevOps,DevOps is a subject in semester 6 of IT branch
+IT,6,Blockchain Technology,Blockchain Technology is a subject in semester 6 of IT branch
+IT,6,Natural Language Processing,Natural Language Processing is a subject in semester 6 of IT branch
+IT,6,Cyber Security,Cyber Security is a subject in semester 6 of IT branch
+IT,6,Elective II,Elective II is a subject in semester 6 of IT branch
+IT,7,"Full Stack Development, AI Applications, Project Management, Elective III, Minor Project","Subjects in semester 7 of IT branch are: Full Stack Development, AI Applications, Project Management, Elective III, Minor Project"
+IT,7,Full Stack Development,Full Stack Development is a subject in semester 7 of IT branch
+IT,7,AI Applications,AI Applications is a subject in semester 7 of IT branch
+IT,7,Project Management,Project Management is a subject in semester 7 of IT branch
+IT,7,Elective III,Elective III is a subject in semester 7 of IT branch
+IT,7,Minor Project,Minor Project is a subject in semester 7 of IT branch
+IT,8,"Major Project, Entrepreneurship, Professional Ethics, Elective IV","Subjects in semester 8 of IT branch are: Major Project, Entrepreneurship, Professional Ethics, Elective IV"
+IT,8,Major Project,Major Project is a subject in semester 8 of IT branch
+IT,8,Entrepreneurship,Entrepreneurship is a subject in semester 8 of IT branch
+IT,8,Professional Ethics,Professional Ethics is a subject in semester 8 of IT branch
+IT,8,Elective IV,Elective IV is a subject in semester 8 of IT branch
+CH,1,"Mathematics I, Physics, Chemistry I, Engineering Drawing, English Communication","Subjects in semester 1 of CH branch are: Mathematics I, Physics, Chemistry I, Engineering Drawing, English Communication"
+CH,1,Mathematics I,Mathematics I is a subject in semester 1 of CH branch
+CH,1,Physics,Physics is a subject in semester 1 of CH branch
+CH,1,Chemistry I,Chemistry I is a subject in semester 1 of CH branch
+CH,1,Engineering Drawing,Engineering Drawing is a subject in semester 1 of CH branch
+CH,1,English Communication,English Communication is a subject in semester 1 of CH branch
+CH,2,"Mathematics II, Chemistry II, Thermodynamics, Fluid Mechanics, Environmental Science","Subjects in semester 2 of CH branch are: Mathematics II, Chemistry II, Thermodynamics, Fluid Mechanics, Environmental Science"
+CH,2,Mathematics II,Mathematics II is a subject in semester 2 of CH branch
+CH,2,Chemistry II,Chemistry II is a subject in semester 2 of CH branch
+CH,2,Thermodynamics,Thermodynamics is a subject in semester 2 of CH branch
+CH,2,Fluid Mechanics,Fluid Mechanics is a subject in semester 2 of CH branch
+CH,2,Environmental Science,Environmental Science is a subject in semester 2 of CH branch
+CH,3,"Chemical Reaction Engineering, Heat Transfer, Mass Transfer, Process Calculations, Mathematics III","Subjects in semester 3 of CH branch are: Chemical Reaction Engineering, Heat Transfer, Mass Transfer, Process Calculations, Mathematics III"
+CH,3,Chemical Reaction Engineering,Chemical Reaction Engineering is a subject in semester 3 of CH branch
+CH,3,Heat Transfer,Heat Transfer is a subject in semester 3 of CH branch
+CH,3,Mass Transfer,Mass Transfer is a subject in semester 3 of CH branch
+CH,3,Process Calculations,Process Calculations is a subject in semester 3 of CH branch
+CH,3,Mathematics III,Mathematics III is a subject in semester 3 of CH branch
+CH,4,"Process Equipment Design, Instrumentation, Chemical Technology, Transport Phenomena, Industrial Chemistry","Subjects in semester 4 of CH branch are: Process Equipment Design, Instrumentation, Chemical Technology, Transport Phenomena, Industrial Chemistry"
+CH,4,Process Equipment Design,Process Equipment Design is a subject in semester 4 of CH branch
+CH,4,Instrumentation,Instrumentation is a subject in semester 4 of CH branch
+CH,4,Chemical Technology,Chemical Technology is a subject in semester 4 of CH branch
+CH,4,Transport Phenomena,Transport Phenomena is a subject in semester 4 of CH branch
+CH,4,Industrial Chemistry,Industrial Chemistry is a subject in semester 4 of CH branch
+CH,5,"Petroleum Refining, Polymer Technology, Process Control, Safety Engineering, Elective I","Subjects in semester 5 of CH branch are: Petroleum Refining, Polymer Technology, Process Control, Safety Engineering, Elective I"
+CH,5,Petroleum Refining,Petroleum Refining is a subject in semester 5 of CH branch
+CH,5,Polymer Technology,Polymer Technology is a subject in semester 5 of CH branch
+CH,5,Process Control,Process Control is a subject in semester 5 of CH branch
+CH,5,Safety Engineering,Safety Engineering is a subject in semester 5 of CH branch
+CH,5,Elective I,Elective I is a subject in semester 5 of CH branch
+CH,6,"Biochemical Engineering, Environmental Engineering, Plant Design, Catalysis, Elective II","Subjects in semester 6 of CH branch are: Biochemical Engineering, Environmental Engineering, Plant Design, Catalysis, Elective II"
+CH,6,Biochemical Engineering,Biochemical Engineering is a subject in semester 6 of CH branch
+CH,6,Environmental Engineering,Environmental Engineering is a subject in semester 6 of CH branch
+CH,6,Plant Design,Plant Design is a subject in semester 6 of CH branch
+CH,6,Catalysis,Catalysis is a subject in semester 6 of CH branch
+CH,6,Elective II,Elective II is a subject in semester 6 of CH branch
+CH,7,"Advanced Process Design, Green Chemistry, Project Management, Elective III, Minor Project","Subjects in semester 7 of CH branch are: Advanced Process Design, Green Chemistry, Project Management, Elective III, Minor Project"
+CH,7,Advanced Process Design,Advanced Process Design is a subject in semester 7 of CH branch
+CH,7,Green Chemistry,Green Chemistry is a subject in semester 7 of CH branch
+CH,7,Project Management,Project Management is a subject in semester 7 of CH branch
+CH,7,Elective III,Elective III is a subject in semester 7 of CH branch
+CH,7,Minor Project,Minor Project is a subject in semester 7 of CH branch
+CH,8,"Major Project, Entrepreneurship, Professional Ethics, Elective IV","Subjects in semester 8 of CH branch are: Major Project, Entrepreneurship, Professional Ethics, Elective IV"
+CH,8,Major Project,Major Project is a subject in semester 8 of CH branch
+CH,8,Entrepreneurship,Entrepreneurship is a subject in semester 8 of CH branch
+CH,8,Professional Ethics,Professional Ethics is a subject in semester 8 of CH branch
+CH,8,Elective IV,Elective IV is a subject in semester 8 of CH branch

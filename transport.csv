@@ -1,0 +1,5 @@
+route,areas,departure,return,fee
+Route 1,"City Center, Bus Stand",7:30 AM,5:00 PM,8000
+Route 2,"Railway Station, Civil Lines",7:45 AM,5:00 PM,9000
+Route 3,"Cantonment, Sadar",7:15 AM,5:15 PM,7500
+Route 4,"Aashiyana, Indira Nagar",7:30 AM,5:00 PM,8500

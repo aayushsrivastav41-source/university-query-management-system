@@ -1,0 +1,5 @@
+lab_name,capacity,systems,software,location
+Computer Lab 1,60,60,"Windows 10, Python, Java, MS Office","Block B, 1st Floor"
+Computer Lab 2,60,60,"Linux, C++, MATLAB","Block B, 2nd Floor"
+Electronics Lab,30,30,"Oscilloscopes, Function Generators","Block C, 1st Floor"
+Mechanical Workshop,40,40,"Lathe, Drilling machines","Block D, Ground Floor"

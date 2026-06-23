@@ -1,0 +1,8 @@
+branch,annual_tuition_fee,hostel_fee,mess_fee,exam_fee,library_fee,total_annual,due_date_sem1,due_date_sem2,payment_mode,late_fine
+CSE,85000,45000,30000,2000,1000,163000,July 31,January 31,Online/DD/Cash,100 per day after due date
+ECE,85000,45000,30000,2000,1000,163000,July 31,January 31,Online/DD/Cash,100 per day after due date
+ME,85000,45000,30000,2000,1000,163000,July 31,January 31,Online/DD/Cash,100 per day after due date
+CE,85000,45000,30000,2000,1000,163000,July 31,January 31,Online/DD/Cash,100 per day after due date
+EE,85000,45000,30000,2000,1000,163000,July 31,January 31,Online/DD/Cash,100 per day after due date
+IT,85000,45000,30000,2000,1000,163000,July 31,January 31,Online/DD/Cash,100 per day after due date
+CH,85000,45000,30000,2000,1000,163000,July 31,January 31,Online/DD/Cash,100 per day after due date
