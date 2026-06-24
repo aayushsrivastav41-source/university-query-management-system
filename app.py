@@ -261,7 +261,7 @@ def query_rag(question, chat_history):
 If it is already in English, return it as is. Return only the question, nothing else.
 Question: {question}"""
     translation = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-120b",
         messages=[{"role": "user", "content": translate_prompt}]
     )
     search_question = translation.choices[0].message.content.strip()
@@ -309,7 +309,7 @@ End with:
 Source: {", ".join(unique_sources)}"""
 
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-120b",
         messages=[{"role": "user", "content": prompt}]
     )
     return response.choices[0].message.content, relevance
